@@ -26,8 +26,8 @@ navbar-links:
  # About Me: "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  More About Me: "aboutme/"
-  News: "aboutme/"
+  More About Me: "_pages/aboutme/"
+  News: "_pages/news/"
   Publications: "mypublications/"  
   Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
