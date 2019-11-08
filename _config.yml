@@ -39,7 +39,7 @@ navbar-links:
     #- Conjectures over Wide Angle SPP over Narrow Angle References: "hotndy.github.io/projects/WideAngleSPP/"
   Research:
     - Highlights: "highlights.html/"
-    - Highlights: "pages/highlights.html/"
+    - Highlights: "index.html"
     - Data & Codes: "pages/data_codes/"
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
     #- My Notes: "Notes/notesIdx/"
