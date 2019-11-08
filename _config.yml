@@ -40,8 +40,8 @@ navbar-links:
   Publications: "mypublications/"  
   
   Resources:
-    - Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
-    - My Notes: "Notes/notesIdx/"
+    #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
+    #- My Notes: "Notes/notesIdx/"
     # - Light Field Depth Estimation: "projects/LFCS/LFCS/"    
   Contact: "mycontact/" 
 
