@@ -37,7 +37,8 @@ navbar-links:
     #- 3D Content Modeling with Deep Learning: "projects/learning3D/"
     #- Multi-scale Sparse Coding: "https://hotndy.github.io/2014-12-27-MSC/"
     #- Conjectures over Wide Angle SPP over Narrow Angle References: "hotndy.github.io/projects/WideAngleSPP/"
-  Resources:
+  Research:
+    - Highlights: "pages/highlights.html"
     - Data & Codes: "pages/data_codes/"
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
     #- My Notes: "Notes/notesIdx/"
