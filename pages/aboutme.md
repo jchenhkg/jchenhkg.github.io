@@ -2,7 +2,7 @@ My name is Chen Jie (陈杰), and I am an assistant professor at the Department 
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Intrests</span></span></p>
 
-My research interests are in computational photography (systems and algorithms for light field/hyperspectral signal acquisition, compressed compressing and compression), computational and machine learning methods for image/video restoration (denoising, vision enhancement, super resolution, motion analysis), and 3D content modeling.
+- computational photography (systems and algorithms for light field/hyperspectral signal acquisition, compressed compressing and compression), computational and machine learning methods for image/video restoration (denoising, vision enhancement, super resolution, motion analysis), and 3D content modeling.
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Profesional Services</span></p>
 
