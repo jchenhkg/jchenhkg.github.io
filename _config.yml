@@ -28,7 +28,7 @@ navbar-links:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   News: "pages/news/"
   
-  More About Me: "_pages/aboutme/"
+  More About Me: "pages/aboutme/"
   
   
   # Research:
