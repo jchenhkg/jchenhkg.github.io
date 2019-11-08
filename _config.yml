@@ -38,7 +38,7 @@ navbar-links:
     #- Multi-scale Sparse Coding: "https://hotndy.github.io/2014-12-27-MSC/"
     #- Conjectures over Wide Angle SPP over Narrow Angle References: "hotndy.github.io/projects/WideAngleSPP/"
   Research:
-    - Highlights: "pages/highlights.html"
+    - Highlights: <a href="pages/highlights.html">Page 2</a>
     - Highlights: "pages/highlights.html/"
     - Data & Codes: "pages/data_codes/"
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
