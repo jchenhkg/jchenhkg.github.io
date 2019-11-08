@@ -17,7 +17,7 @@ baseurl: ""
 title: Chen Jie
 
 # Short description of your site
-description: Welcome to My Home Page
+description: Welcome
 
 # --- Navigation bar options --- #
 
@@ -26,23 +26,25 @@ navbar-links:
  # About Me: "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  News: "pages/news/"
-  
+ 
   More About Me: "pages/aboutme/"
   
-  
+  News: "pages/news/"
+
   # Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
     #- Deep Learning Based Vision Enhancement: "projects/learningVision/"
     #- 3D Content Modeling with Deep Learning: "projects/learning3D/"
     #- Multi-scale Sparse Coding: "https://hotndy.github.io/2014-12-27-MSC/"
     #- Conjectures over Wide Angle SPP over Narrow Angle References: "hotndy.github.io/projects/WideAngleSPP/"
-  Publications: "mypublications/"  
-  
   Resources:
+    - Data & Codes:"pages/data_codes/"
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
     #- My Notes: "Notes/notesIdx/"
-    # - Light Field Depth Estimation: "projects/LFCS/LFCS/"    
+    # - Light Field Depth Estimation: "projects/LFCS/LFCS/"
+    
+  Publications: "mypublications/"  
+      
   Contact: "mycontact/" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
