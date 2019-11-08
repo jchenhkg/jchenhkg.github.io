@@ -38,8 +38,7 @@ navbar-links:
     #- Multi-scale Sparse Coding: "https://hotndy.github.io/2014-12-27-MSC/"
     #- Conjectures over Wide Angle SPP over Narrow Angle References: "hotndy.github.io/projects/WideAngleSPP/"
   Resources:
-    - Data & Codes:"pages/data_codes/"
-    - Light Field Imaging and Applications: "projects/LFGeneral/"
+    - Data & Codes: "pages/data_codes/"
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
     #- My Notes: "Notes/notesIdx/"
     # - Light Field Depth Estimation: "projects/LFCS/LFCS/"
