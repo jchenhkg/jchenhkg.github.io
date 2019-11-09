@@ -349,7 +349,7 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px solid #eee;
 }
 
@@ -387,7 +387,7 @@ footer .theme-by {
 .post-heading .post-meta {
   color: #808080;
   /*color: #2669d6;*/
-  font-size: 16px;
+  font-size: 14px;
   /*font-style: italic;*/
   font-style: normal;
   margin: 0 0 10px;
@@ -657,7 +657,7 @@ footer .theme-by {
 }
 
 .pager {
-  margin: 10px 0 0;
+  margin: 10px 100px 100px;
 }
 
 .pager.blog-pager {
