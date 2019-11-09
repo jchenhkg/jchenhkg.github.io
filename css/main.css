@@ -394,6 +394,7 @@ footer .theme-by {
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+  font-size: 14px; /*added by jake*/
   /*font-family: "Times New Roman", Times, serif;*/
 }
 .post-entry-container {
