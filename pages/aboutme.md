@@ -14,3 +14,6 @@ Conference reviewer for IEEE Conference for Computer Vision and Pattern Recognit
 International Symposium on Circuits and Systems (ISCAS), European Signal Processing Conference
 (EUSIPCO), Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
 (APSIPA ASC), IEEE International Conference on Digital Signal Processing (DSP).
+
+- PC for ACM Multimedia 2019.
+- AC for ICME 2020.
