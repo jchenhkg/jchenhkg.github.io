@@ -375,7 +375,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 14px; /*20 oringially*/
+  font-size: 16px; /*20 oringially*/
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -387,14 +387,14 @@ footer .theme-by {
 .post-heading .post-meta {
   color: #808080;
   /*color: #2669d6;*/
-  font-size: 14px;
+  font-size: 16px;
   /*font-style: italic;*/
   font-style: normal;
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
-  font-size: 14px; /*added by jake*/
+  font-size: 16px; /*added by jake*/
   /*font-family: "Times New Roman", Times, serif;*/
 }
 .post-entry-container {
