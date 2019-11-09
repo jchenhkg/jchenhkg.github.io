@@ -90,7 +90,7 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
-@media only screen and (min-width: 868px) { /*768*/
+@media only screen and (min-width: 768px) { /*868px for the hotndy.github.io*/
   .main-content {
     padding-top: 130px;
   }
