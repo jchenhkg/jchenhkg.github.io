@@ -393,8 +393,8 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/ 
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+  /*font-family: "Times New Roman", Times, serif;*/
 }
 .post-entry-container {
   display: inline-block;
@@ -635,8 +635,8 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*font-family: "Times New Roman", Times, serif;*/
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
