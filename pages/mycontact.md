@@ -8,4 +8,4 @@ layout: page
 <p><strong>Email:&nbsp;</strong>
 chenjie <span style="color:#800080;"><strong>[at]</strong></span> hkbu <span style="color:#800080;"><strong>[dot]</strong></span> edu <span style="color:#800080;"><strong>[dot]</strong></span> hk
 </p>
-<p><strong> Office Address:</strong>&nbsp; Rm Rxxx, Sir Run Run Shaw Building</p>
+<p><strong> Office:</strong>&nbsp; Rm Rxxx, Sir Run Run Shaw Building</p>
