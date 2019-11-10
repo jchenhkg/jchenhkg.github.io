@@ -5,7 +5,7 @@ layout: page
 <p>&nbsp;</p>
 <h1 style="text-align: center;">Contact</h1>
 
-<p><strong>Email:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>chenjie [at] hkbu [dot] edu [dot] hk</p>
-<p><strong>Address:</strong>&nbsp; &nbsp; &nbsp; &nbsp;ST Corplab, ABN-B2a-5,</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Nanyang Technological University,</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Singapore 639798</p>
+<p><strong>Email:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>
+chenjie <span style="color:#800080;"><strong>[at]</strong></span> hkbu <span style="color:#800080;"><strong>[dot]</strong></span> edu <span style="color:#800080;"><strong>[dot]</strong></span> hk
+</p>
+<p><strong> Office Address:</strong>&nbsp; Rm Rxxx, Sir Run Run Shaw Building</p>
