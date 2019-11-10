@@ -9,15 +9,19 @@ show-avatar: false
 -->
 
 ## 2019
+* Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation With Rate-Distortion Optimization," _IEEE Trans. Circuits Syst. Video Techn_, vol. 29, no. 2, pp. 517-530, 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
+* Henry Wing Fung Yeung, Junhui Hou, Xiaoming Chen, **Jie Chen**, Zhibo Chen, and Yuk Ying Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_, novl. 28, no. 5, pp. 2319-2330, 2019.
+* **Jie Chen**, Lap-Pui Chau, and Junhui Hou, "Stratified Labeling for Surface Consistent Parallax Correction and Occlusion Completion," CoRR abs/1903.02688, 2019.
+* Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, and Jingyi Yu, "Learning High-fidelity Light Field Images From Hybrid Inputs," CoRR abs/1907.09640, 2019.
+* Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, Jingyi Yu, "Flexible, Fast and Accurate Densely-Sampled Light Field Reconstruction Network,” CoRR abs/1909.01341, 2019.
 
 ## 2018
 #### _Journal_
 * **Jie Chen**,  Cheen-Hau Tan, Junhui Hou, Lap-Pui. Chau, and He Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' under review in _IEEE Transactions on Pattern Analysis and Machine Intelligence_ **(IEEE TPAMI)**. [[pdf](https://arxiv.org/abs/1804.09555)]
-* Henry W. F. Yeung, Junhui Hou, Xiaoming Chen, **Jie Chen**, Zhibo Chen, and Yuk Ying Chung, "Light Field Spatial Super-Resolution Using Deep Spatial-Angular Interleaved CNN,'' under _major revision_ in _IEEE Transactions on Image Processing_ **(IEEE TIP)**.  
 * **Jie Chen**, Junhui Hou, and Lap-Pui. Chau, "Light Field Denoising via Anisotropic Parallax Analysis in a CNN Framework,'' _IEEE Signal Processing Letters_ **(IEEE SPL)**, vol. 25, no. 9, pp. 1403-1407, 2018. [[pdf](https://arxiv.org/abs/1805.12358)\] [[code](https://github.com/hotndy/APA-LFDenoising)] 
 * Yun Ni, **Jie Chen**, and Lap-Pui Chau, "Reflection Removal On Single Light Field Capture With Focus Manipulation,'' accepted by _IEEE Transactions on Computational Imaging_ **(IEEE TCI)**. [[pdf](https://ieeexplore.ieee.org/document/8421062/)]
 * **Jie Chen**, Junhui Hou, Yun Ni, and Lap-Pui. Chau, "Accurate Light Field Depth Estimation with Superpixel Regularization over Partially Occluded Regions,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 27, no. 10, pp. 4889-4900, 2018. [[pdf](https://arxiv.org/abs/1708.01964)] [[code](https://github.com/hotndy/LFDepth_POBR)]    
-* Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation with Rate Distortion Optimization,'' _IEEE Transactions on Circuits and Systems for Video Technology_ **(IEEE TCSVT)**, 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
+* Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation with Rate Distortion Optimization,'' _IEEE Transactions on Circuits and Systems for Video Technology_ **(IEEE TCSVT)**, 2018. 
 * Shaohui Mei, Junhui Hou, **Jie Chen**, Lap-Pui Chau, and Qian Du, "Simultaneous Spatial and Spectral Low-Rank Representation of Hyperspectral Images for Classification,'' _IEEE Transactions on Geoscience and Remote Sensing_ **(IEEE TGARS)**, vol. 56, no. 5, pp. 2872-2886, 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8248629/)]
 * **Jie Chen**, Junhui Hou, and Lap-Pui Chau, "Light Field Compression with Disparity Guided Sparse Coding based on Structural Key Views,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 27, no. 1, pp. 314-324, 2018. [[pdf](http://ieeexplore.ieee.org/document/8030107/)] [[data](https://github.com/hotndy/SC-SKV)]
   
