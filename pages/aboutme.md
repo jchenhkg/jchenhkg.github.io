@@ -2,11 +2,13 @@ My name is Chen Jie (陈杰), and I am an assistant professor at the Department 
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Intrests</span></span></p>
 
-- computational photography (systems and algorithms for light field/hyperspectral signal acquisition, compressed compressing and compression), computational and machine learning methods for image/video restoration (denoising, vision enhancement, super resolution, motion analysis), and 3D content modeling.
+- Computational Photography (Light fields, HDR+, Computational Tomography)
+- Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
+- Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Profesional Services</span></p>
 
-Journal reviewer for IEEE Transactions on Image Processing (TIP), IEEE Transactions on
+Frequent journal reviewer for IEEE Transactions on Image Processing (TIP), IEEE Transactions on
 Computational Imaging (TCI), ACM Transactions on Graphics (TOG), IEEE Transactions on
 Broadcasting (TOB), Journal of Visual Communication and Image Representation, Elsevier (JVCI), and
 IET Image Processing (IETIP), and Multimedia Tools and Applications, Springer (MTAP)
@@ -14,6 +16,3 @@ Conference reviewer for IEEE Conference for Computer Vision and Pattern Recognit
 International Symposium on Circuits and Systems (ISCAS), European Signal Processing Conference
 (EUSIPCO), Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
 (APSIPA ASC), IEEE International Conference on Digital Signal Processing (DSP).
-
-- PC for ACM Multimedia 2019.
-- AC for ICME 2020.
