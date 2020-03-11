@@ -15,11 +15,14 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 - ACM Multimedia 2019, Seattle, United States (PC)
 - EUSIPCO 2018, Rome, Italy (PC)
 
-Frequent journal reviewer for IEEE Transactions on Image Processing (TIP), IEEE Transactions on
-Computational Imaging (TCI), ACM Transactions on Graphics (TOG), IEEE Transactions on
-Broadcasting (TOB), Journal of Visual Communication and Image Representation, Elsevier (JVCI), and
-IET Image Processing (IETIP), and Multimedia Tools and Applications, Springer (MTAP)
-Conference reviewer for IEEE Conference for Computer Vision and Pattern Recognition (CVPR), IEEE
-International Symposium on Circuits and Systems (ISCAS), European Signal Processing Conference
-(EUSIPCO), Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
-(APSIPA ASC), IEEE International Conference on Digital Signal Processing (DSP).
+<p><span style="font-family: georgia, serif; font-size: 20px;">Conference/Journal Reviewer</span></p>
+
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Computational Imaging (TCI)
+- ACM Transactions on Graphics (TOG)
+- IEEE Transactions on Broadcasting (TOB)
+- Journal of Visual Communication and Image Representation, Elsevier (JVCI)
+- IET Image Processing (IETIP)
+- Multimedia Tools and Applications, Springer (MTAP)
+- CVPR (19',20')
+- ICCV (19')
