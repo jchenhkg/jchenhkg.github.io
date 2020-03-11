@@ -8,6 +8,8 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
+## 2020
+* Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
 
 ## 2019
 * Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation With Rate-Distortion Optimization," _IEEE Trans. Circuits Syst. Video Techn_, vol. 29, no. 2, pp. 517-530, 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
