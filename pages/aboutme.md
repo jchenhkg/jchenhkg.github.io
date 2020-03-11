@@ -1,5 +1,3 @@
-My name is Chen Jie （陳杰）, and I am an assistant professor at the Department of Computer Science, Hong Kong Baptist Univresity. Before joining HKBU, I was a senior algorithm engineer at Omnivision Technologies Inc. Singapore, focusing on next generation HDR solutions. Before that, I was a research fellow at ST Engineering-NTU Corporate Laboratory, Singapore. I received the B.S. and the M. Eng degree both from School of Optical and Electronic Information, Huazhong University of Science and Technology, China, and the Ph.D. degree in the School of Electrical & Electronic Engineering, Nanyang Technological University, Singapore.
-
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
 
 - Computational Photography (Light fields, HDR+, Computational Tomography)
@@ -28,3 +26,6 @@ My name is Chen Jie （陳杰）, and I am an assistant professor at the Departm
 - Multimedia Tools and Applications, Springer (MTAP)
 - CVPR (19',20')
 - ICCV (19')
+
+<p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
+Under-construction.
