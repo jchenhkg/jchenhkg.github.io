@@ -7,10 +7,11 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 - Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
-<p><span style="font-family: georgia, serif; font-size: 22px;">Professional Services</span></p>
+
+<p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 - Associate Editor for The Springer Visual Computer Journal
 
-# Conference Services
+Conference Services
 
 Frequent journal reviewer for IEEE Transactions on Image Processing (TIP), IEEE Transactions on
 Computational Imaging (TCI), ACM Transactions on Graphics (TOG), IEEE Transactions on
