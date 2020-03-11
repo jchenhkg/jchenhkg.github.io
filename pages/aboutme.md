@@ -14,8 +14,8 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 
 **Conference Organisation**
 - ICME 2020, London, United Kingdom (Aera Chair)
-- ACM Multimedia 2019, Seattle, United States (PC)
-- EUSIPCO 2018, Rome, Italy (PC)
+- ACM Multimedia 2019, Seattle, United States (TPC Member)
+- EUSIPCO 2018, Rome, Italy (TPC Member)
 
 **Conference/Journal Reviewer**
 - IEEE Transactions on Image Processing (TIP)
