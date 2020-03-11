@@ -7,8 +7,8 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 - Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
-## Journal Editorship
-### Associate Editor for The Springer Visual Computer Journal
+###### Journal Editorship
+####### Associate Editor for The Springer Visual Computer Journal
 
 # Conference Services
 
