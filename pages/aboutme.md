@@ -8,23 +8,22 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
-- Editorship
+**Editorship**
 
--- Associate Editor for The Springer Visual Computer Journal
+- Associate Editor for The Springer Visual Computer Journal
 
-- Conference Organisation
--- ICME 2020, London, United Kingdom (Aera Chair)
--- ACM Multimedia 2019, Seattle, United States (PC)
--- EUSIPCO 2018, Rome, Italy (PC)
+**Conference Organisation**
+- ICME 2020, London, United Kingdom (Aera Chair)
+- ACM Multimedia 2019, Seattle, United States (PC)
+- EUSIPCO 2018, Rome, Italy (PC)
 
-- Conference/Journal Reviewer
-
--- IEEE Transactions on Image Processing (TIP)
--- IEEE Transactions on Computational Imaging (TCI)
--- ACM Transactions on Graphics (TOG)
--- IEEE Transactions on Broadcasting (TOB)
--- Journal of Visual Communication and Image Representation, Elsevier (JVCI)
--- IET Image Processing (IETIP)
--- Multimedia Tools and Applications, Springer (MTAP)
--- CVPR (19',20')
--- ICCV (19')
+**Conference/Journal Reviewer**
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Computational Imaging (TCI)
+- ACM Transactions on Graphics (TOG)
+- IEEE Transactions on Broadcasting (TOB)
+- Journal of Visual Communication and Image Representation, Elsevier (JVCI)
+- IET Image Processing (IETIP)
+- Multimedia Tools and Applications, Springer (MTAP)
+- CVPR (19',20')
+- ICCV (19')
