@@ -10,10 +10,10 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 <p><span style="font-family: georgia, serif; font-size: 20px;">Editorship</span></p>
 - Associate Editor for The Springer Visual Computer Journal
 
-<p><span style="font-family: georgia, serif; font-size: 20px;">Conference Organisation</span></p>
-- ICME 2020, London, United Kingdom (Aera Chair)
-- ACM Multimedia 2019, Seattle, United States (PC)
-- EUSIPCO 2018, Rome, Italy (PC)
+- Conference Organisation
+-- ICME 2020, London, United Kingdom (Aera Chair)
+-- ACM Multimedia 2019, Seattle, United States (PC)
+-- EUSIPCO 2018, Rome, Italy (PC)
 
 <p><span style="font-family: georgia, serif; font-size: 20px;">Conference/Journal Reviewer</span></p>
 
