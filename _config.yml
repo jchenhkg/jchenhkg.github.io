@@ -29,7 +29,9 @@ navbar-links:
  
   More About Me: "pages/aboutme/"
   
-  News: "pages/news/"
+  Publications: "pages/mypublications/"  
+  
+  Oppotunities: "pages/news/"
 
   # Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
@@ -43,9 +45,7 @@ navbar-links:
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
     #- My Notes: "Notes/notesIdx/"
     # - Light Field Depth Estimation: "projects/LFCS/LFCS/"
-    
-  Publications: "pages/mypublications/"  
-      
+         
   Contact: "pages/mycontact/" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
