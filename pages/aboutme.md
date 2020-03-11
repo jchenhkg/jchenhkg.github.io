@@ -13,6 +13,7 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 - Associate Editor for The Springer Visual Computer Journal
 
 **Conference Organisation**
+- VCIP 2020, Hong Kong, China (Grand Challenge Co-Chair)
 - ICME 2020, London, United Kingdom (Aera Chair)
 - ACM Multimedia 2019, Seattle, United States (TPC Member)
 - EUSIPCO 2018, Rome, Italy (TPC Member)
