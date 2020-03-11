@@ -7,11 +7,13 @@ My name is Chen Jie (陳杰), and I am an assistant professor at the Department 
 - Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
-
-<p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
+<p><span style="font-family: georgia, serif; font-size: 20px;">Editorship</span></p>
 - Associate Editor for The Springer Visual Computer Journal
 
-Conference Services
+<p><span style="font-family: georgia, serif; font-size: 20px;">Conference Organisation</span></p>
+- ICME 2020, London, United Kingdom (Aera Chair)
+- ACM Multimedia 2019, Seattle, United States (PC)
+- EUSIPCO 2018, Rome, Italy (PC)
 
 Frequent journal reviewer for IEEE Transactions on Image Processing (TIP), IEEE Transactions on
 Computational Imaging (TCI), ACM Transactions on Graphics (TOG), IEEE Transactions on
