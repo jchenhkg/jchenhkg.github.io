@@ -35,9 +35,9 @@
 - Journal of Visual Communication and Image Representation, Elsevier (JVCI)
 - IET Image Processing (IETIP)
 - Multimedia Tools and Applications, Springer (MTAP)
-- CVPR (19',20')
-- ICCV (19')
-- ECCV (20')
+- CVPR [19',20']
+- ICCV [19']
+- ECCV [20']
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 Under-construction.
