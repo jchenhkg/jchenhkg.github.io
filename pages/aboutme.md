@@ -1,8 +1,3 @@
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
-
-- Computational Photography (Light fields, HDR+, Computational Tomography)
-- Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
-- Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic & Work Experiences</span></span></p>
 
@@ -13,6 +8,12 @@
 - Post-doctoral Research Fellow, ST Engineering-NTU Corporate Laboratory, Singapore
 - Senior Algorithm Engineer, [Omnivision Technologies Inc.](https://www.ovt.com/), Singapore
 - Assistant Professor, [Department of Computer Science](https://www.comp.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong
+
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
+
+- Computational Photography (Light fields, HDR+, Computational Tomography)
+- Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
+- Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
