@@ -11,5 +11,5 @@ chenjie <span style="color:#800080;"><strong>[at]</strong></span> comp <span sty
 
 <p><strong> Work:</strong>&nbsp; +852-3411-7093 &nbsp;&nbsp;&nbsp; <strong> Fax:</strong>&nbsp; +852-3411-7892 </p>
 
-<p><strong> Office: Room 642, David C. Lam Building, Kowloon Tong, Kowloon, Hong Kong</p>
+<p><strong> Office:</strong> Room 642, David C. Lam Building, Kowloon Tong, Kowloon, Hong Kong</p>
 
