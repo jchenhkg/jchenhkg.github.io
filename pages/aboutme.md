@@ -17,7 +17,7 @@
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
 **Editorship**
-- Associate Editor for The Springer Visual Computer Journal
+- Associate Editor for [The Visual Computer Journal, Springer](https://www.editorialmanager.com/tvcj/)
 
 **Conference Organisation**
 - ACM Multimedia 2020, Nice, Seattle, United States (TPC Member)
