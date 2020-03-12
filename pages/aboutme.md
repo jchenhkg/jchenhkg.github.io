@@ -12,7 +12,7 @@
 - Ph.D., [School of Electrical and Electronic Engineering](http://www.eee.ntu.edu.sg/), [Nanyang Technological University](http://www.eee.ntu.edu.sg/), Singapore (advised by Assoc. Prof Lap-Pui Chau)
 - Post-doctoral Research Fellow, ST Engineering-NTU Corporate Laboratory, Singapore
 - Senior Algorithm Engineer, Omnivision Technologies Inc., Singapore
-- Assistant Professor, Department of Computer Science, Hong Kong Baptist University, Hong Kong
+- Assistant Professor, [Department of Computer Science](https://www.comp.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
