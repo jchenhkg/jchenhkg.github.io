@@ -9,7 +9,7 @@ layout: page
 chenjie <span style="color:#800080;"><strong>[at]</strong></span> comp <span style="color:#800080;"><strong>[dot]</strong></span> hkbu <span style="color:#800080;"><strong>[dot]</strong></span> edu <span style="color:#800080;"><strong>[dot]</strong></span> hk
 </p>
 
-<p><strong> Work:</strong>&nbsp; +852-3411-7093 &nbsp;&nbsp;&nbsp; <strong> Fax:</strong>&nbsp; +852-3411-7892</p>
+<p><strong> Work:</strong>&nbsp; +852-3411-<span style="color:#800080;"><strong>7093</strong></span> &nbsp;&nbsp;&nbsp; <strong> Fax:</strong>&nbsp; +852-3411-<span style="color:#800080;"><strong>7892</strong></span></p>
 
-<p><strong> Office:</strong>&nbsp; Room 642, David C. Lam Building, Kowloon Tong, Kowloon, Hong Kong</p>
+<p><strong> Office:</strong>&nbsp; Room <span style="color:#800080;"><strong>642</strong></span>, David C. Lam Building, Kowloon Tong, Kowloon, Hong Kong</p>
 
