@@ -17,17 +17,17 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
-&nbsp; &nbsp; &nbsp; **Editorship**
+&nbsp; &nbsp; &nbsp; **__Editorship__**
 - Associate Editor for [The Visual Computer Journal, Springer](https://www.editorialmanager.com/tvcj/)
 
-&nbsp; &nbsp; &nbsp; **Conference Organisation**
+&nbsp; &nbsp; &nbsp; **__Conference Organisation__**
 - ACM Multimedia 2020, Nice, Seattle, United States (TPC Member)
 - VCIP 2020, Macau, China (Grand Challenge Chair)
 - ICME 2020, London, United Kingdom (Area Chair)
 - ACM Multimedia 2019, France (TPC Member)
 - EUSIPCO 2018, Rome, Italy (TPC Member)
 
-&nbsp; &nbsp; &nbsp; **Conference/Journal Reviewer**
+&nbsp; &nbsp; &nbsp; **__Conference/Journal Reviewer__**
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Computational Imaging (TCI)
 - ACM Transactions on Graphics (TOG)
