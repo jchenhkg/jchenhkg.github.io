@@ -20,14 +20,14 @@
 &nbsp; &nbsp; &nbsp; **Editorship**
 - Associate Editor for [The Visual Computer Journal, Springer](https://www.editorialmanager.com/tvcj/)
 
-**Conference Organisation**
+&nbsp; &nbsp; &nbsp; **Conference Organisation**
 - ACM Multimedia 2020, Nice, Seattle, United States (TPC Member)
 - VCIP 2020, Hong Kong, China (Grand Challenge Co-Chair)
 - ICME 2020, London, United Kingdom (Area Chair)
 - ACM Multimedia 2019, France (TPC Member)
 - EUSIPCO 2018, Rome, Italy (TPC Member)
 
-**Conference/Journal Reviewer**
+&nbsp; &nbsp; &nbsp; **Conference/Journal Reviewer**
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Computational Imaging (TCI)
 - ACM Transactions on Graphics (TOG)
