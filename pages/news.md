@@ -5,7 +5,7 @@ use-site-title: false
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Oppotunities</span></p>
 
-###Oppotunities
+### ppotunities
 
 <p><span style="color:#800080; font-size: 16px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: justify;">
 [<strong>opening!</strong>]</span> 
