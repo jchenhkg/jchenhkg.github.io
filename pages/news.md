@@ -2,8 +2,7 @@
 layout: page
 show-avatar: false
 ---
-Really?
-
+.
 ### Oppotunities
 - <p><span style="color:#800080; font-size: 16px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: justify;"> [<strong>opening!</strong>] </span> 
 I am looking for self-motivated PhD/MPhil/Visiting students (2020 Sping/Autumn) who has aspirations in working out vision problems 
