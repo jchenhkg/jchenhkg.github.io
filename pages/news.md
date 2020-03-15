@@ -1,6 +1,6 @@
 ---
 layout: page
-use-site-title: false
+show-avatar: false
 ---
 
 ### Oppotunities
