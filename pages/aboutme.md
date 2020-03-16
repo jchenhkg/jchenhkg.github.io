@@ -17,7 +17,7 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
-&nbsp; &nbsp; &nbsp; <p><span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Editorship</span></span></strong></span></p>
+<p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Editorship</span></span></strong></span></p>
 - Associate Editor for [The Visual Computer Journal, Springer](https://www.editorialmanager.com/tvcj/)
 
 &nbsp; &nbsp; &nbsp; **Conference Organisation**
