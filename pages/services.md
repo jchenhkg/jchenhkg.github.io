@@ -15,7 +15,7 @@
 - _IEEE Transactions on Computational Imaging_ (**TCI**)
 - _ACM Transactions on Graphics_ (**TOG**)
 - _IEEE Transactions on Broadcasting_ (**TOB**)
-- _The Journal of Visual Computer, Springer_ (**TJVC**)
+- _The Visual Computer Journal, Springer_ (**TJVC**)
 - _IET Image Processing_ (**IETIP**)
 - _Multimedia Tools and Applications, Springer_ (**MTAP**)
 - **CVPR** [19',20']
