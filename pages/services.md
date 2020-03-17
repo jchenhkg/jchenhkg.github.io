@@ -4,13 +4,13 @@
 - Associate Editor for [The Visual Computer Journal, Springer](https://www.editorialmanager.com/tvcj/)
 
 <p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Conference Organisation</span></span></strong></span></p>
-- ACM Multimedia 2020, Nice, Seattle, United States (TPC Member)
-- VCIP 2020, Macau, China (Grand Challenge Chair)
-- ICME 2020, London, United Kingdom (Area Chair)
-- ACM Multimedia 2019, France (TPC Member)
-- EUSIPCO 2018, Rome, Italy (TPC Member)
+- **Programme Committee Member**, ACM International Conference on Multimedia (**ACM MM**) 2020, Nice, Seattle, United States
+- **Grand Challenge Chair**, IEEE International Conference on Visual Communications and Image Processing (**VCIP**) 2020, Macau, China
+- **Area Chair**, IEEE International Conference on Multimedia & Expo (**ICME**) 2020, London, United Kingdom
+- **Programme Committee Member**, ACM International Conference on Multimedia (**ACM MM**) 2019, France
+- **Programme Committee Member**, European Signal Processing Conference (**EUSIPCO**) 2018, Rome, Italy
 
-<p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Conference/Journal Reviewer</span></span></strong></span></p>
+<p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Conference/Journal Referee</span></span></strong></span></p>
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Computational Imaging (TCI)
 - ACM Transactions on Graphics (TOG)
