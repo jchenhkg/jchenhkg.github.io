@@ -7,7 +7,7 @@
 - **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2020, Seattle, United States
 - **Grand Challenge Chair**, _IEEE International Conference on Visual Commu. and Image Proc._ (**VCIP**) 2020, Macau, China
 - **Area Chair**, _IEEE International Conference on Multimedia & Expo_ (**ICME**) 2020, London, United Kingdom
-- **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2019, France
+- **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2019, Nice, France
 - **Programme Committee**, _European Signal Processing Conference_ (**EUSIPCO**) 2018, Rome, Italy
 
 <p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Conference/Journal Referee</span></span></strong></span></p>
