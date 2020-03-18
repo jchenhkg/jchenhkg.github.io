@@ -2,7 +2,7 @@
 
 <p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Editorial Services</span></span></strong></span></p>
 
-<p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></span></strong></p>
+<p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Editorial Services</span></strong></span></p>
 
 - Associate Editor for [The Visual Computer Journal, Springer](https://www.editorialmanager.com/tvcj/)
 
