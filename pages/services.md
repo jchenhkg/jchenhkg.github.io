@@ -1,9 +1,11 @@
 <p><span style="font-family: georgia, serif; font-size: 26px;">Professional Services</span></p>
 
-<p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Editorship</span></span></strong></span></p>
+<p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Editorial Services</span></span></strong></span></p>
+
 - Associate Editor for [The Visual Computer Journal, Springer](https://www.editorialmanager.com/tvcj/)
 
 <p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Conference Organisation</span></span></strong></span></p>
+
 - **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2020, Seattle, United States
 - **Grand Challenge Chair**, _IEEE International Conference on Visual Commu. and Image Proc._ (**VCIP**) 2020, Macau, China
 - **Area Chair**, _IEEE International Conference on Multimedia & Expo_ (**ICME**) 2020, London, United Kingdom
@@ -11,6 +13,7 @@
 - **Programme Committee**, _European Signal Processing Conference_ (**EUSIPCO**) 2018, Rome, Italy
 
 <p>&nbsp; &nbsp; &nbsp; <span style="font-size: 18px;"><strong><span style="text-decoration: underline;"><span style="font-family: georgia, serif;">Conference/Journal Referee</span></span></strong></span></p>
+
 - _IEEE Transactions on Image Processing_ (**TIP**)
 - _IEEE Transactions on Computational Imaging_ (**TCI**)
 - _ACM Transactions on Graphics_ (**TOG**)
