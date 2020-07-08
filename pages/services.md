@@ -6,6 +6,7 @@
 
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Conference Organisation</span></strong></span></p>
 
+- **Area Chair**, _IEEE International Conference on Visual Commu. and Image Proc._ (**VCIP**) 2020, Macau, China
 - **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2020, Seattle, United States
 - **Grand Challenge Chair**, _IEEE International Conference on Visual Commu. and Image Proc._ (**VCIP**) 2020, Macau, China
 - **Area Chair**, _IEEE International Conference on Multimedia & Expo_ (**ICME**) 2020, London, United Kingdom
