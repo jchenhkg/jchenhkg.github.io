@@ -20,4 +20,4 @@
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
 - YANG, Xingxing (BSc. UESTC, PhD student since 2020)
-- XING, Wenpeng (BEng. HIT, PGDip. U Limerick, PhD student since 2020)
+- XING, Wenpeng (BEng. HIT, PGDip. U Limerick, MPhil/PhD student since 2020)
