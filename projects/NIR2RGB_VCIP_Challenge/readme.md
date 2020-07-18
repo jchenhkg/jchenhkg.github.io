@@ -71,7 +71,7 @@ where Iout and Igt represents RGB colorization results and the ground truth.
 
 ![](http://jchenhkg.github.io/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg | width=100)
 
-<p><img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="36" /></p>
+Hello this is just testing inline <p><img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="24" /></p> gt images.
 
 ### Subjective Metrics
 
