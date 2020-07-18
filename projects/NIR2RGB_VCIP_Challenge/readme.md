@@ -60,20 +60,11 @@ We are going to use Angular Error (AE), Peak Signal-to-Noise Ratio (PSNR), and S
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
 
-Here <div><img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="36" /></div> and ![](/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg)  represents RGB colorization results and the ground truth.
+Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" width="24"/> and <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="24" /> represents RGB colorization results and the ground truth. AE is calculated according to the euqation below, which provides a color similarity measure close to human color perception:
 
-
-
-AE is calculated according to the euqation below, which provides a color similarity measure close to human color perception:
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
 
-where Iout and Igt represents RGB colorization results and the ground truth.
 
-![](| width=100)
-
-Hello this is just testing inline <p><img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="24" /></p> gt images.
-
-What do you mean by that <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="26" /> HTML Cleaning
 
 ### Subjective Metrics
 
