@@ -71,6 +71,8 @@ where Iout and Igt represents RGB colorization results and the ground truth.
 
 ![](http://jchenhkg.github.io/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg | width=100)
 
+<p><img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="36" /></p>
+
 ### Subjective Metrics
 
 As we found both the AE and PSNR and SSIM index can not comprehensively reflect the visual quality of the colorization performance, we will also rank the subjective visual quality for the challenge. Subjective comparison will be conducted in a nonreference manner, a group of judges (approximately 10) who do not know the ground truth color
