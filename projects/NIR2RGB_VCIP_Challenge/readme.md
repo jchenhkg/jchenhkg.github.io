@@ -1,5 +1,5 @@
 
-<h1><strong>VCIP Grand Challenges on NIR Image Colorization</strong></h1>
+# VCIP Grand Challenges on NIR Image Colorization
 
 ## Challenge Motivation
 NIR (Near-Infrared) imaging provides a unique vision with respect to illumination and object material properties which are quite different from those in visible wavelength bands. The high sensitivity of NIR sensors and the fact that it is invisible to human vision make it an indispensable input for applications such as low-light imaging, night vision surveillance and road navigation, etc. However, the monochromatic NIR images lacks color discrimination and severely differ from the well-known RGB spectrum, which makes them unnatural and unfamiliar for both human perception and for CV algorithms.
