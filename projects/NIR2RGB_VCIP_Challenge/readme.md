@@ -10,9 +10,10 @@ This challenge call for development of efficient algorithms to colorize NIR imag
 In this challenge, we will provide both registered NIR-RGB image pairs as well as un-paired RGB images on several categories of scene contents for the training and testing of colorization models (as shown in Fig. 1). Both objective metrics (e.g., Peak Signal to Noise Ratio, Structural Similarity Index, Angular Color Error, etc.) and subjective evaluations (non-reference visual quality human ranking) will be carried out to comprehensively evaluate competing algorithms. The details of the dataset and the evaluation protocols will be available soon.
 
 ## Challenge Dataset
-We are going to provide two datasets for the training/validation of the colorization models. The EPFL RGB-NIR Scene Dataset [1] which contains 477 image pairs with resolution of 1024680 (some might vary) captured from 9 categories of scenes including: country, field, forest, indoor, mountain, old building, street, urban, and water. The pixels are registered and aligned. We have already received consent from the EPFL image dataset authors [1] to use the dataset for our
-challenge.
-**On** top of paired data, we also provide a RGB image dataset that fall under 4 image categories for the challenge in Track 2. The NIR and RGB images are targeted at different scenes without pixel alignments. The thumbnails for the two datasets are shown in Fig. 1 and Fig. 2.
+
+The challenge dataset provides NIR and RGB images for the training and validation of models. The structure of the dataset is shown bellow. There are two types of data in the dataset:
+### Pixel-aligned NIR RGB Image Pairs
+The subfolder **NIR** and **RGB-Resgistered** contains pixel-aligned (registered) NIR-RGB image pairs. The source of the images are from [1]. We have manually excluded ones that contain saturated regions, and temporally inconsistent contents. The images are croped and resized into 256\*256 patches
 
 ```bash
 ├── NIR_VCIP_Challenge_dataset
@@ -38,9 +39,14 @@ challenge.
 │   │   ├── validation_0000_nir.png
 │   │   ├── validation_0000_rgb.png
 │   │   ├── ...
-│   │   ├── validation_0009_rgb.png
+│   │   ├── validation_0009_nir.png
 │   │   ├── validation_0009_rgb.png
 ```
+The dataset contains the foloowing subfolders,  which includes both pixel aligned (registered) NIR-RGB image pairs, and un-registered RGB images.
+
+We are going to provide two datasets for the training/validation of the colorization models. The EPFL RGB-NIR Scene Dataset [1] which contains 477 image pairs with resolution of 1024680 (some might vary) captured from 9 categories of scenes including: country, field, forest, indoor, mountain, old building, street, urban, and water. The pixels are registered and aligned. We have already received consent from the EPFL image dataset authors [1] to use the dataset for our
+challenge.
+**On** top of paired data, we also provide a RGB image dataset that fall under 4 image categories for the challenge in Track 2. The NIR and RGB images are targeted at different scenes without pixel alignments. The thumbnails for the two datasets are shown in Fig. 1 and Fig. 2.
 
 
 ## Evaluation Metric
