@@ -18,6 +18,7 @@ On top of paired data, we also provide a RGB image dataset that fall under 4 ima
 ### Objective Metrics
 
 We are going to use Angular Error (AE) and Peak Signal-to-Noise Ratio (PSNR) as quantitative metrics to evaluate the colorization results. AE provides a color similarity measure instead of absolute intensity values (measured by PSNR), which is closer to human color perception. AE is defined as:
+
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 where (Io(i; j)) represents pixels in colorized images, and Ig(i; j)) represents RGB ground truth.
