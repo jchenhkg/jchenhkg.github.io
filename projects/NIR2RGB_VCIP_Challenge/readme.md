@@ -30,7 +30,7 @@ To more comprehensively reflect the visual quality of the colorization performan
 - **_Semantic correctness and color realism_: 10%** (judges will evaluate on whether the colors are conforming to the real world scenrios);
 - **_Boundary precision_: 10%** (whether the object boudnaries are cleanly separated without "bleeding" effects);
 - **_Texture preservation_: 10%** (how well the textures are preserved after colorization):;
-- **_Instance consistency_: 10%** (whether the same object instance are colored consistently);
+- **_Instance consistency_: 10%** (whether the same object instance are colored consistently without wrong variations);
 - **_Color vividness_: 10%**.
 
 
