@@ -11,9 +11,9 @@ This challenge call for development of efficient algorithms to colorize NIR imag
 In this challenge, we will provide both registered NIR-RGB image pairs as well as un-paired RGB images on several categories of scene contents for the training and testing of colorization models (as shown in Fig. 1). Both objective metrics (e.g., Peak Signal to Noise Ratio, Structural Similarity Index, Angular Color Error, etc.) and subjective evaluations (non-reference visual quality human ranking) will be carried out to comprehensively evaluate competing algorithms. The details of the dataset and the evaluation protocols will be available soon.
 
 ## Evaluation Metrics
-### 1. Objective Evaluation
+### 1. Objective Evaluation 50%
 
-We are going to use Angular Error (**AE**), Peak Signal-to-Noise Ratio (**PSNR**), and Structural Similiarty (**SSIM**) [2] as quantitative metrics to evaluate the colorization results. The PSNR value is calculated according to:
+We are going to use Angular Error (**AE：10%**), Peak Signal-to-Noise Ratio (**PSNR：10%**) and Structural Similiarty (**SSIM：10%**) [2] as quantitative metrics to evaluate the colorization results. The PSNR value is calculated according to:
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
 
@@ -21,14 +21,14 @@ Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and 
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
 
-### 2. Subjective Evaluation
+### 2. Subjective Evaluation 50%
 
 As both **AE**, **PSNR** and **SSIM** can not comprehensively reflect the visual quality of the colorization performance, we will also rank the visual quality for competing algorithms. Subjective comparison will be conducted in a nonreference manner, a group of judges (10+ individuals) who do not know the ground truth RGB images are to evaluate the colorization results, and rank the algorithms based on the visual quality based on the following standards:
-- Semantic correctness and color realism (judges will evaluate on whether the colors are conforming to the real world scenrios);
-- Boundary precision (whether the object boudnaries are cleanly separated without "bleeding" effects);
-- Texture preservation (how well the textures are preserved after colorization);
-- Instance consistency (whether the same object instance are colored consistently);
-- Color vividness (judges will rank the colorfulness and vivide).
+- **Semantic correctness and color realism: 10%** (judges will evaluate on whether the colors are conforming to the real world scenrios);
+- **Boundary precision: 10%** (whether the object boudnaries are cleanly separated without "bleeding" effects);
+- **Texture preservation: 10%** (how well the textures are preserved after colorization):;
+- **Instance consistency: 10%** (whether the same object instance are colored consistently);
+- **Color vividness: 10%**.
 
 
 ## Challenge Dataset
