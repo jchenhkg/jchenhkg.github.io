@@ -50,10 +50,7 @@ The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image p
 ```
 The dataset contains the foloowing subfolders,  which includes both pixel aligned (registered) NIR-RGB image pairs, and un-registered RGB images.
 
-We are going to provide two datasets for the training/validation of the colorization models. The EPFL RGB-NIR Scene Dataset [1] which contains 477 image pairs with resolution of 1024680 (some might vary) captured from 9 categories of scenes including: country, field, forest, indoor, mountain, old building, street, urban, and water. The pixels are registered and aligned. We have already received consent from the EPFL image dataset authors [1] to use the dataset for our
-challenge.
-**On** top of paired data, we also provide a RGB image dataset that fall under 4 image categories for the challenge in Track 2. The NIR and RGB images are targeted at different scenes without pixel alignments. The thumbnails for the two datasets are shown in Fig. 1 and Fig. 2.
-
+**Terms of Use** all data provided by the VCIP challenge are freely available to the participants. The data are available only for open research and educational purposes, whithin the scope of the challenge. The conference organizing comittee makes no warranties regarding the dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose. The copyright of the images remains property of their respective owners. By downloading and making use of the data, you accept full responsibility for using the data.
 
 ## Evaluation Metric
 ### Objective Metrics
