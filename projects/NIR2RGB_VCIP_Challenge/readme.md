@@ -45,7 +45,7 @@ The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image p
 ### 4. Testing Dataset
 The testing dataset will not be publically available until after the final evaluations of the challenge. The testing images will be NIR images of resolution 256\*256. 
 
-<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/dataset.jpg" width="420" /></div>
+<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/Dataset.jpg" width="420" /></div>
 
 ```bash
 ├── NIR_VCIP_Challenge_dataset
