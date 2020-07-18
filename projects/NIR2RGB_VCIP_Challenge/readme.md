@@ -14,30 +14,26 @@ We are going to provide two datasets for the training/validation of the coloriza
 challenge.
 On top of paired data, we also provide a RGB image dataset that fall under 4 image categories for the challenge in Track 2. The NIR and RGB images are targeted at different scenes without pixel alignments. The thumbnails for the two datasets are shown in Fig. 1 and Fig. 2.
 
-'''
-.
-+--_ config.yml
-+--_ drifts
-
-.
-+-- _config.yml
-+-- _drafts
-|   +-- begin-with-the-crazy-ideas.textile
-|   +-- on-simplicity-in-technology.markdown
-+-- _includes
-|   +-- footer.html
-|   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
-'''
+```bash
+├── app
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── dist (or build)
+├── node_modules
+├── bower_components (if using bower)
+├── test
+├── Gruntfile.js/gulpfile.js
+├── README.md
+├── package.json
+├── bower.json (if using bower)
+└── .gitignore
+```
 
 ## Evaluation Metric
 ### Objective Metrics
