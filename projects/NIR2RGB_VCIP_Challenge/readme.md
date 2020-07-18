@@ -16,7 +16,7 @@ Competing algorithms will be ranked both quantitatively and qualitatively based 
 
 ### 1. Objective Evaluation: 50%
 
-We are going to use Angular Error (**AE：20%**), Peak Signal-to-Noise Ratio (**PSNR：15%**) and Structural Similiarty (**SSIM：15%**) [2] as quantitative metrics to evaluate and rank the colorization results. The PSNR value is calculated according to:
+We are going to use Peak Signal-to-Noise Ratio (**_PSNR_：15%**), Structural Similiarty (**_SSIM_：15%**) [2] and Angular Error (**_AE_：20%**) as quantitative metrics to evaluate and rank the colorization results. The PSNR value is calculated according to:
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
 
@@ -27,11 +27,11 @@ Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and 
 ### 2. Subjective Evaluation: 50%
 
 To more comprehensively reflect the visual quality of the colorization performance, we will also rank the visual quality for competing algorithms. Subjective comparison will be conducted in a nonreference manner, a group of judges (10+ individuals) who do not know the ground truth RGB images are to evaluate the colorization results, and rank the algorithms based on the visual quality based on the following standards:
-- **Semantic correctness and color realism: 10%** (judges will evaluate on whether the colors are conforming to the real world scenrios);
-- **Boundary precision: 10%** (whether the object boudnaries are cleanly separated without "bleeding" effects);
-- **Texture preservation: 10%** (how well the textures are preserved after colorization):;
-- **Instance consistency: 10%** (whether the same object instance are colored consistently);
-- **Color vividness: 10%**.
+- **_Semantic correctness and color realism_: 10%** (judges will evaluate on whether the colors are conforming to the real world scenrios);
+- **_Boundary precision_: 10%** (whether the object boudnaries are cleanly separated without "bleeding" effects);
+- **_Texture preservation_: 10%** (how well the textures are preserved after colorization):;
+- **_Instance consistency_: 10%** (whether the same object instance are colored consistently);
+- **_Color vividness_: 10%**.
 
 
 ## Challenge Dataset
