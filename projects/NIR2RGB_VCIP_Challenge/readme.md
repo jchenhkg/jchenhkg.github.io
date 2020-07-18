@@ -17,18 +17,12 @@ On top of paired data, we also provide a RGB image dataset that fall under 4 ima
 ## Evaluation Metric
 ### Objective Metrics
 
-We are going to use Angular Error (AE) and Peak Signal-to-Noise Ratio (PSNR) as quantitative metrics to evaluate the colorization results. AE provides a color similarity measure instead of absolute intensity values (measured by PSNR), which is closer to human color perception. AE is defined as:
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-![](projects/NIR2RGB_VCIP_Challenge/web/AE.jpg)
-
-<p><img style="text-align:center" src="projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></p>
+We are going to use Angular Error (AE), Peak Signal-to-Noise Ratio (PSNR), and Structural Similiarty (SSIM) as quantitative metrics to evaluate the colorization results. AE is calculated according to the euqation below, which provides a color similarity measure close to human color perception:
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
 
-where (Io(i; j)) represents pixels in colorized images, and Ig(i; j)) represents RGB ground truth.
- stands for dot product, and Io Ig stand for normalized vectors for Io and Io respectively.
+where Iout and Igt represents RGB colorization results and the ground truth.
+
 ### Subjective Metrics
 
 As we found both the AE and PSNR and SSIM index can not comprehensively reflect the visual quality of the colorization performance, we will also rank the subjective visual quality for the challenge. Subjective comparison will be conducted in a nonreference manner, a group of judges (approximately 10) who do not know the ground truth color
