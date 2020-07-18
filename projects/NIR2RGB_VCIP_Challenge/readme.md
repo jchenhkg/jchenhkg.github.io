@@ -69,7 +69,7 @@ AE is calculated according to the euqation below, which provides a color similar
 
 where Iout and Igt represents RGB colorization results and the ground truth.
 
-![](http://jchenhkg.github.io/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg =250x250)
+![](http://jchenhkg.github.io/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg)
 
 ### Subjective Metrics
 
