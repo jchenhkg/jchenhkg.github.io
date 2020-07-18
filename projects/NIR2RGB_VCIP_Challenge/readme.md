@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "VCIP Grand Challenge on NIR Image Colorization"
 show-avatar: false
 ---
