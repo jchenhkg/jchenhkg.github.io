@@ -84,6 +84,8 @@ The dataset contains the foloowing subfolders,  which includes both pixel aligne
 1. Statistics on the validation dataset including **_PSNR_**, **_SSIM_** and **_AE_**;
 2. Program executable and running demonstration. The testing images will be NIR images of resolution 256\*256.
 
+More enquries please contact Dr. Chen Jie: chenjie@comp.hkbu.edu.hk.
+
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
 
