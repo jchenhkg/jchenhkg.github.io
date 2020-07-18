@@ -15,7 +15,7 @@ challenge.
 On top of paired data, we also provide a RGB image dataset that fall under 4 image categories for the challenge in Track 2. The NIR and RGB images are targeted at different scenes without pixel alignments. The thumbnails for the two datasets are shown in Fig. 1 and Fig. 2.
 
 ```bash
-├── NIR_VCIP_Challenge_dataset
+├── **NIR_VCIP_Challenge_dataset**
 │   ├── NIR
 │   │   ├── country_0000_nir.png
 │   │   ├── country_0001_nir.png
