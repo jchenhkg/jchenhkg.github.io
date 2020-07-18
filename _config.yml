@@ -42,7 +42,7 @@ navbar-links:
     #- Multi-scale Sparse Coding: "https://hotndy.github.io/2014-12-27-MSC/"
     #- Conjectures over Wide Angle SPP over Narrow Angle References: "hotndy.github.io/projects/WideAngleSPP/"
   Resources:
-    - Projects: "pages/highlights/"
+    - VCIP20' Dataset Nir2Rgb: "projects/NIR2RGB_VCIP_Challenge/"
     - Data & Codes: "pages/data_codes/"
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
     #- My Notes: "Notes/notesIdx/"
