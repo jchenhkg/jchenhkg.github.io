@@ -8,3 +8,17 @@ This challenge call for development of efficient algorithms to colorize NIR imag
 
 
 In this challenge, we will provide both registered NIR-RGB image pairs as well as un-paired RGB images on several categories of scene contents for the training and testing of colorization models (as shown in Fig. 1). Both objective metrics (e.g., Peak Signal to Noise Ratio, Structural Similarity Index, Angular Color Error, etc.) and subjective evaluations (non-reference visual quality human ranking) will be carried out to comprehensively evaluate competing algorithms. The details of the dataset and the evaluation protocols will be available soon.
+
+## Challenge Dataset
+We are going to provide two datasets for the training/validation of the colorization models. The
+EPFL RGB-NIR Scene Dataset [1] which contains 477 image pairs with resolution of 1024680
+(some might vary) captured from 9 categories of scenes including: country, field, forest, indoor,
+mountain, old building, street, urban, and water. The pixels are registered and aligned. We have
+already received consent from the EPFL image dataset authors [1] to use the dataset for our
+challenge.
+On top of paired data, we also provide a RGB image dataset that fall under 4 image categories
+for the challenge in Track 2. The NIR and RGB images are targeted at different scenes without
+pixel alignments. The thumbnails for the two datasets are shown in Fig. 1 and Fig. 2.
+
+### Reference
+[1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
