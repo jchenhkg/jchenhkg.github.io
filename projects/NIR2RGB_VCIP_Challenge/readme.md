@@ -17,13 +17,11 @@ On top of paired data, we also provide a RGB image dataset that fall under 4 ima
 ```bash
 ├── NIR_VCIP_Challenge_dataset
 │   ├── NIR
-│   │   ├── country_***_nir.png
-│   │   ├── field_***_nir.png
-│   │   ├── forest_***_nir.png
-│   │   ├── mountain_***_nir.png
-│   │   ├── \...
-
-                
+│   │   ├── country_0000_nir.png
+│   │   ├── country_0001_nir.png
+│   │   ├── ...
+│   │   ├── field_0000_nir.png
+│   │   ├── ...             
 │   ├── RGB-Resgistered
 │   ├── RGB-Online
 │   ├── Validation
