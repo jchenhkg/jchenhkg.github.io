@@ -43,8 +43,11 @@ The subfolder **NIR** and **RGB-Resgistered** contains pixel-aligned (registered
 ### 2. Unpaired RGB Images
 The subfolder **RGB-Online** contains pixel-unaligned (unregistered) RGB images correspond to each scene category. 
 
-### 3. Validation Datasets 
+### 3. Validation Dataset
 The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image pairs for the purpose of model validation. The NIR-RGB image pairs are named as "validation_nnnn_nir.png" and "validation_nnnn_rgb.png" respectively. Identical "nnnn" values indicates pairing relationships.
+
+### 4. Testing Dataset
+The testing dataset will not be publically available until after the final evaluations of the challenge.
 
 ```bash
 ├── NIR_VCIP_Challenge_dataset
@@ -79,4 +82,5 @@ The dataset contains the foloowing subfolders,  which includes both pixel aligne
 
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
+
 [2] Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli, “Image quality assessment: From error visibility to structural similarity,” _IEEE Transactions on Image Processing_, vol. 13, no. 4, pp. 600–612, 2004.
