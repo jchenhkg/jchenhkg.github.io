@@ -69,9 +69,11 @@ AE is calculated according to the euqation below, which provides a color similar
 
 where Iout and Igt represents RGB colorization results and the ground truth.
 
-![](http://jchenhkg.github.io/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg | width=100)
+![](| width=100)
 
 Hello this is just testing inline <p><img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="24" /></p> gt images.
+
+What do you mean by that <img src="http://jchenhkg.github.io/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg " width="26" /> HTML Cleaning
 
 ### Subjective Metrics
 
