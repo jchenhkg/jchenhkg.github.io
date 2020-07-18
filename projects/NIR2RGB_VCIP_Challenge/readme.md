@@ -6,6 +6,8 @@ NIR (Near-Infrared) imaging provides a unique vision with respect to illuminatio
 
 This challenge call for development of efficient algorithms to colorize NIR images to RGB images. The correlation between the NIR and RGB domains are more ambiguous and complex which makes such task more challenging than gray scale image colorization and image style transfer. In recent years we see numerous learning-based models that explores different network architectures, supervision modes, and training strategies to tackle this challenge, however the limitations are still obvious in terms of color realism and texture fidelity. Semantic correctness and instance-level color consistency are difﬁcult to be preserved. More importantly, the demand for strictly registered NIR-RGB image pairs also restricts efﬁcient development of NIR colorization models.
 
+<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/thumbnail_dataset.jpg" width="880" /></div>
+
 ## Evaluation Metrics
 
 Competing algorithms will be ranked both quantitatively and qualitatively based to the following metrics, with each metric's weight specified in percentile.
