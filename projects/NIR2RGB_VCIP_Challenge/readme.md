@@ -47,7 +47,7 @@ The subfolder **RGB-Online** contains pixel-unaligned (unregistered) RGB images 
 The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image pairs for the purpose of model validation. The NIR-RGB image pairs are named as "validation_nnnn_nir.png" and "validation_nnnn_rgb.png" respectively. Identical "nnnn" values indicates pairing relationships.
 
 ### 4. Testing Dataset
-The testing dataset will not be publically available until after the final evaluations of the challenge.
+The testing dataset will not be publically available until after the final evaluations of the challenge. The testing images will be NIR images of resolution 256\*256. 
 
 ```bash
 ├── NIR_VCIP_Challenge_dataset
@@ -81,8 +81,10 @@ The dataset contains the foloowing subfolders,  which includes both pixel aligne
 **Terms of Use** all data provided by the VCIP challenge are freely available to the participants. The data are available only for open research and educational purposes, whithin the scope of the challenge. The conference organizing comittee makes no warranties regarding the dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose. The copyright of the images remains property of their respective owners. By downloading and making use of the data, you accept full responsibility for using the data.
 
 ## Submission Requirements
-1. Statistics on the validation dataset including **_PSNR_**, **_SSIM_** and **_AE_**;
-2. Program executable and running demonstration. The testing images will be NIR images of resolution 256\*256.
+All submissions should include:
+1. A brief introduction of the algorithm details in formats of _docx_ or _pdf_.
+1. Statistics (**_PSNR_**, **_SSIM_** and **_AE_**) on the **Validation dataset** for each data and the total average;
+2. Program executable(s) and running instruction.
 
 More enquries please contact Dr. Chen Jie: chenjie@comp.hkbu.edu.hk.
 
