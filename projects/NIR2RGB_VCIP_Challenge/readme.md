@@ -21,9 +21,9 @@ We are going to use Angular Error (AE) and Peak Signal-to-Noise Ratio (PSNR) as 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-![](https://github.com/jchenhkg/jchenhkg.github.io/blob/master/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg)
+![](projects/NIR2RGB_VCIP_Challenge/web/AE.jpg)
 
-<p><img style="text-align:center" src="https://github.com/jchenhkg/jchenhkg.github.io/blob/master/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></p>
+<p><img style="text-align:center" src="projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></p>
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
 
