@@ -20,5 +20,25 @@ On top of paired data, we also provide a RGB image dataset that fall under 4 ima
 for the challenge in Track 2. The NIR and RGB images are targeted at different scenes without
 pixel alignments. The thumbnails for the two datasets are shown in Fig. 1 and Fig. 2.
 
+## Evaluation Metric
+1) Objective Metrics: We are going to use Angular error (AE) and Peak Signal-to-Noise
+Ratio (PSNR) as quantitative metrics to evaluate the colorization results. AE provides a color
+
+similarity measure instead of absolute intensity values (measured by PSNR), which is closer to
+human color perception. AE is defined as:
+AE =
+Io  Ig
+Io Ig
+; (1)
+where (Io(i; j)) represents pixels in colorized images, and Ig(i; j)) represents RGB ground truth.
+ stands for dot product, and Io Ig stand for normalized vectors for Io and Io respectively.
+2) Subjective Metrics: As we found both the AE and PSNR and SSIM index can not comprehensively
+reflect the visual quality of the colorization performance, we will also rank the
+subjective visual quality for the challenge. Subjective comparison will be conducted in a nonreference
+manner, a group of judges (approximately 10) who do not know the ground truth color
+image are to compare the colorization results, and rank the them based on the visual quality
+(color realism, fidelity and vividness).
+
+
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
