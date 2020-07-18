@@ -21,9 +21,8 @@ On top of paired data, we also provide a RGB image dataset that fall under 4 ima
 │   │   ├── field_***_nir.png
 │   │   ├── forest_***_nir.png
 │   │   ├── mountain_***_nir.png
-                .
-                .
-                .
+│   │   ├── \...
+
                 
 │   ├── RGB-Resgistered
 │   ├── RGB-Online
