@@ -80,6 +80,10 @@ The dataset contains the foloowing subfolders,  which includes both pixel aligne
 
 **Terms of Use** all data provided by the VCIP challenge are freely available to the participants. The data are available only for open research and educational purposes, whithin the scope of the challenge. The conference organizing comittee makes no warranties regarding the dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose. The copyright of the images remains property of their respective owners. By downloading and making use of the data, you accept full responsibility for using the data.
 
+## Submission Requirements
+1. Statistics on the validation dataset including **_PSNR_**, **_SSIM_** and **_AE_**;
+2. Program executable and running demonstration. The testing images will be NIR images of resolution 256\*256.
+
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
 
