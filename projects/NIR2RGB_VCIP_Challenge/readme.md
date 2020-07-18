@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "VCIP Grand Challenges on NIR Image Colorization"
+title: "VCIP Grand Challenge on NIR Image Colorization"
 show-avatar: false
 ---
 
