@@ -40,6 +40,7 @@ On top of paired data, we also provide a RGB image dataset that fall under 4 ima
 │   │   ├── ...
 │   │   ├── validation_0009_rgb.png
 │   │   ├── validation_0009_rgb.png
+```
 
 
 ## Evaluation Metric
