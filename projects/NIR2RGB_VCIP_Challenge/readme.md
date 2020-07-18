@@ -56,9 +56,11 @@ The dataset contains the foloowing subfolders,  which includes both pixel aligne
 ## Evaluation Metric
 ### Objective Metrics
 
-We are going to use Angular Error (AE), Peak Signal-to-Noise Ratio (PSNR), and Structural Similiarty (SSIM) as quantitative metrics to evaluate the colorization results. 
+We are going to use Angular Error (AE), Peak Signal-to-Noise Ratio (PSNR), and Structural Similiarty (SSIM) as quantitative metrics to evaluate the colorization results. The PSNR value is calculated according to:
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
+
+Here ![](/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg) and ![](/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg)  represents RGB colorization results and the ground truth.
 
 AE is calculated according to the euqation below, which provides a color similarity measure close to human color perception:
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
