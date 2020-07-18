@@ -53,18 +53,16 @@ The dataset contains the foloowing subfolders,  which includes both pixel aligne
 
 **Terms of Use** all data provided by the VCIP challenge are freely available to the participants. The data are available only for open research and educational purposes, whithin the scope of the challenge. The conference organizing comittee makes no warranties regarding the dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose. The copyright of the images remains property of their respective owners. By downloading and making use of the data, you accept full responsibility for using the data.
 
-## Evaluation Metric
+## Evaluation Metrics
 ### Objective Metrics
 
-We are going to use Angular Error (AE), Peak Signal-to-Noise Ratio (PSNR), and Structural Similiarty (SSIM) as quantitative metrics to evaluate the colorization results. The PSNR value is calculated according to:
+We are going to use Angular Error (**AE**), Peak Signal-to-Noise Ratio (**PSNR**), and Structural Similiarty (**SSIM**) [2] as quantitative metrics to evaluate the colorization results. The PSNR value is calculated according to:
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
 
-Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" height="22"/> represents RGB colorization results and the ground truth. AE is calculated according to the euqation below, which provides a color similarity measure close to human color perception:
+Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" height="22"/> represent RGB colorization results and the RGB ground truth, respectively. To provide a color similarity measure close to human color perception, we also use **AE** is according to:
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
-
-
 
 ### Subjective Metrics
 
@@ -73,3 +71,4 @@ image are to compare the colorization results, and rank the them based on the vi
 
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
+[2] Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli, “Image quality assessment: From error visibility to structural similarity,” _IEEE Transactions on Image Processing_, vol. 13, no. 4, pp. 600–612, 2004.
