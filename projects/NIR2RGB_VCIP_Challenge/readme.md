@@ -12,8 +12,14 @@ In this challenge, we will provide both registered NIR-RGB image pairs as well a
 ## Challenge Dataset
 
 The challenge dataset provides NIR and RGB images for the training and validation of models. The structure of the dataset is shown bellow. There are two types of data in the dataset:
-### Pixel-aligned NIR RGB Image Pairs
+### 1. Pixel-aligned NIR RGB Image Pairs
 The subfolder **NIR** and **RGB-Resgistered** contains pixel-aligned (registered) NIR-RGB image pairs. The source of the images are from [1]. We have manually excluded ones that contain saturated regions, and temporally inconsistent contents. The images are croped and resized into 256\*256 patches
+
+### 2. Unpaired RGB Images
+The subfolder **RGB-Online** contains pixel-unaligned (unregistered) RGB images correspond to each scene category. 
+
+### 3. Validation Datasets 
+The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image pairs for the purpose of model validation. The NIR-RGB image pairs are named as "validation_nnnn_nir.png" and "validation_nnnn_rgb.png" respectively. Identical "nnnn" values indicates pairing relationships.
 
 ```bash
 ├── NIR_VCIP_Challenge_dataset
