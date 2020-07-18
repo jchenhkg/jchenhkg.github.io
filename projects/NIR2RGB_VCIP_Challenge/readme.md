@@ -23,28 +23,24 @@ On top of paired data, we also provide a RGB image dataset that fall under 4 ima
 │   │   ├── field_0000_nir.png
 │   │   ├── ...             
 │   ├── RGB-Resgistered
+│   │   ├── country_0000_rgb_reg.png
+│   │   ├── country_0001_rgb_reg.png
+│   │   ├── ...
+│   │   ├── field_0000_rgb_reg.png
+│   │   ├── ...
 │   ├── RGB-Online
+│   │   ├── country_0000_rgb_onl.png
+│   │   ├── country_0001_rgb_onl.png
+│   │   ├── ...
+│   │   ├── field_0000_rgb_onl.png
+│   │   ├── ...
 │   ├── Validation
+│   │   ├── validation_0000_nir.png
+│   │   ├── validation_0000_rgb.png
+│   │   ├── ...
+│   │   ├── validation_0009_rgb.png
+│   │   ├── validation_0009_rgb.png
 
-├── app
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .gitignore
-```
 
 ## Evaluation Metric
 ### Objective Metrics
