@@ -62,7 +62,7 @@ We are going to use Angular Error (AE), Peak Signal-to-Noise Ratio (PSNR), and S
 
 <div><img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" width="16" /></div>
 ![](/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg){width:30px;}
-Here ![](/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg =30x) and ![](/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg)  represents RGB colorization results and the ground truth.
+Here ![](/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg =100x30) and ![](/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg)  represents RGB colorization results and the ground truth.
 
 AE is calculated according to the euqation below, which provides a color similarity measure close to human color perception:
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
