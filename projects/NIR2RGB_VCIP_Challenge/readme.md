@@ -23,7 +23,7 @@ We are going to use Angular Error (AE) and Peak Signal-to-Noise Ratio (PSNR) as 
 
 ![](https://github.com/jchenhkg/jchenhkg.github.io/blob/master/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg)
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/jchenhkg/jchenhkg.github.io/blob/master/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="300" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/jchenhkg/jchenhkg.github.io/blob/master/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="500" /></p>
 
 where (Io(i; j)) represents pixels in colorized images, and Ig(i; j)) represents RGB ground truth.
  stands for dot product, and Io Ig stand for normalized vectors for Io and Io respectively.
