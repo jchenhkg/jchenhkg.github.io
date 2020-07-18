@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ""
-show-avatar: false
+title: " "
+show-avatar: true
 ---
 
 # VCIP Grand Challenges on NIR Image Colorization
