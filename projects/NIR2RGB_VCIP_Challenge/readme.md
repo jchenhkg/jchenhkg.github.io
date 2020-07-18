@@ -1,3 +1,9 @@
+---
+layout: page
+title: ""
+show-avatar: false
+---
+
 # VCIP Grand Challenges on NIR Image Colorization
 
 ## Challenge Motivation
