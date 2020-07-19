@@ -46,7 +46,7 @@ The dataset folder structure is shown bellow, the detail for each dataset folder
 ```
 
 ### 1. Pixel-aligned NIR RGB Image Pairs
-The subfolders **NIR** and **RGB-Registered** contain pixel-aligned (registered) NIR-RGB image pairs. The source of the images is [1]. Following its categorization, the challenge dataset contains NIR and RGB images under the scene categories of _countryside_, _forest_, _field_ and _mountain_. We have manually excluded ones that contain over-exposed and temporally inconsistent contents. The images are cropped and resized into patches of 256\*256 pixels. There are **380** image pairs in these two subfolders.
+The subfolders **NIR** and **RGB-Registered** contain pixel-aligned (registered) NIR-RGB image pairs. The source of the images is [1]. Following its categorization, the challenge dataset contains NIR and RGB images under the scene categories of _countryside_, _forest_, _field_ and _mountain_. We have manually excluded ones that contain over-exposed and temporally inconsistent contents. Some histogram equalization and tone mapping operations are also implemented on some image pairs. The images are cropped and resized into patches of 256\*256 pixels. There are **380** image pairs in these two subfolders.
 
 Images from the **NIR** folder are named as "_scene-category_nnnn_nir.png_"; images from the **RGB-Registered** folder are named as "_scene-category_nnnn_rgb_reg.png_". Here "_scene-category_" indicates the scene category and "_nnnn_" indicates image serial number. 
 Identical leading names "_scene-category_nnnn_" indicate these images are pixel-aligned NIR-RGB image pairs.
@@ -54,7 +54,7 @@ Identical leading names "_scene-category_nnnn_" indicate these images are pixel-
 Please note that although the scene category information is embedded in the image file names, **testing of algorithms will not provide any scene category information**. 
 
 ### 2. Unpaired RGB Images
-The subfolder **RGB-Online** contains pixel-unaligned (unregistered) RGB images correspond to each scene category. There are **1024** images in this subfolder.
+The subfolder **RGB-Online** contains pixel-unaligned (unregistered) RGB images downloaded from online sources corresponding to each scene category. There are **1024** images in this subfolder.
 
 ### 3. Validation Dataset
 The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image pairs for the purpose of model validation. The NIR-RGB image pairs are named as "_validation_nnnn_nir.png_" and "_validation_nnnn_rgb_reg.png_" respectively. Identical "_nnnn_" values indicate paired NIR-RGB relationships.
@@ -91,10 +91,10 @@ To more comprehensively reflect the visual quality of the colorization performan
 ## Submission Requirements
 All submissions should include:
 1. A brief introduction of the algorithm details in formats of _docx_ or _pdf_.
-1. Statistics (**_PSNR_**, **_SSIM_** and **_AE_**) on the **Validation dataset** for each data and the total average;
-2. Program executable(s) and running instruction.
+2. Statistics (**_PSNR_**, **_SSIM_** and **_AE_**) on the **Validation dataset** for each data and the total average;
+3. Program executable(s) and running instruction for algorithm testing.
 
-More enquries please contact Dr. Chen Jie: chenjie@comp.hkbu.edu.hk.
+More submission requirements may be added later, registered participants will be notified via email. For more enquries please contact Dr. Chen Jie: chenjie@comp.hkbu.edu.hk.
 
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
