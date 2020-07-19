@@ -1,3 +1,7 @@
+---
+layout: page
+use-site-title: false
+---
 
 # VCIP 2020 Grand Challenge on NIR Image Colorization
 
