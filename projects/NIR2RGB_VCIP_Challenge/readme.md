@@ -76,7 +76,7 @@ We are going to use Peak Signal-to-Noise Ratio (**_PSNR_：15%**), Structural Si
 
 Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" height="22"/> represent the RGB colorization result and the RGB ground truth, respectively. To provide a color similarity measure closer to human color perception, we also use the Angular Error (**_AE_**) defined as:
 
-<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="380" /></div>
+<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="350" /></div>
 
 ### 2. Subjective Evaluation: 50%
 
