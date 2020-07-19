@@ -1,7 +1,4 @@
----
-layout: page
-title: 
----
+20 July, 2020
 
 # VCIP 2020 Grand Challenge on NIR Image Colorization
 
