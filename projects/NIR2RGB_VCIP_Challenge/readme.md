@@ -11,9 +11,15 @@ This challenge call for development of efficient algorithms to colorize NIR imag
 
 ## Challenge Dataset
 
-The challenge dataset provides NIR and RGB images for the training and validation of models. The structure of the dataset is shown bellow. There are two types of data in the dataset:
+The thumbnails of the challenge dataset is shown in Fig. 1., which provideds NIR and RGB images for the training and validation of models. The dataset provide both pixel-aglined NIR-RGB image pairs, and un-paired RGB images with similar scene categories. The purpose for providing both paired and un-paired RGB-NIR images is to facilitate the development of learning models that explore both pixel-level and higher-level features for effecient colorization with accurate semantic mapping and vivide color variation. Participants are encouraged to take advantage of both groups of data. While it is up to your choices not to use a certain group of data from the dataset provided, use of image data from outside the dataset is not allowed for this challenge. The detail for each dataset folder will be explained in detail.
+
 ### 1. Pixel-aligned NIR RGB Image Pairs
-The subfolder **NIR** and **RGB-Resgistered** contains pixel-aligned (registered) NIR-RGB image pairs. The source of the images are from [1]. We have manually excluded ones that contain saturated regions, and temporally inconsistent contents. The images are croped and resized into 256\*256 patches
+The subfolder **NIR** and **RGB-Registered** contains pixel-aligned (registered) NIR-RGB image pairs. The source of the images are from [1]. Following its categorization, the challenge dataset contains NIR and RGB images under the scene categories of _countryside_, _forest_, _filed_ and _mountain_. We have manually excluded ones that contain saturated regions, and temporally inconsistent contents. The images are croped and resized into 256\*256 patches. 
+
+Images from the **NIR** folder are named as: "_scene-category_nnnn_nir.png_"; images from the **RGB-Registered** folder are named as "_scene-category_nnnn_rgb_reg.png_". Here "_scene-category_" indicates the scene type, "_nnnn_" indicates image serial number. 
+Images from both folders with identical leading names "_scene-category_nnnn_" indicates the two images are pixel-aligned NIR-RGB image pairs.
+
+Please note although the scene category information is embeded as image file names, **testing of algorithms will not provide any scene category information**. 
 
 ### 2. Unpaired RGB Images
 The subfolder **RGB-Online** contains pixel-unaligned (unregistered) RGB images correspond to each scene category. 
@@ -51,7 +57,6 @@ The testing dataset will not be publically available until after the final evalu
 │   │   ├── validation_0009_nir.png
 │   │   ├── validation_0009_rgb.png
 ```
-The dataset contains the foloowing subfolders,  which includes both pixel aligned (registered) NIR-RGB image pairs, and un-registered RGB images.
 
 **Terms of Use** all data provided by the VCIP challenge are freely available to the participants. The data are available only for open research and educational purposes, whithin the scope of the challenge. The conference organizing comittee makes no warranties regarding the dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose. The copyright of the images remains property of their respective owners. By downloading and making use of the data, you accept full responsibility for using the data.
 
