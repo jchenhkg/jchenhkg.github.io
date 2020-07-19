@@ -72,11 +72,11 @@ Competing algorithms will be ranked both quantitatively and qualitatively based 
 
 We are going to use Peak Signal-to-Noise Ratio (**_PSNR_：15%**), Structural Similiarty (**_SSIM_：15%**) [2] and Angular Error (**_AE_：20%**) as quantitative metrics to evaluate and rank the colorization results. The PSNR value is calculated according to:
 
-<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
+<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="240" /></div>
 
 Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" height="22"/> represent the RGB colorization result and the RGB ground truth, respectively. To provide a color similarity measure closer to human color perception, we also use the Angular Error (**_AE_**) defined as:
 
-<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
+<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="380" /></div>
 
 ### 2. Subjective Evaluation: 50%
 
