@@ -8,30 +8,6 @@ This challenge call for development of efficient algorithms to colorize NIR imag
 
 <div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/thumbnail_dataset.jpg" width="880" /></div>
 
-## Evaluation Metrics
-
-Competing algorithms will be ranked both quantitatively and qualitatively based to the following metrics, with each metric's weight specified in percentile.
-
-### 1. Objective Evaluation: 50%
-
-We are going to use Peak Signal-to-Noise Ratio (**_PSNR_：15%**), Structural Similiarty (**_SSIM_：15%**) [2] and Angular Error (**_AE_：20%**) as quantitative metrics to evaluate and rank the colorization results. The PSNR value is calculated according to:
-
-<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
-
-Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" height="22"/> represent RGB colorization results and the RGB ground truth, respectively. To provide a color similarity measure close to human color perception, we also use **AE** is according to:
-
-<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
-
-### 2. Subjective Evaluation: 50%
-
-To more comprehensively reflect the visual quality of the colorization performance, we will also rank the visual quality for competing algorithms. Subjective comparison will be conducted in a nonreference manner, a group of judges (10+ individuals) who do not know the ground truth RGB images are to evaluate the colorization results, and rank the algorithms based on the visual quality based on the following standards:
-- **_Semantic correctness and color realism_: 10%** (judges will evaluate on whether the colors are conforming to the real world scenrios);
-- **_Boundary precision_: 10%** (whether the object boudnaries are cleanly separated without "bleeding" effects);
-- **_Texture preservation_: 10%** (how well the textures are preserved after colorization):;
-- **_Instance consistency_: 10%** (whether the same object instance are colored consistently without wrong variations);
-- **_Color vividness_: 10%**.
-
-
 ## Challenge Dataset
 
 The challenge dataset provides NIR and RGB images for the training and validation of models. The structure of the dataset is shown bellow. There are two types of data in the dataset:
@@ -77,6 +53,30 @@ The testing dataset will not be publically available until after the final evalu
 The dataset contains the foloowing subfolders,  which includes both pixel aligned (registered) NIR-RGB image pairs, and un-registered RGB images.
 
 **Terms of Use** all data provided by the VCIP challenge are freely available to the participants. The data are available only for open research and educational purposes, whithin the scope of the challenge. The conference organizing comittee makes no warranties regarding the dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose. The copyright of the images remains property of their respective owners. By downloading and making use of the data, you accept full responsibility for using the data.
+
+## Evaluation Metrics
+
+Competing algorithms will be ranked both quantitatively and qualitatively based to the following metrics, with each metric's weight specified in percentile.
+
+### 1. Objective Evaluation: 50%
+
+We are going to use Peak Signal-to-Noise Ratio (**_PSNR_：15%**), Structural Similiarty (**_SSIM_：15%**) [2] and Angular Error (**_AE_：20%**) as quantitative metrics to evaluate and rank the colorization results. The PSNR value is calculated according to:
+
+<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/PSNR.jpg" width="280" /></div>
+
+Here <img src="/projects/NIR2RGB_VCIP_Challenge/web/Iout.jpg" height="22"/> and <img src="/projects/NIR2RGB_VCIP_Challenge/web/Igt.jpg" height="22"/> represent RGB colorization results and the RGB ground truth, respectively. To provide a color similarity measure close to human color perception, we also use **AE** is according to:
+
+<div style="text-align: center"><img src="/projects/NIR2RGB_VCIP_Challenge/web/AE.jpg" width="420" /></div>
+
+### 2. Subjective Evaluation: 50%
+
+To more comprehensively reflect the visual quality of the colorization performance, we will also rank the visual quality for competing algorithms. Subjective comparison will be conducted in a nonreference manner, a group of judges (10+ individuals) who do not know the ground truth RGB images are to evaluate the colorization results, and rank the algorithms based on the visual quality based on the following standards:
+- **_Semantic correctness and color realism_: 10%** (judges will evaluate on whether the colors are conforming to the real world scenrios);
+- **_Boundary precision_: 10%** (whether the object boudnaries are cleanly separated without "bleeding" effects);
+- **_Texture preservation_: 10%** (how well the textures are preserved after colorization):;
+- **_Instance consistency_: 10%** (whether the same object instance are colored consistently without wrong variations);
+- **_Color vividness_: 10%**.
+
 
 ## Submission Requirements
 All submissions should include:
