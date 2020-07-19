@@ -1,6 +1,4 @@
-
-<p><span style="font-family:georgia,serif;"><span style="font-size:36px;">VCIP 2020 Grand Challenge on NIR Image Colorization</span></span></p>
-
+.
 # VCIP 2020 Grand Challenge on NIR Image Colorization
 
 ## Challenge Motivation
