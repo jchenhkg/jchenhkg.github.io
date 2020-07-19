@@ -13,7 +13,7 @@ This challenge call for development of more efficient algorithms to transform NI
 
 ## The Challenge Dataset
 
-Challenge dataset [downloade](https://drive.google.com/file/d/1Wim2IkUS8Cao6zdYP9Nrftu5Zk2KdKvC/view?usp=sharing)
+Challenge dataset [download](https://drive.google.com/file/d/1Wim2IkUS8Cao6zdYP9Nrftu5Zk2KdKvC/view?usp=sharing).
 
 The thumbnails of the challenge dataset are shown in Fig. 1., which provideds provides both pixel-aglined NIR-RGB image pairs, and un-paired RGB images with similar scene categories. The purpose of providing both paired and un-paired RGB-NIR images is to facilitate the development of learning models that explore both pixel-level and higher-level features for efficient colorization with accurate semantic mapping and vivid color variation. Participants are encouraged to take advantage of both groups of data. While it is up to your choices not to use a certain data group provided, the use of image data from outside the dataset is not allowed for this challenge. 
 
