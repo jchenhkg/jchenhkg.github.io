@@ -91,7 +91,7 @@ To more comprehensively reflect the visual quality of the colorization performan
 
 
 ## Submission Requirements
-All submissions should include:
+The submission deadline for the challenge is 11:59pm (HK time, GMT+8) 20th September, 2020. All submissions should include:
 1. A brief introduction of the algorithm details in formats of _docx_ or _pdf_.
 2. Statistics (**_PSNR_**, **_SSIM_** and **_AE_**) on the **Validation dataset** for each data and the total average;
 3. Program executable(s) and running instruction for algorithm testing.
