@@ -17,7 +17,7 @@ The thumbnails of the challenge dataset is shown in Fig. 1., which provideds NIR
 The subfolder **NIR** and **RGB-Registered** contains pixel-aligned (registered) NIR-RGB image pairs. The source of the images are from [1]. Following its categorization, the challenge dataset contains NIR and RGB images under the scene categories of _countryside_, _forest_, _filed_ and _mountain_. We have manually excluded ones that contain saturated regions, and temporally inconsistent contents. The images are croped and resized into 256\*256 patches. 
 
 Images from the **NIR** folder are named as: "_scene-category_nnnn_nir.png_"; images from the **RGB-Registered** folder are named as "_scene-category_nnnn_rgb_reg.png_". Here "_scene-category_" indicates the scene type, "_nnnn_" indicates image serial number. 
-Images from both folders with identical leading names "_scene-category_nnnn_" indicates the two images are pixel-aligned NIR-RGB image pairs.
+Identical leading names "_scene-category_nnnn_" indicate these images are pixel-aligned NIR-RGB image pairs.
 
 Please note although the scene category information is embeded as image file names, **testing of algorithms will not provide any scene category information**. 
 
