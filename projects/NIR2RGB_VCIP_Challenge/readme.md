@@ -25,7 +25,7 @@ Please note although the scene category information is embeded as image file nam
 The subfolder **RGB-Online** contains pixel-unaligned (unregistered) RGB images correspond to each scene category. 
 
 ### 3. Validation Dataset
-The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image pairs for the purpose of model validation. The NIR-RGB image pairs are named as "validation_nnnn_nir.png" and "validation_nnnn_rgb.png" respectively. Identical "nnnn" values indicates pairing relationships.
+The subfolder **Validation** contains pixel-aligned (registered) NIR-RGB image pairs for the purpose of model validation. The NIR-RGB image pairs are named as "_validation_nnnn_nir.png_" and "_validation_nnnn_rgb.png_" respectively. Identical "_nnnn_" values indicate pixel-alignment pairing relationships.
 
 ### 4. Testing Dataset
 The testing dataset will not be publically available until after the final evaluations of the challenge. The testing images will be NIR images of resolution 256\*256. 
