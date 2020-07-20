@@ -96,7 +96,7 @@ The submission deadline for the challenge is 11:59pm (HK time, GMT+8) 20th Septe
 2. Statistics (**_PSNR_**, **_SSIM_** and **_AE_**) on the **Validation dataset** for each data and the total average;
 3. Program executable(s) and running instruction for algorithm testing.
 
-More submission requirements may be added later, registered participants will be notified via email.
+More submission requirements may be updated later, registered participants will be notified via email.
 
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
