@@ -91,12 +91,12 @@ To more comprehensively reflect the visual quality of the colorization performan
 
 
 ## Submission Requirements
-The submission deadline for the challenge is 11:59pm (HK time, GMT+8) 20th September, 2020. All submissions should include:
+The submission deadline for the challenge is 11:59pm (HK time, GMT+8) 20th September, 2020. All submissions should be sent to chenjie@comp.hkbu.edu.hk, with:
 1. A brief introduction of the algorithm details in formats of _docx_ or _pdf_.
 2. Statistics (**_PSNR_**, **_SSIM_** and **_AE_**) on the **Validation dataset** for each data and the total average;
 3. Program executable(s) and running instruction for algorithm testing.
 
-More submission requirements may be added later, registered participants will be notified via email. For more enquries please contact Dr. Chen Jie: chenjie@comp.hkbu.edu.hk.
+More submission requirements may be added later, registered participants will be notified via email.
 
 ### Reference
 [1] M. Brown and S. Susstrunk, “Multi-spectral SIFT for scene category recognition,” in _IEEE Conference on Computer Vision and Pattern Recognition_, 2011, pp. 177–184.
