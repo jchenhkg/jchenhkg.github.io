@@ -18,8 +18,7 @@
 
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
 
- Computational Photography (Light fields, HDR+, Computational Tomography)
-- Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
+- ITEC2016
 - Novel Imaging Systems and their ISP pipelines
 
 - ITEC2016 Data-Driven Visualisation for the Web
