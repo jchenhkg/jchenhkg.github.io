@@ -17,8 +17,8 @@
 - Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
-- ITEC2016 Data-Driven Visualisation for the Web
-- COMP4025 Interactive Computer Graphics [2019-S2]  [2020-S1] 
+- ITEC2016 Data-Driven Visualisation for the Web [2020-S1]
+- COMP4025 Interactive Computer Graphics [2019-S2]  
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
