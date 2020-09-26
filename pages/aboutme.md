@@ -16,7 +16,7 @@
 - Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
 - Novel Imaging Systems and their ISP pipelines
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Teaching</span></span></p>
+<p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
 - ITEC2016 Data-Driven Visualisation for the Web [2020-S1] 
 - COMP4025 Interactive Computer Graphics [2019-S2] 
 
