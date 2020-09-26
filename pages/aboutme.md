@@ -17,7 +17,7 @@
 - Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
-- ITEC2016 Data-Driven Visualisation for the Web [2020-S1]
+- ITEC2016 Data-Driven Visualisation for the Web
 - Novel Imaging Systems and their ISP pipelines
 
 - 
