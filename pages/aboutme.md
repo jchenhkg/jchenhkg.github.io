@@ -17,10 +17,10 @@
 - Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
-- Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
+- ITEC2016 Data-Driven Visualisation for the Web [2020-S1]
 - Novel Imaging Systems and their ISP pipelines
 
-- ITEC2016 Data-Driven Visualisation for the Web [2020-S1]
+- 
 - COMP4025 Interactive Computer Graphics [2019-S2]  
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
