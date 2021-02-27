@@ -10,11 +10,11 @@ show-avatar: false
 -->
 ## 2021
 
-* Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Trans. Image Process._, vol. 30, pp. 1423–1438, 2021.
+* Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_ (**TIP**), vol. 30, pp. 1423–1438, 2021.
 
 ## 2020
-* J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Trans. Pattern Anal. Mach. Intell._, vol. PP, Sep. 2020.
-* Mantang GUO, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures", Accepted by _European Conference on Computer Vision_ **(ECCV)**, 2020
+* J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_ (**TPAMI**), vol. PP, Sep. 2020.
+* M. Guo, J. Hou, J. Jin, **J. Chen**, and L.-P. Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” in _Proc. European Conference on Computer Vision_, 2020, pp. 278–294.
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
 * **Jie Chen**, Lap-Pui Chau, Junhui Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
 * Chunle Guo, Jing Jin, Junhui Hou, **Jie Chen**, "Accurate Light Field Depth Estimation via an Occlusion-aware Network", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
