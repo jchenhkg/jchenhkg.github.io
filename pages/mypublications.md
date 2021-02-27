@@ -9,8 +9,8 @@ show-avatar: false
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
 
-* J. Jin, J. Hou, *J. Chen*, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” IEEE Trans. Pattern Anal. Mach. Intell., vol. PP, Sep. 2020.
-* Z. Zhu, J. Hou, *J. Chen*, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” IEEE Trans. Image Process., vol. 30, pp. 1423–1438, 2021.
+* J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” IEEE Trans. Pattern Anal. Mach. Intell., vol. PP, Sep. 2020.
+* Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” IEEE Trans. Image Process., vol. 30, pp. 1423–1438, 2021.
 * Mantang GUO, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures", Accepted by _European Conference on Computer Vision_ **(ECCV)**, 2020
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
 * **Jie Chen**, Lap-Pui Chau, Junhui Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
