@@ -8,9 +8,10 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
+* Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” IEEE Trans. Image Process., vol. 30, pp. 1423–1438, 2021.
+
 
 * J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” IEEE Trans. Pattern Anal. Mach. Intell., vol. PP, Sep. 2020.
-* Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” IEEE Trans. Image Process., vol. 30, pp. 1423–1438, 2021.
 * Mantang GUO, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures", Accepted by _European Conference on Computer Vision_ **(ECCV)**, 2020
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
 * **Jie Chen**, Lap-Pui Chau, Junhui Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
@@ -23,6 +24,7 @@ show-avatar: false
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, and Jingyi Yu, "Learning High-fidelity Light Field Images From Hybrid Inputs," CoRR abs/1907.09640, 2019.
 * Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, Jingyi Yu, "Flexible, Fast and Accurate Densely-Sampled Light Field Reconstruction Network,” CoRR abs/1909.01341, 2019.
 
+
 * **Jie Chen**,  Cheen-Hau Tan, Junhui Hou, Lap-Pui. Chau, and He Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' [[pdf](https://arxiv.org/abs/1804.09555)]
 * **Jie Chen**, Junhui Hou, and Lap-Pui. Chau, "Light Field Denoising via Anisotropic Parallax Analysis in a CNN Framework,'' _IEEE Signal Processing Letters_ **(IEEE SPL)**, vol. 25, no. 9, pp. 1403-1407, 2018. [[pdf](https://arxiv.org/abs/1805.12358)\] [[code](https://github.com/hotndy/APA-LFDenoising)] 
 * Yun Ni, **Jie Chen**, and Lap-Pui Chau, "Reflection Removal On Single Light Field Capture With Focus Manipulation,'' accepted by _IEEE Transactions on Computational Imaging_ **(IEEE TCI)**. [[pdf](https://ieeexplore.ieee.org/document/8421062/)]
@@ -31,6 +33,7 @@ show-avatar: false
 * Shaohui Mei, Junhui Hou, **Jie Chen**, Lap-Pui Chau, and Qian Du, "Simultaneous Spatial and Spectral Low-Rank Representation of Hyperspectral Images for Classification,'' _IEEE Transactions on Geoscience and Remote Sensing_ **(IEEE TGARS)**, vol. 56, no. 5, pp. 2872-2886, 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8248629/)]
 * **Jie Chen**, Junhui Hou, and Lap-Pui Chau, "Light Field Compression with Disparity Guided Sparse Coding based on Structural Key Views,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 27, no. 1, pp. 314-324, 2018. [[pdf](http://ieeexplore.ieee.org/document/8030107/)] [[data](https://github.com/hotndy/SC-SKV)]
   
+ 
 * Henry Yeung, Junhui Hou, **Jie Chen**, Yuk Ying Chung, and Xiaoming Chen, "Fast Light Field ReconstructionWith Deep Coarse-To-Fine Modeling of Spatial-Angular Clues,'' accepted by _European Conference on Computer Vision_ **(ECCV)**, Munich, Germany, 2018. [[pdf]()]
 * **Jie Chen**, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li, "Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework,'' spotlight on _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Salt Lake City, Utah, 2018. [[pdf](https://arxiv.org/abs/1708.01964)] [[dataset](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[code](https://bitbucket.org/st_ntu_corplab/mrp2a/src/bd2633dbc9912b833de156c799fdeb82747c1240?at=master)]
 * Shengyu Nan, **Jie Chen**, Lap-Pui Chau, and Kemao Qian, "Learning-Based Parallax Transfer on Multispectral Light Field,'' accepted by _IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 1-5, Shanghai, China, 2018.    
