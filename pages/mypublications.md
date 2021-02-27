@@ -8,9 +8,11 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
+## 2021
+
 * Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” IEEE Trans. Image Process., vol. 30, pp. 1423–1438, 2021.
 
-
+## 2020
 * J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” IEEE Trans. Pattern Anal. Mach. Intell., vol. PP, Sep. 2020.
 * Mantang GUO, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures", Accepted by _European Conference on Computer Vision_ **(ECCV)**, 2020
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
@@ -19,12 +21,14 @@ show-avatar: false
 * **Jie Chen**, Cheen-Hau Tan, Lap-Pui Chau, "Haze Removal with Fusion of Local and Non-local Statistics", Accepted by _IEEE Symposium on Circuits and Systems_ **(ISCAS)**, Seville, Spain, 2020
 * Zaifeng Yang, Yu Zhong, **Jie Chen**, Hui Min Lee and En-Xiao Liu, "GPU Accelerated FDTD Method for Terahertz Imaging and Computed Tomography", Accepted by _IEEE International Conference on Computational Electromagnetics_ **(ICCEM)**, Singapore, 2020
 * Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation With Rate-Distortion Optimization," _IEEE Trans. Circuits Syst. Video Techn_, vol. 29, no. 2, pp. 517-530, 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
+
+## 2019
 * Henry Wing Fung Yeung, Junhui Hou, Xiaoming Chen, **Jie Chen**, Zhibo Chen, and Yuk Ying Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_, novl. 28, no. 5, pp. 2319-2330, 2019.
 * **Jie Chen**, Lap-Pui Chau, and Junhui Hou, "Stratified Labeling for Surface Consistent Parallax Correction and Occlusion Completion," CoRR abs/1903.02688, 2019.
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, and Jingyi Yu, "Learning High-fidelity Light Field Images From Hybrid Inputs," CoRR abs/1907.09640, 2019.
 * Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, Jingyi Yu, "Flexible, Fast and Accurate Densely-Sampled Light Field Reconstruction Network,” CoRR abs/1909.01341, 2019.
 
-
+## 2018
 * **Jie Chen**,  Cheen-Hau Tan, Junhui Hou, Lap-Pui. Chau, and He Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' [[pdf](https://arxiv.org/abs/1804.09555)]
 * **Jie Chen**, Junhui Hou, and Lap-Pui. Chau, "Light Field Denoising via Anisotropic Parallax Analysis in a CNN Framework,'' _IEEE Signal Processing Letters_ **(IEEE SPL)**, vol. 25, no. 9, pp. 1403-1407, 2018. [[pdf](https://arxiv.org/abs/1805.12358)\] [[code](https://github.com/hotndy/APA-LFDenoising)] 
 * Yun Ni, **Jie Chen**, and Lap-Pui Chau, "Reflection Removal On Single Light Field Capture With Focus Manipulation,'' accepted by _IEEE Transactions on Computational Imaging_ **(IEEE TCI)**. [[pdf](https://ieeexplore.ieee.org/document/8421062/)]
