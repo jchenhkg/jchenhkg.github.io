@@ -10,6 +10,7 @@ show-avatar: false
 -->
 ## 2021
 
+* Z. Yang, Y. Hou, Z. Chen, L. Zhang, and **J. Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," _ICASSP_, 2021
 * Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_ (**TIP**), vol. 30, pp. 1423–1438, 2021.
 
 ## 2020
