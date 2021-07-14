@@ -21,7 +21,7 @@ show-avatar: false
 ## 2020
 * J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_ (**TPAMI**), vol. PP, Sep. 2020.
 * M. Guo, J. Hou, J. Jin, **J. Chen**, and L.-P. Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” in _Proc. European Conference on Computer Vision_ (**ECCV**), 2020, pp. 278–294.
-* * **J. Chen**, L.-P. Chau, J. Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
+* **J. Chen**, L.-P. Chau, J. Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
 * J. Jin, J. Hou, **J. Chen**, S. Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), Seatle, USA, 2020
 * C. Guo, J. Jin, J. Hou, **J. Chen**, "Accurate Light Field Depth Estimation via an Occlusion-aware Network", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
 * **J. Chen**, C.-H. Tan, L.-P. Chau, "Haze Removal with Fusion of Local and Non-local Statistics", Accepted by _IEEE Symposium on Circuits and Systems_ **(ISCAS)**, Seville, Spain, 2020
