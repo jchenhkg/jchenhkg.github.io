@@ -8,7 +8,7 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
-## preprint
+## _preprints_
 * W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," manuscript under review in IEEE Trasactions on Image Processing **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, and L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," manuscript under review in IEEE Trasactions on Image Processing **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
 
