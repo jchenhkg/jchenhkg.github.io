@@ -56,7 +56,7 @@ show-avatar: false
 ## Before 2016  
 #### _Journal_
 * **J. Chen** and L.-P. Chau, "Multiscale Dictionary Learning via Cross-Scale Cooperative Learning and Atom Clustering for Visual Signal Processing,'' _IEEE Transactions on Circuits and Systems for Video Technology_ **(IEEE TCSVT)**, vol. 25, no. 9, pp. 1457-1468, 2015. [[pdf](http://ieeexplore.ieee.org/document/7014226/)]
-* **J. C.** and L.-P. Chau, "A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 23, no. 3, pp. 1097-1104, 2014. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
+* **J. Chen** and L.-P. Chau, "A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 23, no. 3, pp. 1097-1104, 2014. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
   
 #### _Conference_  
 * Y. Ni, **J. Chen**, and L.-P. Chau, "Reflection removal based on single light field capture,'' _IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 1-4, 2017. [[pdf](https://ieeexplore.ieee.org/document/8050813/)] 
