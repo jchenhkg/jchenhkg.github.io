@@ -26,14 +26,13 @@ show-avatar: false
 * C. Guo, J. Jin, J. Hou, **J. Chen**, "Accurate Light Field Depth Estimation via an Occlusion-aware Network", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
 * **J. Chen**, C.-.u Tan, L.-P. Chau, "Haze Removal with Fusion of Local and Non-local Statistics", Accepted by _IEEE Symposium on Circuits and Systems_ **(ISCAS)**, Seville, Spain, 2020
 * Z. Yang, Y. Zhong, **J. Chen**, H. M. Lee and E.-X. Liu, "GPU Accelerated FDTD Method for Terahertz Imaging and Computed Tomography", Accepted by _IEEE International Conference on Computational Electromagnetics_ **(ICCEM)**, Singapore, 2020
+* J. Jin, J. Hou, **J. Chen**, S. Kwong and J. Yu, "Light field super-resolution via attention-guided fusion of hybrid lenses," In ACM International Conference on Multimedia **（ACM MM)**, pp. 193-201, 2020
 
 ## 2019
 
-* Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation With Rate-Distortion Optimization," _IEEE Trans. Circuits Syst. Video Techn_, vol. 29, no. 2, pp. 517-530, 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
-* Henry Wing Fung Yeung, Junhui Hou, Xiaoming Chen, **Jie Chen**, Zhibo Chen, and Yuk Ying Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_, novl. 28, no. 5, pp. 2319-2330, 2019.
-* **Jie Chen**, Lap-Pui Chau, and Junhui Hou, "Stratified Labeling for Surface Consistent Parallax Correction and Occlusion Completion," CoRR abs/1903.02688, 2019.
+* Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation With Rate-Distortion Optimization," _IEEE Trans. Circuits Syst. Video Techn_ **(TCSVT)**, vol. 29, no. 2, pp. 517-530, 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
+* Henry Wing Fung Yeung, Junhui Hou, Xiaoming Chen, **Jie Chen**, Zhibo Chen, and Yuk Ying Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_ **(TIP)**, novl. 28, no. 5, pp. 2319-2330, 2019.
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, and Jingyi Yu, "Learning High-fidelity Light Field Images From Hybrid Inputs," CoRR abs/1907.09640, 2019.
-* Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, Jingyi Yu, "Flexible, Fast and Accurate Densely-Sampled Light Field Reconstruction Network,” CoRR abs/1909.01341, 2019.
 
 ## 2018
 * **Jie Chen**,  Cheen-Hau Tan, Junhui Hou, Lap-Pui. Chau, and He Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' [[pdf](https://arxiv.org/abs/1804.09555)]
