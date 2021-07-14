@@ -33,7 +33,7 @@ navbar-links:
   
   Professional Services: "pages/services/"
   
-  News & Oppotunities: "pages/news/"
+  # News & Oppotunities: "pages/news/"
 
   # Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
