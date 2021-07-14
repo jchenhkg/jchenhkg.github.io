@@ -10,11 +10,12 @@ show-avatar: false
 -->
 ## preprint
 * W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," manuscript under review in IEEE Trasactions on Image Processing (**TIP**) [[arXiv](https://arxiv.org/abs/2106.09548)]
-* J. Chen, Z. Yang, T. N. Chan, H. Li, J. Hou, L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," manuscript under review in IEEE Trasactions on Image Processing (**TIP**) [[arXiv](https://arxiv.org/abs/2107.06211)]
-* 
+* **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," manuscript under review in IEEE Trasactions on Image Processing (**TIP**) [[arXiv](https://arxiv.org/abs/2107.06211)]
+
 ## 2021
 
-* Z. Yang, Y. Hou, Z. Chen, L. Zhang, and **J. Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," _ICASSP_, 2021
+* M. Guo, J. Hou, J. Jin, **J. Chen** and L. -P. Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," in _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (**TPAMI**), 2021
+* Z. Yang, Y. Hou, Z. Chen, L. Zhang, and **J. Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," _IEEE International Conference on Acoustics, Speech, & Signal Processing_ (**ICASSP**), 2021
 * Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_ (**TIP**), vol. 30, pp. 1423–1438, 2021.
 
 ## 2020
