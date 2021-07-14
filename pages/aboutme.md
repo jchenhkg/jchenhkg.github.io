@@ -23,5 +23,6 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
+- Zhang, Ruiqi (BSc., M.Eng. XJTU, PhD student since 2021)
 - YANG, Xingxing (BSc. UESTC, PhD student since 2020)
 - XING, Wenpeng (BEng. HIT, PGDip. U Limerick, MPhil/PhD student since 2020)
