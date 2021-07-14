@@ -9,19 +9,19 @@ show-avatar: false
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
 ## preprint
-* W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," manuscript under review in IEEE Trasactions on Image Processing (**TIP**) [[arXiv](https://arxiv.org/abs/2106.09548)]
-* **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," manuscript under review in IEEE Trasactions on Image Processing (**TIP**) [[arXiv](https://arxiv.org/abs/2107.06211)]
+* W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," manuscript under review in IEEE Trasactions on Image Processing **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
+* **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, and L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," manuscript under review in IEEE Trasactions on Image Processing **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
 
 ## 2021
 
-* M. Guo, J. Hou, J. Jin, **J. Chen** and L. -P. Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," in _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (**TPAMI**), 2021
-* Z. Yang, Y. Hou, Z. Chen, L. Zhang, and **J. Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," _IEEE International Conference on Acoustics, Speech, & Signal Processing_ (**ICASSP**), 2021
-* Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_ (**TIP**), vol. 30, pp. 1423–1438, 2021.
+* M. Guo, J. Hou, J. Jin, **J. Chen** and L. -P. Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," in _IEEE Transactions on Pattern Analysis and Machine Intelligence_ **(TPAMI)**, 2021
+* Z. Yang, Y. Hou, Z. Chen, L. Zhang, and **J. Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2021
+* Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_ **(TIP)**, vol. 30, pp. 1423–1438, 2021.
 
 ## 2020
 * J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_ (**TPAMI**), vol. PP, Sep. 2020.
-* M. Guo, J. Hou, J. Jin, **J. Chen**, and L.-P. Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” in _Proc. European Conference on Computer Vision_, 2020, pp. 278–294.
-* J. Jin, J. Hou, **J. Chen**, S. Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
+* M. Guo, J. Hou, J. Jin, **J. Chen**, and L.-P. Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” in _Proc. European Conference on Computer Vision_ (**ECCV**), 2020, pp. 278–294.
+* J. Jin, J. Hou, **J. Chen**, S. Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), Seatle, USA, 2020
 * **J. Chen**, L.-P. Chau, J. Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
 * C. Guo, J. Jin, J. Hou, **J. Chen**, "Accurate Light Field Depth Estimation via an Occlusion-aware Network", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
 * **J. Chen**, C.-.u Tan, L.-P. Chau, "Haze Removal with Fusion of Local and Non-local Statistics", Accepted by _IEEE Symposium on Circuits and Systems_ **(ISCAS)**, Seville, Spain, 2020
