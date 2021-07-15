@@ -22,7 +22,7 @@
 - _ACM Transactions on Graphics_ (**TOG**)
 - _IEEE Transactions on Visualization and Computer Graphics_ (**TVCG**)
 - _IEEE Transactions on Broadcasting_ (**TOB**)
-- _IEEE Signal Processing Letters_ (**TOB**)
+- _IEEE Signal Processing Letters_ (**SPL**)
 - _The Visual Computer Journal, Springer_ (**TJVC**)
 - _IET Image Processing_ (**IETIP**)
 - _Multimedia Tools and Applications, Springer_ (**MTAP**)
