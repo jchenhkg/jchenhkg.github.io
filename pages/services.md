@@ -26,6 +26,6 @@
 - _The Visual Computer Journal, Springer_ (**TJVC**)
 - _IET Image Processing_ (**IETIP**)
 - _Multimedia Tools and Applications, Springer_ (**MTAP**)
-- **CVPR** [19',20']
-- **ICCV** [19']
+- **CVPR** [19',20',21']
+- **ICCV** [19',21']
 - **ECCV** [20']
