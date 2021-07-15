@@ -14,18 +14,18 @@ show-avatar: false
 
 ## 2021
 
-* M. Guo, J. Hou, J. Jin, **J. Chen** and L. -P. Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," in _IEEE Transactions on Pattern Analysis and Machine Intelligence_ **(TPAMI)**, 2021
-* Z. Yang, Y. Hou, Z. Chen, L. Zhang, and **J. Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2021
+* M. Guo, J. Hou, J. Jin, **J. Chen** and L. -P. Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_ **(TPAMI)**, 2021.
+* Z. Yang, Y. Hou, Z. Chen, L. Zhang, and **J. Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, pp. 8578-8582, 2021
 * Z. Zhu, J. Hou, **J. Chen**, H. Zeng, and J. Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_ **(TIP)**, vol. 30, pp. 1423–1438, 2021.
 
 ## 2020
 * J. Jin, J. Hou, **J. Chen**, H. Zeng, S. Kwong, and J. Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_ (**TPAMI**), vol. PP, Sep. 2020.
-* M. Guo, J. Hou, J. Jin, **J. Chen**, and L.-P. Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” in _Proc. European Conference on Computer Vision_ (**ECCV**), 2020, pp. 278–294.
-* **J. Chen**, L.-P. Chau, J. Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
-* J. Jin, J. Hou, **J. Chen**, S. Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), Seatle, USA, 2020
-* C. Guo, J. Jin, J. Hou, **J. Chen**, "Accurate Light Field Depth Estimation via an Occlusion-aware Network", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
-* **J. Chen**, C.-H. Tan, L.-P. Chau, "Haze Removal with Fusion of Local and Non-local Statistics", Accepted by _IEEE Symposium on Circuits and Systems_ **(ISCAS)**, Seville, Spain, 2020
-* Z. Yang, Y. Zhong, **J. Chen**, H. M. Lee and E.-X. Liu, "GPU Accelerated FDTD Method for Terahertz Imaging and Computed Tomography", Accepted by _IEEE International Conference on Computational Electromagnetics_ **(ICCEM)**, Singapore, 2020
+* M. Guo, J. Hou, J. Jin, **J. Chen**, and L.-P. Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” in _Proc. European Conference on Computer Vision_ (**ECCV**), pp. 278–294, 2020.
+* **J. Chen**, L.-P. Chau, J. Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, pp. 1-6, 2020.
+* J. Jin, J. Hou, **J. Chen**, S. Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), pp. 2260-2269, 2020.
+* C. Guo, J. Jin, J. Hou, **J. Chen**, "Accurate Light Field Depth Estimation via an Occlusion-aware Network", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, pp. 1-6, 2020.
+* **J. Chen**, C.-H. Tan, L.-P. Chau, "Haze Removal with Fusion of Local and Non-local Statistics", Accepted by _IEEE Symposium on Circuits and Systems_ **(ISCAS)**, pp. 1-5, 2020.
+* Z. Yang, Y. Zhong, **J. Chen**, H. M. Lee and E.-X. Liu, "GPU Accelerated FDTD Method for Terahertz Imaging and Computed Tomography", Accepted by _IEEE International Conference on Computational Electromagnetics_ **(ICCEM)**, pp. 1-4, 2020.
 * J. Jin, J. Hou, **J. Chen**, S. Kwong and J. Yu, "Light field super-resolution via attention-guided fusion of hybrid lenses," In ACM International Conference on Multimedia **（ACM MM)**, pp. 193-201, 2020
 
 ## 2019
