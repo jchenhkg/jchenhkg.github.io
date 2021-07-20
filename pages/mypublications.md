@@ -32,10 +32,9 @@ show-avatar: false
 ## 2019
 
 * H. W. F. Yeung, J. Hou, X. Chen, **Jie Chen**, Z. Chen, and Y. Y. Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_ **(TIP)**, vol. 28, no. 5, pp. 2319-2330, 2019.
-
+* **J. Chen**,  C.-H. Tan, J. Hou, L.-P. Chau, and H. Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' _arXiv preprint_, arXiv:1804.09555 [[arXiv](https://arxiv.org/abs/1804.09555)]
 
 ## 2018
-* **J. Chen**,  C.-H. Tan, J. Hou, L.-P. Chau, and H. Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' _arXiv preprint_, arXiv:1804.09555 [[arXiv](https://arxiv.org/abs/1804.09555)]
 * **J. Chen**, J. Hou, and L.-P. Chau, "Light Field Denoising via Anisotropic Parallax Analysis in a CNN Framework,'' _IEEE Signal Processing Letters_ **(IEEE SPL)**, vol. 25, no. 9, pp. 1403-1407, 2018. [[arXiv](https://arxiv.org/abs/1805.12358)\] [[code](https://github.com/hotndy/APA-LFDenoising)] 
 * Y. Ni, **J. Chen**, and L.-P. Chau, "Reflection Removal On Single Light Field Capture With Focus Manipulation,'' _IEEE Transactions on Computational Imaging_ **(TCI)**. [[pdf](https://ieeexplore.ieee.org/document/8421062/)]
 * **J. Chen**, J. Hou, Y. Ni, and L.-P. Chau, "Accurate Light Field Depth Estimation with Superpixel Regularization over Partially Occluded Regions,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 27, no. 10, pp. 4889-4900, 2018. [[pdf](https://arxiv.org/abs/1708.01964)] [[code](https://github.com/hotndy/LFDepth_POBR)]    
