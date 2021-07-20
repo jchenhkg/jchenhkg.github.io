@@ -31,7 +31,7 @@ show-avatar: false
 
 ## 2019
 
-* H. W. F. Yeung, J. Hou, X. Chen, **Jie Chen**, Z. Chen, and Y. Y. Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_ **(TIP)**, vol. 28, no. 5, pp. 2319-2330, 2019.
+* H. W. F. Yeung, J. Hou, X. Chen, **J. Chen**, Z. Chen, and Y. Y. Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_ **(TIP)**, vol. 28, no. 5, pp. 2319-2330, 2019.
 * **J. Chen**,  C.-H. Tan, J. Hou, L.-P. Chau, and H. Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' _arXiv preprint_, arXiv:1804.09555 [[arXiv](https://arxiv.org/abs/1804.09555)]
 
 ## 2018
