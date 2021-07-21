@@ -11,7 +11,7 @@ show-avatar: false
 ## _preprints_
 * **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, and L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," manuscript under review in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
 * W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," manuscript under review in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
-* X. Yang, **J. Chen**, Z.Yang and W. Chen, "Attention-Guided NIR Image Colorization via Adaptive Fusion of Semantic and Texture Clues", under reivew [[arXiv](https://arxiv.org/submit/3846280)].
+* X. Yang, **J. Chen**, Z.Yang and W. Chen, "Attention-Guided NIR Image Colorization via Adaptive Fusion of Semantic and Texture Clues", under reivew [[arXiv](https://arxiv.org/abs/2107.09237)].
 
 ## 2021
 
