@@ -15,4 +15,5 @@
 - Computational Photography (Light fields, HDR+, Computational Tomography)
 - Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
 - Novel Imaging Systems and their ISP pipelines
+- Artificial Intelligence for Art Tech
 
