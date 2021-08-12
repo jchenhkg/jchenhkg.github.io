@@ -6,9 +6,9 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
-- **JIANG, Junkun**, _B.Eng. XMU and M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士). Ph.D. student since 2021 
-- **ZHANG, Ruiqi**, _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩). Ph.D. student since 2021
-- **YANG, Xingxing**, _B.Sc. UESTC_ (楊星星, 電子科大本科). Ph.D. student since 2020 
-- **XING, Wenpeng**, _B.Eng. HIT, PGDip. U Limerick_ (邢文鵬, 哈工大本科). M.Phil./Ph.D. student since 2020
+- **JIANG, Junkun**, _B.Eng. XMU and M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士). Ph.D. 2021-.
+- **ZHANG, Ruiqi**, _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩). Ph.D. 2021-.
+- **YANG, Xingxing**, _B.Sc. UESTC_ (楊星星, 電子科大本科). Ph.D. student since 2020-. 
+- **XING, Wenpeng**, _B.Eng. HIT, PGDip. U Limerick_ (邢文鵬, 哈工大本科). M.Phil./Ph.D. 2020-.
 
 
