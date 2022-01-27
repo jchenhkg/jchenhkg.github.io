@@ -16,7 +16,7 @@ show-avatar: false
 * W. Xing, **J. Chen**, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _The Visual Computer Journal, Springer_ **(TVCJ)**
 
 ## 2022
-* W. Xing and **J. Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2021
+* W. Xing and **J. Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2021
 
 ## 2021
 
