@@ -10,13 +10,13 @@ show-avatar: false
 -->
 ## _preprints_
 * W. Xing and **J. Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", manuscript under review at conference venue [[arXiv](https://arxiv.org/abs/2111.10533)]  
-* **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, and L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," manuscript under review in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
 * W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," manuscript under review in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
 * X. Yang, **J. Chen**, Z.Yang and W. Chen, "Attention-Guided NIR Image Colorization via Adaptive Fusion of Semantic and Texture Clues", manuscript under reivew in _IEEE Transactions on Multimedia_ **(TMM)**.
 * W. Xing, **J. Chen**, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _The Visual Computer Journal, Springer_ **(TVCJ)**
 
 ## 2022
 * W. Xing and **J. Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2021
+* **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, and L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," accepted for publication in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
 
 ## 2021
 
