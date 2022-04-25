@@ -12,7 +12,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
 
-- Computational photography (light field imaging, high dynamic range imaging, hyperspectral imaging, computational tomography)
+- Computational photography (light field imaging, high dynamic range imaging, hyperspectral imaging and computational tomography)
 - Multimedia capture, reconstruction and synthesis (3D vision, motion and music)
 - Image/video signal processing and restoration
 - Novel imaging systems
