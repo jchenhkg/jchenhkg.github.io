@@ -6,6 +6,7 @@
 
 <p>&nbsp; <span style="font-size: 18px;"><strong><span style="font-family: georgia, serif;">Conference Organisation</span></strong></span></p>
 
+- **Programme Committee**, _Computer Graphics International_ (**CGI**) 2022, Geneva, Switzerland
 - **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2021, Chengdu, China
 - **Programme Committee**, _Computer Graphics International_ (**CGI**) 2021, Geneva, Switzerland
 - **Programme Committee**, _ACM International Conference on Multimedia_ (**ACM MM**) 2020, Seattle, United States
