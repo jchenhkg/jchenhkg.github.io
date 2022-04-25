@@ -12,8 +12,8 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
 
-- Computational Photography (Light fields, HDR+, Computational Tomography)
-- 3D Vision/Graphics (Image-based Rendering, Volumetric Capture, VR/AR applications)
-- Novel Imaging Systems and their ISP pipelines
-- Artificial Intelligence for Art Tech
-
+- Computational photography (light field imaging, high dynamic range imaging, hyperspectral imaging, computational tomography)
+- Multimedia capture，reconstruction，and synthesis (3D vision, motion, and music)
+- Image/video signal processing and restoration
+- Novel imaging systems
+- AI for Art Tech
