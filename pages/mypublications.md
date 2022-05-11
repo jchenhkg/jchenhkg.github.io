@@ -15,7 +15,7 @@ show-avatar: false
 * W. Xing, **J. Chen**, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _The Visual Computer Journal, Springer_ **(TVCJ)**
 
 ## 2022
-* W. Xing and **J. Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2021
+* W. Xing and **J. Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2022
 * **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, and L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," accepted for publication in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
 
 ## 2021
