@@ -1,8 +1,9 @@
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
 
+- **COMP1015** _Computing for Creatives I_ [2022-S1]
 - **COMP4026** _Computer Vision and Pattern Recognition_ [2021-S1]
-- **ITEC2016** _Data-Driven Visualisation for the Web_ [2021-S1, 2020-S1]
-- **COMP4025** _Interactive Computer Graphics_ [2020-S2, 2019-S2]  
+- **ITEC2016** _Data-Driven Visualisation for the Web_ [2022-S1, 2021-S1, 2020-S1]
+- **COMP4025** _Interactive Computer Graphics_ [2021-S2, 2020-S2, 2019-S2]  
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
