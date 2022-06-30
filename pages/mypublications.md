@@ -15,7 +15,7 @@ show-avatar: false
 * Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ **(MIR)**
 
 ## 2022
-* Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and **Yike Guo**, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory MINOR revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
+* Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory MINOR revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_ **(TIP)**, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
 * Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
