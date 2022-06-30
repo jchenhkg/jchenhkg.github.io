@@ -16,16 +16,16 @@ show-avatar: false
 
 ## 2022
 * Wenpeng Xing, **Jie Chen**, Zaifeng Yang, and Qiang Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory MINOR revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
+* **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_ **(TIP)**, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
 * Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
 * Wenpeng Xing and **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
 * Wenpeng Xing and **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, pp. 1581--1585, 2022
-* **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_ **(TIP)**, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 
 ## 2021
-* Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_ **(TPAMI)**, 2021.
-* Zaifeng Yang, Yubo Hou, Zhenghua Chen, Le Zhang, and **Jie Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, pp. 8578-8582, 2021
+* Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_ **(TPAMI)**, 2021
 * Zhiyu Zhu, Junhui Hou, **Jie Chen**, Huanqiang Zeng, and Jiantao Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_ **(TIP)**, vol. 30, pp. 1423–1438, 2021
+* Zaifeng Yang, Yubo Hou, Zhenghua Chen, Le Zhang, and **Jie Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, pp. 8578-8582, 2021
 
 ## 2020
 * Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, and Jingyi Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_ (**TPAMI**), vol. PP, Sep. 2020
@@ -38,8 +38,8 @@ show-avatar: false
 * Jing Jin, Junhui Hou, Jie Chen, Sam Kwong, and Jingyi Yu, "Light field super-resolution via attention-guided fusion of hybrid lenses," In _Proc. ACM International Conference on Multimedia_ **（ACM MM)**, pp. 193-201, Seattle, United States, 2020
 
 ## 2019
-* **Jie Chen**,  Cheen-Hau Tan, Junhui Hou, Lap-Pui. Chau, and He Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' _arXiv preprint_, arXiv:1804.09555 [[arXiv](https://arxiv.org/abs/1804.09555)]
 * Henry W. F. Yeung, Junhui Hou, Xiaoming Chen, **Jie Chen**, Zhibo Chen, and Yuk Ying Chung, "Light Field Spatial Super-Resolution Using Deep Spatial-Angular Interleaved CNN,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 28, no. 5, pp. 2319-2330, 2019 
+* **Jie Chen**,  Cheen-Hau Tan, Junhui Hou, Lap-Pui. Chau, and He Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' _arXiv preprint_, arXiv:1804.09555 [[arXiv](https://arxiv.org/abs/1804.09555)]
 
 ## 2018
 * **Jie Chen**, Junhui Hou, and Lap-Pui. Chau, "Light Field Denoising via Anisotropic Parallax Analysis in a CNN Framework,'' _IEEE Signal Processing Letters_ **(IEEE SPL)**, vol. 25, no. 9, pp. 1403-1407, 2018 [[pdf](https://arxiv.org/abs/1805.12358)\] [[code](https://github.com/hotndy/APA-LFDenoising)] 
@@ -64,7 +64,6 @@ show-avatar: false
 #### _Journal_
 * **Jie Chen** and Lap-Pui Chau, "Multiscale Dictionary Learning via Cross-Scale Cooperative Learning and Atom Clustering for Visual Signal Processing,'' _IEEE Transactions on Circuits and Systems for Video Technology_ **(IEEE TCSVT)**, vol. 25, no. 9, pp. 1457-1468, 2015 [[pdf](http://ieeexplore.ieee.org/document/7014226/)]
 * **Jie Chen** and Lap-Pui Chau, "A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 23, no. 3, pp. 1097-1104, 2014 [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
-
 
 #### _Conference_  
 * **Jie Chen**, Lap-Pui Chau and He Li, "Light field depth from multi-scale particle filtering,'' In _Proc. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference_ **(APSIPA)**, pp. 1-6, Jeju, Korea, 2016 [[pdf](http://ieeexplore.ieee.org/document/7820906/)] [[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:iX2aOtnJGo8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW2e5b0ebXZt3Qgmwg-wxv0qNE_m09edP&scisf=4&ct=citation&cd=-1&hl=en)] 
