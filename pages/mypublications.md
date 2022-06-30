@@ -9,8 +9,9 @@ show-avatar: false
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
 ## _preprints_
+
 * Wenpeng Xing and **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", manuscript under review at conference venue [[arXiv](https://arxiv.org/abs/2111.10533)]  
-* Xingxing Yang, **Jie Chen**, Z.Yang and W. Chen, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
+* Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
 * Wenpeng Xing, **Jie Chen**, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ **(MIR)**
 
 ## 2022
