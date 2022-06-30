@@ -9,17 +9,17 @@ show-avatar: false
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
 ## _preprints_
-* W. Xing and **J. Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", manuscript under review at conference venue [[arXiv](https://arxiv.org/abs/2111.10533)]  
-* X. Yang, **J. Chen**, Z.Yang and W. Chen, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
-* W. Xing, **J. Chen**, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ **(MIR)**
+* Wenpeng Xing and **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", manuscript under review at conference venue [[arXiv](https://arxiv.org/abs/2111.10533)]  
+* Xingxing Yang, **Jie Chen**, Z.Yang and W. Chen, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
+* Wenpeng Xing, **Jie Chen**, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ **(MIR)**
 
 ## 2022
-* W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory MINOR revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
+* Wenpeng Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory MINOR revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
 * Ho Yin Au, **Jie Chen**, Junkun Jiang, Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM Multimedia_ **(ACMMM)**, 2022
 * Junkun Jiang, **Jie Chen**, Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM Multimedia_ **(ACMMM)**, 2022
 * Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM Multimedia_ **(ACMMM)**, 2022
-* W. Xing and **J. Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2022
-* **J. Chen**, Z. Yang, T. N. Chan, H. Li, J. Hou, and L.-P. Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," accepted for publication in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
+* Wenpeng Xing and **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2022
+* **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," accepted for publication in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
 
 ## 2021
 
