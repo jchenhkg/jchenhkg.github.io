@@ -19,7 +19,7 @@ show-avatar: false
 * Junkun Jiang, **Jie Chen**, Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM Multimedia_ **(ACMMM)**, 2022
 * Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM Multimedia_ **(ACMMM)**, 2022
 * Wenpeng Xing and **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," accepted by _IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, 2022
-* **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," accepted for publication in _IEEE Trasactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2107.06211)]
+* **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_ **(TIP)**, vol. 31, pp. 2661--2672, 2022. [[arXiv](https://arxiv.org/abs/2107.06211)]
 
 ## 2021
 
