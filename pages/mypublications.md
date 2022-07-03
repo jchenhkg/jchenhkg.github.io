@@ -10,17 +10,19 @@ show-avatar: false
 -->
 ## _preprints_
 
-* Wenpeng Xing and **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", manuscript under review at conference venue [[arXiv](https://arxiv.org/abs/2111.10533)]  
+
 * Xingxing Yang and **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
 * Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ **(MIR)**
 
 ## 2022
+* Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," Accepted by _European Conference on Computer Vision_ **(ECCV)**, 2022
+* Wenpeng Xing, **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", Accepted by _European Conference on Computer Vision_ **(ECCV)**, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)]  
 * Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory MINOR revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_ **(TIP)**, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
 * Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
-* Wenpeng Xing and **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
-* Wenpeng Xing and **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, pp. 1581--1585, 2022
+* Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
+* Wenpeng Xing, **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, pp. 1581--1585, 2022
 
 ## 2021
 * Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_ **(TPAMI)**, 2021
