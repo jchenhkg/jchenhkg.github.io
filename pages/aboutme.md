@@ -20,6 +20,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Media Coverage</span></span></p>
 
--[浸大聯AI辦全球首個音樂會 指揮：AI 演繹有情感 [am730]]()
+- [浸大聯AI辦全球首個音樂會 指揮：AI 演繹有情感 [am730]]()
 - <a href="url">link text</a>
-- -[浸大AI獻歌舞 賀回歸25載 [Lion Rock Daily]](https://www.lionrockdaily.com/epaper/view/newsDetail/1544003583710728192.html)
+- [浸大人機合唱賀回歸25周年 AI舞蹈家表演自編芭蕾舞 虛擬合唱團高歌《東方之珠》[Wen Wei Po]](https://www.wenweipo.com/a/202207/05/AP62c34fd3e4b033218a5600c5.html)
+- [浸大AI獻歌舞 賀回歸25載 [Lion Rock Daily]](https://www.lionrockdaily.com/epaper/view/newsDetail/1544003583710728192.html)
