@@ -19,4 +19,6 @@
 - AI for Art Tech
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Media Coverage</span></span></p>
--[123](https://frontend.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E6%B5%B8%E5%A4%A7%E8%81%AFai%E8%BE%A6%E5%85%A8%E7%90%83%E9%A6%96%E5%80%8B%E9%9F%B3%E6%A8%82%E6%9C%83-%E6%8C%87%E6%8F%AE-ai-%E6%BC%94%E7%B9%B9%E6%9C%89%E6%83%85%E6%84%9F/327030)
+
+- [華中師大一附中](http://www.hzsdyfz.com.cn/Category_1/Index.aspx)
+-[浸大聯AI辦全球首個音樂會 指揮：AI 演繹有情感 [am730]](http://www.hzsdyfz.com.cn/Category_1/Index.aspx)
