@@ -23,7 +23,7 @@ show-avatar: false
 * Wenpeng Xing, **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", accepted by _European Conference on Computer Vision_ **(ECCV)**, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)]  
 * Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
 * Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
-* Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022
+* Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM International Conference on Multimedia_ **(ACM MM)**, 2022 [[project page](https://derry-xing.github.io/projects/MVSPlenOctree/)]
 * Wenpeng Xing, **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_ **(ICASSP)**, pp. 1581--1585, 2022
 
 ## 2021
