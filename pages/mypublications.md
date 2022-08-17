@@ -12,11 +12,9 @@ show-avatar: false
 
 
 * Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues", manuscript under review in conference venue
-* $\textcolor{red}{**[TIP]**}$ Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," manuscript under review in _IEEE Transactions on Image Processing_
-* Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ **(MIR)**
-* Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
-* $\color{red}{hello world}$
-* <font style="color: red;">hello world</font>
+* **[TIP]:** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," manuscript under review in _IEEE Transactions on Image Processing_
+* **[MIR]:** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ 
+* **[TIP]:** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
 
 
 ## 2022
@@ -79,7 +77,4 @@ show-avatar: false
 * **Jie Chen**, and Lap-Pui Chau. "A Fast Adaptive Guided Filtering Algorithm for Light Field Depth Interpolation,'' In _Proc. IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 2281-2284, Melbourne, Australia, 2014 [[pdf](http://ieeexplore.ieee.org/document/6865626/)] [[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:NAnqkgl-FLwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW2e4ZukMNrSAojDf_9x2lSLnlGpebvNy&scisf=4&ct=citation&cd=-1&hl=en)]
 * **Jie Chen**, Alexander Matyasko, and Lap-Pui Chau, "A Light Field Sparse Representation Structure and Its Fast Coding Technique,'' In _Proc. IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 214-218, Hongkong, China, 2014 [[pdf](http://ieeexplore.ieee.org/document/6900831/)]
 * Cheen-Hau Tan, **Jie Chen**, and Lap-Pui Chau, "Dynamic scene rain removal for moving cameras,'' In _Proc. IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 372-376, Hongkong, China, 2014 [[pdf](http://ieeexplore.ieee.org/document/6900689/)] [[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:Q3PZlYkHNGUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW3ldhyenZlkF2FaR45Us8FgppamkfoFB&scisf=4&ct=citation&cd=-1&hl=en)]
-* **Jie Chen**, and Lap-Pui Chau, "Rain removal from dynamic scene based on motion segmentation,'' In _Proc. IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 2139-2142, Beijing, China, 2013 [[pdf](http://ieeexplore.ieee.org/document/6572297/)] [[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:Pw5DLPa7FT8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW3ld-BrDWkvYn4X1PdoYyh7T_vXGBxP-&scisf=4&ct=citation&cd=-1&hl=en)]  
-* **Jie Chen**, and Lap-Pui Chau, "An Enhanced Window-Variant Dark Channel Prior for Depth Estimation Using Single Foggy Image,'' In _Proc. IEEE International Conference on Image Processing_ **(ICIP)**, pp. 3508-3512, Melbourne, Australia, 2013 [[pdf](http://ieeexplore.ieee.org/document/6738724/)]
-* Shuigen Wang, Chenwei Deng, Weisi Lin, Baojun Zhao, and **Jie Chen**, "A novel SVD-based image quality assessment metric,'' _IEEE International Conference on Image Processing_ **(ICIP)**, pp. 423-426, Melbourne, Australia, 2013 [[pdf](http://ieeexplore.ieee.org/document/6738087/)]
-* Junhui Hou, Lap-Pui Chau, Ying He, **Jie Chen**, and Nadia Magnenat-Thalmann, "Human motion capture data recovery via trajectory-based sparse representation," In _Proc. IEEE International Conference on Image Processing_ **(ICIP)**, pp. 709-713, Melbourne, Australia, 2013 [[pdf](http://ieeexplore.ieee.org/abstract/document/6738146/)]
+* **Jie Chen**, and Lap-Pui Chau, "Rain removal from dynamic scene based on motion segmentation,'' In _Proc. IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 2139-2142, Beijing
