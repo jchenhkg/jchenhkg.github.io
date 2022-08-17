@@ -16,6 +16,7 @@ show-avatar: false
 * Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ **(MIR)**
 * Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_ **(TIP)**
 * $\color{red}{hello world}$
+* <font style="color: red;">hello world</font>
 
 
 ## 2022
