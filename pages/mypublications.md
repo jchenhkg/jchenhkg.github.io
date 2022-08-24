@@ -18,7 +18,7 @@ show-avatar: false
 
 
 ## 2022
-* **[TIP]:** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory MINOR revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
+* **[TIP]:** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," accepted by _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **[TIP]:** **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_ **(TIP)**, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * **[ECCV]:** Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," accepted by _European Conference on Computer Vision_, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
 * **[ECCV]:** Wenpeng Xing, **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", accepted by _European Conference on Computer Vision_, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)] [[project page](https://github.com/HKBU-VSComputing/2022_ECCV_Temporal-MPI)]  
