@@ -12,11 +12,10 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
 
-- Computational photography (light field imaging, high dynamic range imaging, hyperspectral imaging and computational tomography)
-- Multimedia capture, reconstruction and synthesis (3D vision, motion and music)
-- Image/video signal processing and restoration
-- Novel imaging systems
-- AI for Art Tech
+- Computational photography (light field imaging, high dynamic range imaging, hyperspectral imaging and computational tomography), novel imaging systems.
+- Image/video signal processing and restoration.
+- Multimedia signal capture, reconstruction and content generation (3D vision, motion and music).
+- AI for Art-Tech and Humanities.
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Media Coverage</span></span></p>
 - [BUddies Magazine Feature Story 2022](http://aao.hkbu.edu.hk/filemanager_zms/common/BUddies_Jun_2022/html5forpc.html?page=0)
