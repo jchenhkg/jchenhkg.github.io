@@ -28,7 +28,7 @@ show-avatar: false
 * **[ICASSP]:** Wenpeng Xing, **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 1581--1585, 2022
 
 ## 2021
-* **[TPAMI]:** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021
+* **[TPAMI]:** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 1, pp. 1-1, 2021
 * **[TIP]:** Zhiyu Zhu, Junhui Hou, **Jie Chen**, Huanqiang Zeng, and Jiantao Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_, vol. 30, pp. 1423–1438, 2021
 * **[ICASSP]:** Zaifeng Yang, Yubo Hou, Zhenghua Chen, Le Zhang, and **Jie Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 8578-8582, 2021
 
