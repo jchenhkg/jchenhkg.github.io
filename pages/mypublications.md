@@ -17,7 +17,7 @@ show-avatar: false
 
 
 ## 2022
-#### _<span style="color:Indigo">Journal</span>_
+#### _<span style="color:darkviolet">Journal</span>_
 * **[TIP]:** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," accepted by _IEEE Transactions on Image Processing_ [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **[TIP]:** **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * **[TPAMI]:** Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, and Jingyi Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_, vol. 44, no. 4, pp. 1819-1836, 2022
