@@ -25,12 +25,12 @@ show-avatar: false
 * **[ACM MM]:** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM International Conference on Multimedia_, Lisbon, Portugal, 2022 [[arXiv](https://arxiv.org/abs/2207.07386)]
 * **[ACM MM]:** Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM International Conference on Multimedia_, Lisbon, Portugal, 2022 [[arXiv](https://arxiv.org/abs/2207.07381)] [[project page](https://jjkislele.github.io/pages/projects/dmaeMocap/)] [[dataset](https://drive.google.com/drive/folders/1kuGcN1wmnJO4Ih0VGy8CUcy67xVOqSWF)]
 * **[ACM MM]:** Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM International Conference on Multimedia_, Lisbon, Portugal, 2022 [[project page](https://derry-xing.github.io/projects/MVSPlenOctree/)]
-* **[ICASSP]:** Wenpeng Xing, **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 1581--1585, 2022
+* **[ICASSP]:** Wenpeng Xing, **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 1581--1585, Singapore, 2022
 
 ## 2021
 * **[TPAMI]:** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 1, pp. 1-1, 2021
 * **[TIP]:** Zhiyu Zhu, Junhui Hou, **Jie Chen**, Huanqiang Zeng, and Jiantao Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_, vol. 30, pp. 1423–1438, 2021
-* **[ICASSP]:** Zaifeng Yang, Yubo Hou, Zhenghua Chen, Le Zhang, and **Jie Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 8578-8582, 2021
+* **[ICASSP]:** Zaifeng Yang, Yubo Hou, Zhenghua Chen, Le Zhang, and **Jie Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 8578-8582, Toronto, Canada, 2021
 
 ## 2020
 * **[ECCV]:** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” In _Proc. European Conference on Computer Vision_, pp. 278–294, 2020
