@@ -10,10 +10,8 @@ show-avatar: false
 -->
 ## _preprints_
 
-* <span style="color:Indigo"> **[TVCG]:** </span> 
-Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues", manuscript submit to _IEEE Transactions on Visualization and Computer Graphics_
-* <span style="color:Indigo"> **[TIP]:** </span>
-Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," manuscript under review in _IEEE Transactions on Image Processing_
+* **[TVCG]:** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues", manuscript submit to _IEEE Transactions on Visualization and Computer Graphics_
+* **[TIP]:** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," manuscript under review in _IEEE Transactions on Image Processing_
 * **[MIR]:** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under review in _Machine Intelligence Research, Springer_ 
 * **[TIP]:** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_
 
@@ -22,8 +20,7 @@ Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Explor
 * **[TIP]:** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," accepted by _IEEE Transactions on Image Processing_ [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **[TIP]:** **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * **[TPAMI]:** Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, and Jingyi Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_, vol. 44, no. 4, pp. 1819-1836, 2022
-* * <span style="color:SeaGreen"> **[ECCV]:** </span> 
-Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," accepted by _European Conference on Computer Vision_, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
+* **[ECCV]:** Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," accepted by _European Conference on Computer Vision_, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
 * **[ECCV]:** Wenpeng Xing, **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", accepted by _European Conference on Computer Vision_, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)] [[project page](https://github.com/HKBU-VSComputing/2022_ECCV_Temporal-MPI)]  
 * **[ACM MM]:** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM International Conference on Multimedia_, 2022 [[arXiv](https://arxiv.org/abs/2207.07386)]
 * **[ACM MM]:** Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM International Conference on Multimedia_, 2022 [[arXiv](https://arxiv.org/abs/2207.07381)] [[project page](https://jjkislele.github.io/pages/projects/dmaeMocap/)] [[dataset](https://drive.google.com/drive/folders/1kuGcN1wmnJO4Ih0VGy8CUcy67xVOqSWF)]
