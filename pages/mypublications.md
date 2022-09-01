@@ -72,6 +72,7 @@ show-avatar: false
 ## 2017
 #### _Journal_
 * **[TCSVT]:** **Jie Chen** and Lap-Pui Chau, "Light Field Compressed Sensing Over a Disparity-Aware Dictionary,'' _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 27, no. 4, pp. 855-865, 2017 [[pdf](http://ieeexplore.ieee.org/document/7368916/)]
+
 #### _Conference_
 * **[APSIPA]:** **Jie Chen**, Yun Ni, Junhui Hou, and Lap-Pui Chau, "Light Field Scene Flow with Occlusion Regularization,'' In _Proc. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference_, Kuala Lumpur, Malaysia, 2017 [[pdf](https://ieeexplore.ieee.org/abstract/document/8282200/)]  
 * **[DSP]:** Cheen-Hau Tan, **Jie Chen**, and Lap-Pui Chau, "Edge-preserving rain removal for light field images based on RPCA,'' In _Proc. IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 1-5, London, UK, 2017 [[pdf](http://ieeexplore.ieee.org/document/8096066/)]
