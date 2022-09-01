@@ -21,6 +21,7 @@ show-avatar: false
 * **[TIP]:** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," accepted by _IEEE Transactions on Image Processing_ [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **[TIP]:** **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * **[TPAMI]:** Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, and Jingyi Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_, vol. 44, no. 4, pp. 1819-1836, 2022
+
 #### _Conference_
 * **[ECCV]:** Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," accepted by _European Conference on Computer Vision_, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
 * **[ECCV]:** Wenpeng Xing, **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", accepted by _European Conference on Computer Vision_, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)] [[project page](https://github.com/HKBU-VSComputing/2022_ECCV_Temporal-MPI)]  
@@ -33,6 +34,7 @@ show-avatar: false
 #### _Journal_
 * **[TPAMI]:** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 1, pp. 1-1, 2021
 * **[TIP]:** Zhiyu Zhu, Junhui Hou, **Jie Chen**, Huanqiang Zeng, and Jiantao Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_, vol. 30, pp. 1423–1438, 2021
+
 #### _Conference_
 * **[ICASSP]:** Zaifeng Yang, Yubo Hou, Zhenghua Chen, Le Zhang, and **Jie Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 8578-8582, Toronto, Canada, 2021
 
@@ -59,6 +61,7 @@ show-avatar: false
 * **[TIP]:** **Jie Chen**, Junhui Hou, and Lap-Pui Chau, "Light Field Compression with Disparity Guided Sparse Coding based on Structural Key Views,'' _IEEE Transactions on Image Processing_, vol. 27, no. 1, pp. 314-324, 2018 [[pdf](http://ieeexplore.ieee.org/document/8030107/)] [[data](https://github.com/hotndy/SC-SKV)]
 * **[TCSVT]:** Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation with Rate Distortion Optimization,'' _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 29, no. 2, pp. 517-530, 2018 [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
 * **[TGARS]:** Shaohui Mei, Junhui Hou, **Jie Chen**, Lap-Pui Chau, and Qian Du, "Simultaneous Spatial and Spectral Low-Rank Representation of Hyperspectral Images for Classification,'' _IEEE Transactions on Geoscience and Remote Sensing_, vol. 56, no. 5, pp. 2872-2886, 2018 [[pdf](https://ieeexplore.ieee.org/abstract/document/8248629/)]
+
 #### _Conference_
 * **[ECCV]:** Henry Yeung, Junhui Hou, **Jie Chen**, Yuk Ying Chung, and Xiaoming Chen, "Fast Light Field ReconstructionWith Deep Coarse-To-Fine Modeling of Spatial-Angular Clues,'' In _Proc. European Conference on Computer Vision_ , pp. 137-152, Munich, Germany, 2018
 * **[CVPR]:** *Jie Chen**, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li, "Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework,'' In _Proc. IEEE Conference on Computer Vision and Pattern Recognition_ spotlight (6.6%), Salt Lake City, Utah, 2018 [[pdf](https://arxiv.org/abs/1708.01964)] [[dataset](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[code](https://bitbucket.org/st_ntu_corplab/mrp2a/src/bd2633dbc9912b833de156c799fdeb82747c1240?at=master)]
