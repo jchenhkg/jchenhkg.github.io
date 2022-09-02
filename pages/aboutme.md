@@ -23,9 +23,7 @@
 - In warm-up for an AI Celine Dion, AI choir and dancers accompany human orchestra in Hong Kong concert [[南華早報 (SCMP)-2022.07.21](https://www.scmp.com/lifestyle/arts-culture/article/3185916/warm-ai-celine-dion-ai-choir-and-dancers-accompany-human?module=perpetual_scroll_0&pgtype=article&campaign=3185916)]
 - The New Era of Art-Tech [[BUddies Magazine Feature Story 2022](http://aao.hkbu.edu.hk/filemanager_zms/common/BUddies_Jun_2022/html5forpc.html?page=0)]  
 - Highlights of the HKBU Annual Gala Concert 2022
-
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ukNg60OEH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
 
 - 浸大聯AI辦全球首個音樂會 指揮：AI 演繹有情感 [[am730-2022.07.05](https://frontend.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E6%B5%B8%E5%A4%A7%E8%81%AFai%E8%BE%A6%E5%85%A8%E7%90%83%E9%A6%96%E5%80%8B%E9%9F%B3%E6%A8%82%E6%9C%83-%E6%8C%87%E6%8F%AE-ai-%E6%BC%94%E7%B9%B9%E6%9C%89%E6%83%85%E6%84%9F/327030)]  
 [](//commented out- 浸大聯AI辦全球首個音樂會 指揮：AI 演繹有情感 [[Yahoo News-2022.07.05](https://hk.news.yahoo.com/%E6%B5%B8%E5%A4%A7%E8%81%AFai%E8%BE%A6%E5%85%A8%E7%90%83%E9%A6%96%E5%80%8B%E9%9F%B3%E6%A8%82%E6%9C%83-%E6%8C%87%E6%8F%AE-ai-%E6%BC%94%E7%B9%B9%E6%9C%89%E6%83%85%E6%84%9F-203110445.html)])  
