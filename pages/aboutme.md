@@ -11,7 +11,6 @@
 - [華中師大一附中](http://www.hzsdyfz.com.cn/Category_1/Index.aspx)
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
-
 - Computational photography (light field imaging, high dynamic range imaging, hyperspectral imaging and computational tomography), novel imaging systems.
 - Image/video signal processing and restoration.
 - Multimedia signal capture, reconstruction and content generation (3D vision, motion and music).
