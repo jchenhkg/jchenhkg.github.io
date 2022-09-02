@@ -11,6 +11,7 @@
 - [華中師大一附中](http://www.hzsdyfz.com.cn/Category_1/Index.aspx)
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
+
 - Computational photography (light field imaging, high dynamic range imaging, hyperspectral imaging and computational tomography), novel imaging systems.
 - Image/video signal processing and restoration.
 - Multimedia signal capture, reconstruction and content generation (3D vision, motion and music).
@@ -18,7 +19,6 @@
 
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Media Coverage</span></span></p>
-
 
 - In warm-up for an AI Celine Dion, AI choir and dancers accompany human orchestra in Hong Kong concert [[南華早報 (SCMP)-2022.07.21](https://www.scmp.com/lifestyle/arts-culture/article/3185916/warm-ai-celine-dion-ai-choir-and-dancers-accompany-human?module=perpetual_scroll_0&pgtype=article&campaign=3185916)]
 - The New Era of Art-Tech [[BUddies Magazine Feature Story 2022](http://aao.hkbu.edu.hk/filemanager_zms/common/BUddies_Jun_2022/html5forpc.html?page=0)]  
