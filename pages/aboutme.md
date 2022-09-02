@@ -26,3 +26,7 @@
 - [[life.mingpao] 音樂會增「AI自主」 聞歌起舞製動畫 浸大「訓練」避指示 展現學習理解力](https://life.mingpao.com/general/article?issue=20220705&nodeid=1656958787164)
 - [[Wen Wei Po] 浸大人機合唱賀回歸25周年 AI舞蹈家表演自編芭蕾舞 虛擬合唱團高歌《東方之珠》](https://www.wenweipo.com/a/202207/05/AP62c34fd3e4b033218a5600c5.html)
 - [[Lion Rock Daily] 浸大AI獻歌舞 賀回歸25載](https://www.lionrockdaily.com/epaper/view/newsDetail/1544003583710728192.html)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukNg60OEH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
