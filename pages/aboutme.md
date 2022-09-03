@@ -33,7 +33,7 @@
 
 
 <div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ukNg60OEH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/ukNg60OEH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption><a href="https://www.americanscientist.org/article/computational-photography" style="color: rgb(64, 64, 64);">Computational Photography</a></figcaption>
 </div>
 
