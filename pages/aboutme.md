@@ -31,3 +31,33 @@
 - 浸大人機合唱賀回歸25周年 AI舞蹈家表演自編芭蕾舞 虛擬合唱團高歌《東方之珠》 [[文匯網 (Wen Wei Po)-2022.07.05](https://www.wenweipo.com/a/202207/05/AP62c34fd3e4b033218a5600c5.html)]  
 - 浸大AI獻歌舞 賀回歸25載 [[Lion Rock Daily](https://www.lionrockdaily.com/epaper/view/newsDetail/1544003583710728192.html)]  
 
+
+<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukNg60OEH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption><a href="https://www.americanscientist.org/article/computational-photography" style="color: rgb(64, 64, 64);">Computational Photography</a></figcaption>
+</div>
+
+<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">  <!--column-->
+	<figure>
+		<a href="https://en.wikipedia.org/wiki/3D_reconstruction" style="color: rgb(64, 64, 64);">
+		<img style="display: block; margin-left: auto; margin-right: auto;" alt="" height="136" src="https://raw.githubusercontent.com/jchenhkg/jchenhkg.github.io/master/img/idx-multicam.jpg"/></a>
+		<figcaption><a href="https://web.stanford.edu/class/cs231a/projects2016.html" style="color: rgb(64, 64, 64);">3D Reconstruction</a></figcaption>
+	</figure>
+</div>
+
+<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">  <!--column-->
+	<figure>
+		<a href="https://zetamotion.com/" style="color: rgb(64, 64, 64);">
+		<img style="display: block; margin-left: auto; margin-right: auto;" alt="" height="136" src="https://raw.githubusercontent.com/jchenhkg/jchenhkg.github.io/master/img/idx-CVG.jpg"/></a>
+		<figcaption><a href="https://zetamotion.com/" style="color: rgb(64, 64, 64);">Motion</a></figcaption>
+	</figure>
+</div>
+
+<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">  <!--column-->
+	<figure>
+		<a href="https://jchenhkg.github.io/pages/aboutme/" style="color: rgb(64, 64, 64);">
+		<img style="display: block; margin-left: auto; margin-right: auto;" alt="" height="136" src="https://raw.githubusercontent.com/jchenhkg/jchenhkg.github.io/master/img/idx-CVGAT.jpg"/></a>
+		<figcaption><a href="https://jchenhkg.github.io/pages/aboutme/" style="color: rgb(64, 64, 64);">Art Tech</a></figcaption>
+	</figure>
+</div>
+</div>
