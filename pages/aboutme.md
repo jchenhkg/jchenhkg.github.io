@@ -20,6 +20,12 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Media Coverage</span></span></p>
 
+
+<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">
+<iframe style="position: relative; width: 300;" src="https://www.youtube.com/embed/ukNg60OEH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption>Highlights of the HKBU Annual Gala Concert 2022</figcaption>
+</div>
+
 - In warm-up for an AI Celine Dion, AI choir and dancers accompany human orchestra in Hong Kong concert [[南華早報 (SCMP)-2022.07.21](https://www.scmp.com/lifestyle/arts-culture/article/3185916/warm-ai-celine-dion-ai-choir-and-dancers-accompany-human?module=perpetual_scroll_0&pgtype=article&campaign=3185916)]
 - The New Era of Art-Tech [[BUddies Magazine Feature Story 2022](http://aao.hkbu.edu.hk/filemanager_zms/common/BUddies_Jun_2022/html5forpc.html?page=0)]  
 - Highlights of the HKBU Annual Gala Concert 2022
@@ -32,32 +38,3 @@
 - 浸大AI獻歌舞 賀回歸25載 [[Lion Rock Daily](https://www.lionrockdaily.com/epaper/view/newsDetail/1544003583710728192.html)]  
 
 
-<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/ukNg60OEH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<figcaption><a href="https://www.americanscientist.org/article/computational-photography" style="color: rgb(64, 64, 64);">Computational Photography</a></figcaption>
-</div>
-
-<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">  <!--column-->
-	<figure>
-		<a href="https://en.wikipedia.org/wiki/3D_reconstruction" style="color: rgb(64, 64, 64);">
-		<img style="display: block; margin-left: auto; margin-right: auto;" alt="" height="136" src="https://raw.githubusercontent.com/jchenhkg/jchenhkg.github.io/master/img/idx-multicam.jpg"/></a>
-		<figcaption><a href="https://web.stanford.edu/class/cs231a/projects2016.html" style="color: rgb(64, 64, 64);">3D Reconstruction</a></figcaption>
-	</figure>
-</div>
-
-<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">  <!--column-->
-	<figure>
-		<a href="https://zetamotion.com/" style="color: rgb(64, 64, 64);">
-		<img style="display: block; margin-left: auto; margin-right: auto;" alt="" height="136" src="https://raw.githubusercontent.com/jchenhkg/jchenhkg.github.io/master/img/idx-CVG.jpg"/></a>
-		<figcaption><a href="https://zetamotion.com/" style="color: rgb(64, 64, 64);">Motion</a></figcaption>
-	</figure>
-</div>
-
-<div class="col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">  <!--column-->
-	<figure>
-		<a href="https://jchenhkg.github.io/pages/aboutme/" style="color: rgb(64, 64, 64);">
-		<img style="display: block; margin-left: auto; margin-right: auto;" alt="" height="136" src="https://raw.githubusercontent.com/jchenhkg/jchenhkg.github.io/master/img/idx-CVGAT.jpg"/></a>
-		<figcaption><a href="https://jchenhkg.github.io/pages/aboutme/" style="color: rgb(64, 64, 64);">Art Tech</a></figcaption>
-	</figure>
-</div>
-</div>
