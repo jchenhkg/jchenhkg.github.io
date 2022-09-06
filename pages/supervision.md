@@ -8,7 +8,6 @@
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
 - **AU, Ho Yin** (Ph.D. _HKPFS_ 2022-), _B.Sc. UIUC, M.Sc. UMass Amherst_ (歐浩然, UIUC本科, UMass Amherst碩士).
-- **ZHAO, Yu** (Ph.D. 2022-), _B.Eng. UESTC, MSc. SJTU_ (趙宇, 電子科大本科，上海交大碩士).
 - **LIANG, Bo** (RA 2022-), _B.Sc. HUST_ (梁博，華中科技大學本科).
 - **JIANG, Junkun** (Ph.D. 2021-), _B.Eng. XMU, M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士).
 - **ZHANG, Ruiqi** (Ph.D. 2021-), _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩).
