@@ -20,7 +20,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Media Coverage</span></span></p>
 
-- 虛實藝術／優先試車 [[TVB無線新聞-創科導航-2022.09.29](https://news.tvb.com/tc/programme/innovationgps/633518c9d40cc86247346cff/%E8%99%9B%E5%AF%A6%E8%97%9D%E8%A1%93%EF%BC%8F%E5%84%AA%E5%85%88%E8%A9%A6%E8%BB%8A?utm_source=newsappshare&utm_medium=referral)]
+- 創科導航：虛實藝術／優先試車 [[TVB 無線新聞-2022.09.29](https://news.tvb.com/tc/programme/innovationgps/633518c9d40cc86247346cff/%E8%99%9B%E5%AF%A6%E8%97%9D%E8%A1%93%EF%BC%8F%E5%84%AA%E5%85%88%E8%A9%A6%E8%BB%8A?utm_source=newsappshare&utm_medium=referral)]
 - In warm-up for an AI Celine Dion, AI choir and dancers accompany human orchestra in Hong Kong concert [[南華早報 (SCMP)-2022.07.21](https://www.scmp.com/lifestyle/arts-culture/article/3185916/warm-ai-celine-dion-ai-choir-and-dancers-accompany-human?module=perpetual_scroll_0&pgtype=article&campaign=3185916)]
 - The New Era of Art-Tech [[BUddies Magazine Feature Story 2022](http://aao.hkbu.edu.hk/filemanager_zms/common/BUddies_Jun_2022/html5forpc.html?page=0)]  
 - Highlights of the HKBU Annual Gala Concert 2022
