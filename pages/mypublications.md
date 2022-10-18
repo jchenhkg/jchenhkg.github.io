@@ -12,7 +12,6 @@ show-avatar: false
 
 * **[TVCG]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues", manuscript submit to _IEEE Transactions on Visualization and Computer Graphics_
 * **[TIP]** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," manuscript under review in _IEEE Transactions on Image Processing_
-* **[MIR]** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," manuscript under Major Revision in _Machine Intelligence Research, Springer_ 
 * **[TIP]** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation", manuscript under reivew in _IEEE Transactions on Image Processing_
 
 
@@ -22,6 +21,7 @@ show-avatar: false
 * **[TIP]** **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * **[TPAMI]** Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, and Jingyi Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_, vol. 44, no. 4, pp. 1819-1836, 2022 [[arXiv](https://arxiv.org/pdf/1909.01341.pdf)]
 * **[Survey]** Yike Guo, Qifeng Liu, **Jie Chen**, Wei Xue, Henrik Jensen, Fernando Rosas, Jeffrey Shaw, Xing Wu, Jiji Zhang, and Jianliang Xu, "Pathway to Future Symbiotic Creativity," _arXiv:2209.02388_ [[arXiv](https://arxiv.org/ftp/arxiv/papers/2209/2209.02388.pdf)]
+* **[MIR]** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," accepted for publication in _Machine Intelligence Research, Springer_ 
 
 #### _Conference_
 * **[ECCV]** Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," accepted by _European Conference on Computer Vision_, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
