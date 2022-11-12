@@ -10,7 +10,6 @@ show-avatar: false
 -->
 ## _preprints_
 
-* **[TNNLS]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, "NeuIR: A Neural Integrated Renderer for High-Fidelity View Synthesis," manuscript submit to _IEEE Transactions on Neural Networks and Learning Systems_
 * **[TNNLS]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," manuscript submit to _IEEE Transactions on Neural Networks and Learning Systems_
 * **[TIP]** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," manuscript under review in _IEEE Transactions on Image Processing_
 * **[TIP]** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation," manuscript under reivew in _IEEE Transactions on Image Processing_
