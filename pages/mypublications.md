@@ -17,7 +17,7 @@ show-avatar: false
 
 ## 2022
 #### _Journal_
-* **[TIP]** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," _IEEE Transactions on Image Processing_, vol. 31, pp.6109-6123, [[arXiv](https://arxiv.org/abs/2106.09548)]
+* **[TIP]** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," _IEEE Transactions on Image Processing_, vol. 31, pp. 6109-6123, 2022 [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **[TIP]** **Jie Chen**, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * **[TPAMI]** Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, and Jingyi Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_, vol. 44, no. 4, pp. 1819-1836, 2022 [[arXiv](https://arxiv.org/pdf/1909.01341.pdf)]
 * **[Survey]** Yike Guo, Qifeng Liu, **Jie Chen**, Wei Xue, Henrik Jensen, Fernando Rosas, Jeffrey Shaw, Xing Wu, Jiji Zhang, and Jianliang Xu, "Pathway to Future Symbiotic Creativity," _arXiv:2209.02388_ [[arXiv](https://arxiv.org/ftp/arxiv/papers/2209/2209.02388.pdf)]
