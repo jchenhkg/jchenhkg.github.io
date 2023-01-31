@@ -12,6 +12,7 @@
 - **JIANG, Junkun** (Ph.D. 2021-), _B.Eng. XMU, M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士).
 - **ZHANG, Ruiqi** (Ph.D. 2021-), _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩).
 - **YANG, Xingxing** (Ph.D. 2020-), _B.Sc. UESTC_ (楊星星, 電子科大本科).
+- **ZHOU, Chenhong** (Ph.D. 2020-), _B.Sc. CUG, M.Eng. SCUT_ (周晨紅, 中國地質大學本科，華南理工碩士).
 - **XING, Wenpeng** (Ph.D. 2020-), _B.Eng. HIT, PGDip. U Limerick_ (邢文鵬, 哈工大本科).
 
 
