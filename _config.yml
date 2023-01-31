@@ -33,8 +33,6 @@ navbar-links:
   
   Professional Services: "pages/services/"
   
-  Teaching & Supervision: "pages/supervision/"
-
   # Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
     #- Deep Learning Based Vision Enhancement: "projects/learningVision/"
