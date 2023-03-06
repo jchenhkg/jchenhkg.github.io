@@ -16,8 +16,8 @@ show-avatar: false
 
 ## 2023
 #### _Conference_
-* 
-**[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," accepted by _International Conference on Learning Representations Workshops_, 2023
+
+* **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," accepted by _International Conference on Learning Representations Workshops_, 2023
 
 ## 2022
 #### _Journal_
