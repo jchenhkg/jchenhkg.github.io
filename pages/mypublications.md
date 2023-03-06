@@ -14,6 +14,10 @@ show-avatar: false
 * **[TIP]** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," manuscript under review in _IEEE Transactions on Image Processing_
 * **[TIP]** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation," manuscript under reivew in _IEEE Transactions on Image Processing_
 
+## 2023
+#### _Conference_
+* 
+**[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," accepted by _International Conference on Learning Representations Workshops_, 2023
 
 ## 2022
 #### _Journal_
