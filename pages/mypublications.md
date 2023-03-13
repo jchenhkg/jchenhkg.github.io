@@ -18,6 +18,7 @@ show-avatar: false
 #### _Conference_
 
 * **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," accepted by _International Conference on Learning Representations Workshops_, 2023
+* **[ICME]** Wenpeng Xing, **Jie Chen**, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," accepted by _International Conference on Multimedia & Expo_, 2023
 
 ## 2022
 #### _Journal_
