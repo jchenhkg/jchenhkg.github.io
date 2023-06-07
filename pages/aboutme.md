@@ -28,7 +28,7 @@
 
 - **WU, Jiacheng** (Ph.D. 2023-), _B.Sc. CUHKSZ, M.Sc. HKUST_ (吳佳誠, 港中深本科, 港科大碩士).
 - **XIANG, Jingyu** (RA 2023-), _B.Sc. TJU, M.Sc. OSU_ (向靖宇, 天津大學本科, Oregon State U 碩士).
-- **HE, Wenhao** (RA 2023-), _B.Sc. cityU, M.Sc. cityU_ (向靖宇, 香港城市大學本科, 香港城市大學碩士).
+- **HE, Wenhao** (RA 2023-), _B.Sc. cityU, M.Sc. cityU_ (何文浩, 香港城市大學本科, 香港城市大學碩士).
 - **AU, Ho Yin** (Ph.D. _HKPFS_ 2022-), _B.Sc. UIUC, M.Sc. UMass Amherst_ (歐浩然, UIUC本科, UMass Amherst碩士).
 - **LIANG, Bo** (RA 2022-), _B.Sc. HUST_ (梁博，華中科技大學本科).
 - **JIANG, Junkun** (Ph.D. 2021-), _B.Eng. XMU, M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士).
