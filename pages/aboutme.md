@@ -39,8 +39,8 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Media Coverage</span></span></p>
 
-- 小提琴演奏動捕可視化與AI視頻智能生成 [[夏(四季-維瓦爾第)-暨第十届中国管理研究国际学会谢幕演出-2023.06.17](https://www.bilibili.com/video/BV19z4y1H7Vd/?spm_id_from=333.999.0.0&vd_source=c8922c3208b8069bdf2f13071fd11d24)] 
-<center><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=572689243&bvid=BV19z4y1H7Vd&cid=1173570430&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></center>
+- 小提琴演奏動捕可視化與AI視頻智能生成：夏-四季 by 維瓦爾第 [[暨第十届中国管理研究国际学会谢幕演出-2023.06.17](https://www.bilibili.com/video/BV19z4y1H7Vd/?spm_id_from=333.999.0.0&vd_source=c8922c3208b8069bdf2f13071fd11d24)] 
+<center><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=572689243&bvid=BV19z4y1H7Vd&cid=1173570430&page=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 - 創科導航：虛實藝術／優先試車 [[TVB 無線新聞-2022.09.29](https://news.tvb.com/tc/programme/innovationgps/633518c9d40cc86247346cff/%E8%99%9B%E5%AF%A6%E8%97%9D%E8%A1%93%EF%BC%8F%E5%84%AA%E5%85%88%E8%A9%A6%E8%BB%8A?utm_source=newsappshare&utm_medium=referral)]
 - In warm-up for an AI Celine Dion, AI choir and dancers accompany human orchestra in Hong Kong concert [[南華早報 (SCMP)-2022.07.21](https://www.scmp.com/lifestyle/arts-culture/article/3185916/warm-ai-celine-dion-ai-choir-and-dancers-accompany-human?module=perpetual_scroll_0&pgtype=article&campaign=3185916)]
