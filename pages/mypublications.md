@@ -19,8 +19,8 @@ show-avatar: false
 
 #### _Conference_
 
-* **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," accepted by _International Conference on Learning Representations Workshops_, 2023
-* **[ICME]** Wenpeng Xing, **Jie Chen**, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," accepted by _International Conference on Multimedia & Expo_, 2023
+* **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," _International Conference on Learning Representations Workshops_, 2023
+* **[ICME]** Wenpeng Xing, **Jie Chen**, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," _International Conference on Multimedia & Expo_, 2023
 * **[ACM MM]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, "Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface," _ACM International Conference on Multimedia_, 2023
 * **[ACM MM]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," _ACM International Conference on Multimedia_, 2023
 * **[ACM MM]** Wenpeng Xing, **Jie Chen**, Ka Chun Cheung, Simon See, "IRCasTRF: Inverse Rendering by Optimizing Cascaded Tensorial Radiance Fields, Lighting, and Materials From Multi-view Images," _ACM International Conference on Multimedia_, 2023
@@ -34,12 +34,12 @@ show-avatar: false
 * **[Survey]** Yike Guo, Qifeng Liu, **Jie Chen**, Wei Xue, Henrik Jensen, Fernando Rosas, Jeffrey Shaw, Xing Wu, Jiji Zhang, and Jianliang Xu, "Pathway to Future Symbiotic Creativity," _arXiv:2209.02388_ [[arXiv](https://arxiv.org/ftp/arxiv/papers/2209/2209.02388.pdf)]
 
 #### _Conference_
-* **[ECCV]** Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," accepted by _European Conference on Computer Vision_, pp. 37-52, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
-* **[ECCV]** Wenpeng Xing, **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", accepted by _European Conference on Computer Vision_, pp. 323-338, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)] [[project page](https://github.com/HKBU-VSComputing/2022_ECCV_Temporal-MPI)]  
-* **[ACM MM]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," accepted by _ACM International Conference on Multimedia_, pp. 3917-3925, Lisbon, Portugal, 2022 [[arXiv](https://arxiv.org/abs/2207.07386)]
-* **[ACM MM]** Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," accepted by _ACM International Conference on Multimedia_, pp. 5123-5131, Lisbon, Portugal, 2022 [[arXiv](https://arxiv.org/abs/2207.07381)] [[project page](https://jjkislele.github.io/pages/projects/dmaeMocap/)] [[dataset](https://drive.google.com/drive/folders/1kuGcN1wmnJO4Ih0VGy8CUcy67xVOqSWF)]
-* **[ACM MM]** Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," accepted by _ACM International Conference on Multimedia_, pp. 5114-5122, Lisbon, Portugal, 2022 [[project page](https://derry-xing.github.io/projects/MVSPlenOctree/)]
-* **[ICASSP]** Wenpeng Xing, **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 1581--1585, Singapore, 2022
+* **[ECCV]** Ruiqi Zhang, **Jie Chen**, "NDF: Neural Deformable Fields for Dynamic Human Modelling," in Proc. _European Conference on Computer Vision_, pp. 37-52, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
+* **[ECCV]** Wenpeng Xing, **Jie Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", in Proc. _European Conference on Computer Vision_, pp. 323-338, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)] [[project page](https://github.com/HKBU-VSComputing/2022_ECCV_Temporal-MPI)]  
+* **[ACM MM]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," in Proc. _ACM International Conference on Multimedia_, pp. 3917-3925, Lisbon, Portugal, 2022 [[arXiv](https://arxiv.org/abs/2207.07386)]
+* **[ACM MM]** Junkun Jiang, **Jie Chen**, and Yike Guo, "A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion," in Proc. _ACM International Conference on Multimedia_, pp. 5123-5131, Lisbon, Portugal, 2022 [[arXiv](https://arxiv.org/abs/2207.07381)] [[project page](https://jjkislele.github.io/pages/projects/dmaeMocap/)] [[dataset](https://drive.google.com/drive/folders/1kuGcN1wmnJO4Ih0VGy8CUcy67xVOqSWF)]
+* **[ACM MM]** Wenpeng Xing, **Jie Chen**, "MVSPlenOctree: Fast and Generic Reconstruction of Radiance Fields in PlenOctree from Multi-view Stereo," in Proc. _ACM International Conference on Multimedia_, pp. 5114-5122, Lisbon, Portugal, 2022 [[project page](https://derry-xing.github.io/projects/MVSPlenOctree/)]
+* **[ICASSP]** Wenpeng Xing, **Jie Chen**, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," in Proc. _IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 1581--1585, Singapore, 2022
 
 ## 2021
 #### _Journal_
