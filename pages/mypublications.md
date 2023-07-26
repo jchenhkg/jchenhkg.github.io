@@ -22,6 +22,10 @@ show-avatar: false
 
 * **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," accepted by _International Conference on Learning Representations Workshops_, 2023
 * **[ICME]** Wenpeng Xing, **Jie Chen**, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," accepted by _International Conference on Multimedia & Expo_, 2023
+* **[ACM MM]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, "Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface," accepted by _ACM International Conference on Multimedia_, 2023
+* **[ACM MM]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," accepted by _ACM International Conference on Multimedia_, 2023
+* **[ACM MM]** Wenpeng Xing, **Jie Chen**, Ka Chun Cheung, Simon See, "IRCasTRF: Inverse Rendering by Optimizing Cascaded Tensorial Radiance Fields, Lighting, and Materials From Multi-view Images," accepted by _ACM International Conference on Multimedia_, 2023
+* **[ACM MM]** Zhen Ye, Wei Xue, Xu Tan, **Jie Chen**, Qifeng Liu, Yike Guo, "CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model," accepted by _ACM International Conference on Multimedia_, 2023
 
 ## 2022
 #### _Journal_
