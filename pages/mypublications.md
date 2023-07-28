@@ -12,7 +12,7 @@ show-avatar: false
 
 * **[TNNLS]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," manuscript under reivew in _IEEE Transactions on Image Processing_
 * **[TIP]** Xingxing Yang, **Jie Chen**, and Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate and Diverse NIR-to-RGB Spectral Domain Translation," manuscript under reivew in _IEEE Transactions on Image Processing_
-* **[TVCG]** Jiang, Junkun; **Chen, Jie**; Au, Ho Yin; Chen, Minyuan; Xue, Wei; Guo, Yike, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
+* **[TVCG]** Junkun Jiang, **Jie Chen**, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 
 ## 2023
 #### _Journal_
