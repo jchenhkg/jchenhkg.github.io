@@ -26,7 +26,8 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
-- **WU, Jiacheng** (Ph.D. 2023-), _B.Sc. CUHKSZ, M.Sc. HKUST_ (吳佳誠, 港中深本科, 港科大碩士).
+- **XIANG, Jingyu** (RA 2023-), _B.Sc. FZU, M.Sc. XMU_ (牛姝雯, 福州大學本科, 廈門大學, 碩士).
+- **WU, Jiacheng** (Ph.D. 2023-), _B.Sc. CUHKSZ, M.Sc. HKUST_ (吳佳誠，港中深本科, 港科大碩士).
 - **XIANG, Jingyu** (RA 2023-), _B.Sc. TJU, M.Sc. OSU_ (向靖宇, 天津大學本科, Oregon State U 碩士).
 - **HE, Wenhao** (RA 2023-), _B.Sc. cityU, M.Sc. cityU_ (何文浩, 香港城市大學本科, 香港城市大學碩士).
 - **AU, Ho Yin** (Ph.D. _HKPFS_ 2022-), _B.Sc. UIUC, M.Sc. UMass Amherst_ (歐浩然, UIUC本科, UMass Amherst碩士).
