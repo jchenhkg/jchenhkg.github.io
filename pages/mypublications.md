@@ -13,11 +13,12 @@ show-avatar: false
 * **[TVCG]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, Zaifeng Yang, Ka Chun Cheung, Simon See, Yike Guo, "NxDS: Learning and Distilling Neural Deformable Surface Representations for Fast and Accurate Avatar Appearance Modelling," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 * **[TVCG]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, Zaifeng Ynag, Ka Chun Cheung, Simon See, Yike Guo, "Decoding Illumination and Specularity over Learned Neural Volumetric Bases for High-Fidelity View Rendering," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 * **[TVCG]** Junkun Jiang, **Jie Chen**, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
-* **[MIR]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," manuscript under reivew in _Machine Intelligence Research_
+
   
 ## 2023
 #### _Journal_
-* **[MIR]** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," _Machine Intelligence Research, Springer_, pp 1-13, 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1381-9)]
+* **[MIR]** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," _Machine Intelligence Research, Springer_, pp. 1-13, 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1381-9)]
+* **[MIR]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, pp. 1-1, 2023
 
 #### _Conference_
 
