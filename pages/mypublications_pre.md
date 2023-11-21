@@ -8,6 +8,7 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
+
 ## _preprints_
 * W. Xing and **J. Chen**, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", manuscript under review at conference venue [[arXiv](https://arxiv.org/abs/2111.10533)]  
 * W. Xing, **J. Chen**, Z. Yang and Q. Wang, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," Accept with mandatory revision (AQ) in _IEEE Transactions on Image Processing_ **(TIP)** [[arXiv](https://arxiv.org/abs/2106.09548)]
