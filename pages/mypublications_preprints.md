@@ -11,8 +11,8 @@ show-avatar: false
 ## _preprints_
 
 * **[TVCG]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, Zaifeng Ynag, Ka Chun Cheung, Simon See, Yike Guo, "Decoding Illumination and Specularity over Learned Neural Volumetric Bases for High-Fidelity View Rendering," under first round major revision in _IEEE Transactions on Visualization and Computer Graphics_
-* **[TPAMI]** Ruiqi Zhang, Jie Chen, Qiang Wang, Zaifeng Yang, Ka Chun Cheung, Simon See, and Yike Guo, Senior Member, "Texture-Aligned Space for Efficient and Effective Human Modelling, " under first-round review in _IEEE Transactions on Pattern Analysis and Machine Intelligence_
-* **[TPAMI]** Junkun Jiang, Jie Chen, "Mining Kinematic Skeletal Structures from Multi-view Joint Cloud, " under first-round review in _IEEE Transactions on Pattern Analysis and Machine Intelligence_
+* **[TPAMI]** Ruiqi Zhang, Jie Chen, Qiang Wang, Zaifeng Yang, Ka Chun Cheung, Simon See, and Yike Guo, Senior Member, "Texture-Aligned Transformations for Efficient Dynamic Human Shape Modelling, " under first-round review in _IEEE Transactions on Pattern Analysis and Machine Intelligence_
+* **[TPAMI]** Junkun Jiang, Jie Chen, "Mining Kinematic Skeletal Structures with A Selective Diffusion Model from Multi-view Joint Cloud, " under first-round review in _IEEE Transactions on Pattern Analysis and Machine Intelligence_
 * **[TVCG]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, Zaifeng Yang, Ka Chun Cheung, Simon See, Yike Guo, "NxDS: Learning and Distilling Neural Deformable Surface Representations for Fast and Accurate Avatar Appearance Modelling," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 * **[TVCG]** Junkun Jiang, **Jie Chen**, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 
