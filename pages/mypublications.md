@@ -8,6 +8,7 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
+
 ## _preprints_
 
 * **[TVCG]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, Zaifeng Yang, Ka Chun Cheung, Simon See, Yike Guo, "NxDS: Learning and Distilling Neural Deformable Surface Representations for Fast and Accurate Avatar Appearance Modelling," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
@@ -18,7 +19,6 @@ show-avatar: false
 
 * **[AAAI]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, 2024
 * **[AAAI]** Qingsong Yan, Qiang WANG, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning," _AAAI Conference on Artificial Intelligence_, 2024
-****
   
 ## 2023
 #### _Journal_
