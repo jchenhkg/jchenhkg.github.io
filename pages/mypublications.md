@@ -22,6 +22,8 @@ show-avatar: false
 
 #### _Conference_
 
+* **[AAAI]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, 2024
+* **[AAAI]** Qingsong Yan, Qiang WANG, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning," _AAAI Conference on Artificial Intelligence_, 2024
 * **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," _International Conference on Learning Representations Workshops_, 2023
 * **[ICME]** Wenpeng Xing, **Jie Chen**, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," _International Conference on Multimedia & Expo_, 2023
 * **[ACM MM]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, "Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface," _ACM International Conference on Multimedia_, 2023 [[arXiv](https://arxiv.org/abs/2308.05112)]
