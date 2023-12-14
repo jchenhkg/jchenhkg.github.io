@@ -19,7 +19,6 @@ show-avatar: false
 
 * **[AAAI]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, 2024
 * **[AAAI]** Qingsong Yan, Qiang WANG, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning," _AAAI Conference on Artificial Intelligence_, 2024
-* **[ICASSP]** Chenhong Zhou, **Jie Chen**, Zaifeng Yang, "Enhanced Physics-informed Neural Networks with Optimized Sensor Placement via Multi-Criteria Adaptive Sampling," _IEEE International Conference on Acoustics, Speech, & Signal Processing_, 2024
 * **[ICASSP]** Dear Junkun Jiang, **Jie Chen**, "Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework," _IEEE International Conference on Acoustics, Speech, & Signal Processing_, 2024
   
 ## 2023
