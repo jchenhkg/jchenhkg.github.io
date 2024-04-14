@@ -12,11 +12,13 @@ show-avatar: false
 ## _preprints_
 
 * **[TVCG]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, Zaifeng Yang, Ka Chun Cheung, Simon See, Yike Guo, "NxDS: Learning and Distilling Neural Deformable Surface Representations for Fast and Accurate Avatar Appearance Modelling," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
-* **[TVCG]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, Zaifeng Ynag, Ka Chun Cheung, Simon See, Yike Guo, "Decoding Illumination and Specularity over Learned Neural Volumetric Bases for High-Fidelity View Rendering," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
+* **[TVCG]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, Zaifeng Ynag, Ka Chun Cheung, Simon See, Yike Guo, "Decoding Rendering Factors via Cooperative Learning of Neural Bases and Spatial Feature Coefficients," manuscript under major revision in _IEEE Transactions on Visualization and Computer Graphics_
 * **[TVCG]** Junkun Jiang, **Jie Chen**, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 
 ## 2024
 
+* **[IJCNN]** Chenhong Zhou, **Jie Chen**, Zaifeng Yang, Ching Eng Png, Alexander Matyasko, "Enhanced Physics-Informed Neural Networks with Optimized Sensor Placement via Multi-Criteria Adaptive Sampling," _International Joint Conference on Neural Networks_, 2024
+* **[IJCNN]** Junkun Jiang, Ho Yin Au, **Jie Chen**, Jingyu Xiang and Mingyuan Chen, "LabanPhaser: Manipulating Motion Sequencing over Automatic Symbolic Motion Annotation," _International Joint Conference on Neural Networks_, 2024
 * **[AAAI]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, 2024
 * **[AAAI]** Qingsong Yan, Qiang WANG, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning," _AAAI Conference on Artificial Intelligence_, 2024
 * **[ICASSP]** Junkun Jiang, **Jie Chen**, "Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework," _IEEE International Conference on Acoustics, Speech, & Signal Processing_, 2024
