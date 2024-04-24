@@ -17,7 +17,7 @@ show-avatar: false
 
 ## 2024
 
-* **[IJCNN]** Chenhong Zhou, **Jie Chen**, Zaifeng Yang, Ching Eng Png, Alexander Matyasko, "Enhanced Physics-Informed Neural Networks with Optimized Sensor Placement via Multi-Criteria Adaptive Sampling," _International Joint Conference on Neural Networks_, 2024
+* **[IJCNN]** Chenhong Zhou, **Jie Chen**, Zaifeng Yang, Alexander Matyasko, Ching Eng Png, "Enhanced Physics-Informed Neural Networks with Optimized Sensor Placement via Multi-Criteria Adaptive Sampling," _International Joint Conference on Neural Networks_, 2024
 * **[IJCNN]** Junkun Jiang, Ho Yin Au, **Jie Chen**, Jingyu Xiang and Mingyuan Chen, "LabanPhaser: Manipulating Motion Sequencing over Automatic Symbolic Motion Annotation," _International Joint Conference on Neural Networks_, 2024
 * **[AAAI]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, 2024
 * **[AAAI]** Qingsong Yan, Qiang WANG, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning," _AAAI Conference on Artificial Intelligence_, 2024
