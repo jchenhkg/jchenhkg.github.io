@@ -54,7 +54,7 @@ show-avatar: false
 
 ## 2021
 #### _Journal_
-* **[TPAMI]** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 1, pp. 1-1, 2021
+* **[TPAMI]** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 44, no. 10, pp. 6094-6110, 2021
 * **[TIP]** Zhiyu Zhu, Junhui Hou, **Jie Chen**, Huanqiang Zeng, and Jiantao Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_, vol. 30, pp. 1423–1438, 2021
 
 #### _Conference_
