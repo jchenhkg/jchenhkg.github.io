@@ -25,17 +25,17 @@ show-avatar: false
   
 ## 2023
 #### _Journal_
-* **[MIR]** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," _Machine Intelligence Research, Springer_, pp. 1-13, 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1381-9)]
+* **[MIR]** Wenpeng Xing, **Jie Chen**, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," _Machine Intelligence Research, Springer_, vol. 20, no. 2, pp. 408-420, 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1381-9)]
 * **[MIR]** Ho Yin Au, **Jie Chen**, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, pp. 1-1, 2023
 
 #### _Conference_
 
-* **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," _International Conference on Learning Representations Workshops_, 2023
-* **[ICME]** Wenpeng Xing, **Jie Chen**, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," _International Conference on Multimedia & Expo_, 2023
-* **[ACM MM]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, "Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface," _ACM International Conference on Multimedia_, 2023 [[arXiv](https://arxiv.org/abs/2308.05112)]
-* **[ACM MM]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," _ACM International Conference on Multimedia_, 2023
-* **[ACM MM]** Wenpeng Xing, **Jie Chen**, Ka Chun Cheung, Simon See, "IRCasTRF: Inverse Rendering by Optimizing Cascaded Tensorial Radiance Fields, Lighting, and Materials From Multi-view Images," _ACM International Conference on Multimedia_, 2023
-* **[ACM MM]** Zhen Ye, Wei Xue, Xu Tan, **Jie Chen**, Qifeng Liu, Yike Guo, "CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model," _ACM International Conference on Multimedia_, 2023
+* **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," _International Conference on Learning Representations Workshops_, pp. 1-1, 2023
+* **[ICME]** Wenpeng Xing, **Jie Chen**, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," _International Conference on Multimedia & Expo_, pp. 2183-2188, 2023
+* **[ACM MM]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, "Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface," _ACM International Conference on Multimedia_, pp. 2183-2188, 2023 [[arXiv](https://arxiv.org/abs/2308.05112)]
+* **[ACM MM]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," _ACM International Conference on Multimedia_, pp. 2409-2417, 2023
+* **[ACM MM]** Wenpeng Xing, **Jie Chen**, Ka Chun Cheung, Simon See, "IRCasTRF: Inverse Rendering by Optimizing Cascaded Tensorial Radiance Fields, Lighting, and Materials From Multi-view Images," _ACM International Conference on Multimedia_, pp. 2409-2417, 2023
+* **[ACM MM]** Zhen Ye, Wei Xue, Xu Tan, **Jie Chen**, Qifeng Liu, Yike Guo, "CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model," _ACM International Conference on Multimedia_, pp. 1831-1839, 2023
 
 ## 2022
 #### _Journal_
