@@ -36,8 +36,9 @@
 - **ZHANG, Ruiqi** (Ph.D. 2021-), _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩).
 - **YANG, Xingxing** (Ph.D. 2020-), _B.Sc. UESTC_ (楊星星, 電子科大本科).
 - **ZHOU, Chenhong** (Ph.D. 2020-), _B.Sc. CUG, M.Eng. SCUT_ (周晨紅, 中國地質大學本科，華南理工碩士).
-
+- 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Alumni</span></p>
+
 - **XING, Wenpeng** (Ph.D. 2020-2024), _B.Eng. HIT, PGDip. U Limerick_ (邢文鵬, 哈工大本科).
 - **LIANG, Bo** (RA 2022-2023), _B.Sc. HUST_ (梁博，華中科技大學本科).
 
