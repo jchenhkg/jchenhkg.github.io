@@ -36,6 +36,7 @@ show-avatar: false
 * **[ACM MM]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation," _ACM International Conference on Multimedia_, pp. 2409-2417, 2023
 * **[ACM MM]** Wenpeng Xing, **Jie Chen**, Ka Chun Cheung, Simon See, "IRCasTRF: Inverse Rendering by Optimizing Cascaded Tensorial Radiance Fields, Lighting, and Materials From Multi-view Images," _ACM International Conference on Multimedia_, pp. 2409-2417, 2023
 * **[ACM MM]** Zhen Ye, Wei Xue, Xu Tan, **Jie Chen**, Qifeng Liu, Yike Guo, "CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model," _ACM International Conference on Multimedia_, pp. 1831-1839, 2023
+* **[VCIP]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate NIR-to-RGB Spectral Domain Translation." _IEEE International Conference on Visual Communications and Image Processing, PP. 1-5, 2023
 
 ## 2022
 #### _Journal_
