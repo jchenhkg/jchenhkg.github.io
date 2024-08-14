@@ -22,6 +22,7 @@ show-avatar: false
 * **[AAAI]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, vol. 44, no. 10, pp. 6094-6110, 2024
 * **[AAAI]** Qingsong Yan, Qiang WANG, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning," _AAAI Conference on Artificial Intelligence_, vol. 38, no. 6, pp. 6440-6448, 2024
 * **[ICASSP]** Junkun Jiang, **Jie Chen**, "Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework," _IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 1-5, 2024
+* **[ACM MM]** Ruiqi Zhang, **Jie Chen**, "Mesh-Centric Gaussian Splatting for Human Avatar Modelling with Real-time Dynamic Mesh Reconstruction," _ACM International Conference on Multimedia_, pp. 1-10, 2024
   
 ## 2023
 #### _Journal_
