@@ -16,7 +16,7 @@ show-avatar: false
 * **[TVCG]** Junkun Jiang, **Jie Chen**, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 
 ## 2024
-
+* **[3DV]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", _International Conference on 3D Vision_, pp. 1-1, 2025
 * **[IJCNN]** Chenhong Zhou, **Jie Chen**, Zaifeng Yang, Alexander Matyasko, Ching Eng Png, "Enhanced Physics-Informed Neural Networks with Optimized Sensor Placement via Multi-Criteria Adaptive Sampling," _International Joint Conference on Neural Networks_, pp. 1-6, 2024
 * **[IJCNN]** Junkun Jiang, Ho Yin Au, **Jie Chen**, Jingyu Xiang and Mingyuan Chen, "Motion Part-Level Interpolation and Manipulation over Automatic Symbolic Labanotation Annotation," _International Joint Conference on Neural Networks_, pp. 1-8, 2024
 * **[AAAI]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, vol. 44, no. 10, pp. 6094-6110, 2024
