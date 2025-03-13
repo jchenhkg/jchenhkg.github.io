@@ -18,6 +18,7 @@ show-avatar: false
 ## 2025
 * **[TVCG]** Junkun Jiang, **Jie Chen**, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," accepted for publication in _IEEE Transactions on Visualization and Computer Graphics_, 2025
 * **[ISCAS]** Shuwen Niu, Junkun Jiang and **Jie Chen**, ''Efficient Real-time Fine-Grained Action Recognition over a Progressive and Hierarchical Classification Framework," _IEEE International Symposium on Circuits and Systems_, 2025
+* **[ICASSP]** Wenpeng Xing, Jie Chen, Zaifeng Yang, Xin Tong, Changting Lin, Meng Han, "NCDI-Diffusion: Neural Contextual and Directional Inversion for Novel View Synthesis through Diffusion Models," _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2025
 
 ## 2024
 * **[3DV]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", _International Conference on 3D Vision_, pp. 1-1, 2025
