@@ -9,8 +9,8 @@ show-avatar: false
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
 
-## _preprints_
 <!--
+## _preprints_
 * **[TVCG]** Ruiqi Zhang, **Jie Chen**, Qiang Wang, Zaifeng Yang, Ka Chun Cheung, Simon See, Yike Guo, "NxDS: Learning and Distilling Neural Deformable Surface Representations for Fast and Accurate Avatar Appearance Modelling," manuscript under reivew in _IEEE Transactions on Visualization and Computer Graphics_
 * **[TVCG]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, Zaifeng Ynag, Ka Chun Cheung, Simon See, Yike Guo, "Decoding Rendering Factors via Cooperative Learning of Neural Bases and Spatial Feature Coefficients," manuscript under major revision in _IEEE Transactions on Visualization and Computer Graphics_
 -->
