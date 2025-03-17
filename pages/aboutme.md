@@ -29,12 +29,16 @@
 - **NIU, Shuwen** (Ph.D. 2024-), _B.Eng. FZU, M.Eng. XMU_ (牛姝雯, 福州大學本科, 廈門大學, 碩士).
 - **HE, Wenhao** (Ph.D. 2024-), _B.Sc. cityU, M.Sc. cityU_ (何文浩, 香港城市大學本科, 香港城市大學碩士).
 - **WU, Jiacheng** (Ph.D. 2023-), _B.Sc. CUHKSZ, M.Sc. HKUST_ (吳佳誠，港中深本科, 港科大碩士).
-- **XIANG, Jingyu** (RA 2023-), _B.Sc. TJU, M.Sc. OSU_ (向靖宇, 天津大學本科, Oregon State U 碩士).
 - **AU, Ho Yin** (Ph.D. _HKPFS_ 2022-), _B.Sc. UIUC, M.Sc. UMass Amherst_ (歐浩然, UIUC本科, UMass Amherst碩士).
 - **JIANG, Junkun** (Ph.D. 2021-), _B.Eng. XMU, M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士).
 - **ZHANG, Ruiqi** (Ph.D. 2021-), _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩).
 - **YANG, Xingxing** (Ph.D. 2020-), _B.Sc. UESTC_ (楊星星, 電子科大本科).
 - **ZHOU, Chenhong** (Ph.D. 2020-), _B.Sc. CUG, M.Eng. SCUT_ (周晨紅, 中國地質大學本科，華南理工碩士).
+
+- **HUANG, Di** (RA 2025-), _B.Sc. U. Iowa, M.Sc. IC_ (黃迪, U. Iowa 本科, Imperial College London 碩士).
+- **ZHANG, Zheyuan** (RA 2025-), _B.Sc. HNU, M.Sc. U. Manchester_ (張哲源, 海南大學本科, U. Manchester 碩士).
+- **SHENG, Hongyun** (RA 2025-), _B.Sc. USST, M.Sc. U. Glasgow_ (盛泓雲, 上海理工大學本科, U. Glasgow 碩士).
+- **XIANG, Jingyu** (RA 2023-), _B.Sc. TJU, M.Sc. OSU_ (向靖宇, 天津大學本科, Oregon State U 碩士).
   
 <p><span style="font-family: georgia, serif; font-size: 26px;">Alumni</span></p>
 
