@@ -46,6 +46,6 @@
 
 - **XING, Wenpeng** (Ph.D. 2020-2024), _B.Eng. HIT, PGDip. U Limerick_ (邢文鵬, 哈工大本科).
 - **LIANG, Bo** (R.A. 2022-2023), _B.Sc. HUST_ (梁博，華中科技大學本科).
-- **WANG, Yuan** (R.A. 2024-), _B.Eng. and M.Sc. SDU_ (王媛, 山東大學本科/碩士).
+- **WANG, Yuan** (R.A. 2024), _B.Eng. and M.Sc. SDU_ (王媛, 山東大學本科/碩士).
   
 
