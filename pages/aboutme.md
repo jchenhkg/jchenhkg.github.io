@@ -26,7 +26,7 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
-**RPg Students**
+**Current RPg Students**
 - **NIU, Shuwen** (Ph.D. 2024-), _B.Eng. FZU, M.Eng. XMU_ (牛姝雯, 福州大學本科, 廈門大學, 碩士).
 - **HE, Wenhao** (Ph.D. 2024-), _B.Sc. cityU, M.Sc. cityU_ (何文浩, 香港城市大學本科, 香港城市大學碩士).
 - **WU, Jiacheng** (Ph.D. 2023-), _B.Sc. CUHKSZ, M.Sc. HKUST_ (吳佳誠，港中深本科, 港科大碩士).
@@ -36,7 +36,7 @@
 - **YANG, Xingxing** (Ph.D. 2020-), _B.Sc. UESTC_ (楊星星, 電子科大本科).
 - **ZHOU, Chenhong** (Ph.D. 2020-), _B.Sc. CUG, M.Eng. SCUT_ (周晨紅, 中國地質大學本科，華南理工碩士).
 
-**Reearch Associates**
+**Research Associates**
 - **HUANG, Di** (R.A. 2025-), _B.Sc. U. Iowa, M.Sc. IC_ (黃迪, U. Iowa 本科, Imperial College London 碩士).
 - **ZHANG, Zheyuan** (R.A. 2025-), _B.Sc. HNU, M.Sc. U. Manchester_ (張哲源, 海南大學本科, U. Manchester 碩士).
 - **SHENG, Hongyun** (R.A. 2025-), _B.Sc. USST, M.Sc. U. Glasgow_ (盛泓雲, 上海理工大學本科, U. Glasgow 碩士).
