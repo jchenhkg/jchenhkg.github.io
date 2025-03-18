@@ -37,7 +37,7 @@
 - **ZHOU, Chenhong** (Ph.D. 2020-), _B.Sc. CUG, M.Eng. SCUT_ (周晨紅, 中國地質大學本科，華南理工碩士).
 
 **Research Associates**
-- **HUANG, Di** (R.A. 2025-), _B.Sc. U. Iowa, M.Sc. IC_ (黃迪, U. Iowa 本科, Imperial College London 碩士).
+- **HUANG, Di** (R.A. 2025-), _B.Sc. U. Iowa, M.Sc. ICL_ (黃迪, U. Iowa 本科, Imperial College London 碩士).
 - **ZHANG, Zheyuan** (R.A. 2025-), _B.Sc. HNU, M.Sc. U. Manchester_ (張哲源, 海南大學本科, U. Manchester 碩士).
 - **SHENG, Hongyun** (R.A. 2025-), _B.Sc. USST, M.Sc. U. Glasgow_ (盛泓雲, 上海理工大學本科, U. Glasgow 碩士).
 - **XIANG, Jingyu** (R.A. 2023-), _B.Sc. TJU, M.Sc. OSU_ (向靖宇, 天津大學本科, Oregon State U 碩士).
