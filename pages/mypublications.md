@@ -20,7 +20,7 @@ show-avatar: false
 * **[ICME]** *Jiacheng Wu, *Ruiqi Zhang, **Jie Chen**, Hui Zhang, "Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars," _IEEE International Conference on Multimedia and Expo_, 2025
 * **[ICME]** Xingxing Yang, **Jie Chen**, Zaifeng Yang, "Learning Physics-informed Color-aware Transforms for Low-light Image Enhancement," _IEEE International Conference on Multimedia and Expo_, 2025
 * **[ISCAS]** Shuwen Niu, Junkun Jiang and **Jie Chen**, ''Efficient Real-time Fine-Grained Action Recognition over a Progressive and Hierarchical Classification Framework," _IEEE International Symposium on Circuits and Systems_, 2025
-* **[ICASSP]** Wenpeng Xing, Jie Chen, Zaifeng Yang, Xin Tong, Changting Lin, Meng Han, "NCDI-Diffusion: Neural Contextual and Directional Inversion for Novel View Synthesis through Diffusion Models," _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2025
+* **[ICASSP]** Wenpeng Xing, **Jie Chen**, Zaifeng Yang, Xin Tong, Changting Lin, Meng Han, "NCDI-Diffusion: Neural Contextual and Directional Inversion for Novel View Synthesis through Diffusion Models," _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2025
 
 ## 2024
 * **[3DV]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", _International Conference on 3D Vision_, pp. 1-1, 2025
