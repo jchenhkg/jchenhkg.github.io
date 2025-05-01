@@ -22,6 +22,7 @@ show-avatar: false
 ## 2025
 * **[TVCG]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," accepted for publication in _IEEE Transactions on Visualization and Computer Graphics_, 2025
 * **[IJCAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, Ching Eng Png, "Dual-Balancing for Physics-Informed Neural Networks," accepted for publication in International Joint Conference on Artificial Intelligence, 2025
+* **[ICML]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Spectral Transformers for Operator Learning: Bridging Locality and Globality from Frequency Domains," accepted for publication in _International Conference on Machine Learning_, 2025
 * **[ICME]** Jiacheng Wu\#, Ruiqi Zhang\#, **Jie Chen**\*, Hui Zhang, "Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars," _IEEE International Conference on Multimedia and Expo_, 2025
 * **[ICME]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Learning Physics-informed Color-aware Transforms for Low-light Image Enhancement," _IEEE International Conference on Multimedia and Expo_, 2025
 * **[ISCAS]** Shuwen Niu, Junkun Jiang and **Jie Chen**\*, ''Efficient Real-time Fine-Grained Action Recognition over a Progressive and Hierarchical Classification Framework," _IEEE International Symposium on Circuits and Systems_, 2025
