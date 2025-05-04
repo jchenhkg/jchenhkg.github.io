@@ -16,7 +16,6 @@ show-avatar: false
 -->
 
 \* Corresponding Author
-
 \# Equal Contribution
 
 ## 2025
