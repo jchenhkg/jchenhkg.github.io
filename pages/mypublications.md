@@ -28,6 +28,7 @@ show-avatar: false
 * **[ICASSP]** Wenpeng Xing, **Jie Chen**\*, Zaifeng Yang, Xin Tong, Changting Lin, Meng Han, "NCDI-Diffusion: Neural Contextual and Directional Inversion for Novel View Synthesis through Diffusion Models," _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2025
 
 ## 2024
+* **[MIR]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, vol., no. 2, pp. 771-781, 2024
 * **[3DV]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", _International Conference on 3D Vision_, pp. 1-1, 2025
 * **[IJCNN]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, Alexander Matyasko, Ching Eng Png, "Enhanced Physics-Informed Neural Networks with Optimized Sensor Placement via Multi-Criteria Adaptive Sampling," _International Joint Conference on Neural Networks_, pp. 1-6, 2024
 * **[IJCNN]** Junkun Jiang, Ho Yin Au, **Jie Chen**\*, Jingyu Xiang and Mingyuan Chen, "Motion Part-Level Interpolation and Manipulation over Automatic Symbolic Labanotation Annotation," _International Joint Conference on Neural Networks_, pp. 1-8, 2024
@@ -37,12 +38,8 @@ show-avatar: false
 * **[ACM MM]** Ruiqi Zhang, **Jie Chen**\*, "Mesh-Centric Gaussian Splatting for Human Avatar Modelling with Real-time Dynamic Mesh Reconstruction," _ACM International Conference on Multimedia_, pp. 1-10, 2024
   
 ## 2023
-#### _Journal_
+
 * **[MIR]** Wenpeng Xing, **Jie Chen**\*, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," _Machine Intelligence Research, Springer_, vol. 20, no. 2, pp. 408-420, 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1381-9)]
-* **[MIR]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, pp. 1-1, 2023
-
-#### _Conference_
-
 * **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**\*, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," _International Conference on Learning Representations Workshops_, pp. 1-1, 2023
 * **[ICME]** Wenpeng Xing, **Jie Chen**\*, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," _International Conference on Multimedia & Expo_, pp. 2183-2188, 2023
 * **[ACM MM]** Ruiqi Zhang, **Jie Chen**\*, Qiang Wang, "Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface," _ACM International Conference on Multimedia_, pp. 2183-2188, 2023 [[arXiv](https://arxiv.org/abs/2308.05112)]
@@ -52,13 +49,11 @@ show-avatar: false
 * **[VCIP]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Multi-scale Progressive Feature Embedding for Accurate NIR-to-RGB Spectral Domain Translation." _IEEE International Conference on Visual Communications and Image Processing, PP. 1-5, 2023
 
 ## 2022
-#### _Journal_
+
 * **[TIP]** Wenpeng Xing, **Jie Chen**\*, Zaifeng Yang, Qiang Wang, and Yike Guo, "Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering," _IEEE Transactions on Image Processing_, vol. 31, pp. 6109-6123, 2022 [[arXiv](https://arxiv.org/abs/2106.09548)]
 * **[TIP]** **Jie Chen**\*, Zaifeng Yang, Tsz Nam Chan, Hui Li, Junhui Hou, and Lap-Pui Chau, "Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration," _IEEE Trasactions on Image Processing_, vol. 31, pp. 2661--2672, 2022 [[arXiv](https://arxiv.org/abs/2107.06211)]
 * **[TPAMI]** Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, and Jingyi Yu, “Deep coarse-to-fine dense light field reconstruction with flexible sampling and geometry-aware fusion,” _IEEE Transactions Pattern Analysis and Machine Intelligence_, vol. 44, no. 4, pp. 1819-1836, 2022 [[arXiv](https://arxiv.org/pdf/1909.01341.pdf)]
 * **[Survey]** Yike Guo, Qifeng Liu, **Jie Chen**, Wei Xue, Henrik Jensen, Fernando Rosas, Jeffrey Shaw, Xing Wu, Jiji Zhang, and Jianliang Xu, "Pathway to Future Symbiotic Creativity," _arXiv:2209.02388_ [[arXiv](https://arxiv.org/ftp/arxiv/papers/2209/2209.02388.pdf)]
-
-#### _Conference_
 * **[ECCV]** Ruiqi Zhang, **Jie Chen**\*, "NDF: Neural Deformable Fields for Dynamic Human Modelling," in Proc. _European Conference on Computer Vision_, pp. 37-52, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2207.09193v1)] [[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)]
 * **[ECCV]** Wenpeng Xing, **Jie Chen**\*, "Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning", in Proc. _European Conference on Computer Vision_, pp. 323-338, Tel Aviv, Israel, 2022 [[arXiv](https://arxiv.org/abs/2111.10533)] [[project page](https://github.com/HKBU-VSComputing/2022_ECCV_Temporal-MPI)]  
 * **[ACM MM]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, and Yike Guo, "ChoreoGraph: Music-conditioned Automatic Dance Choreography over a Style and Tempo Consistent Dynamic Graph," in Proc. _ACM International Conference on Multimedia_, pp. 3917-3925, Lisbon, Portugal, 2022 [[arXiv](https://arxiv.org/abs/2207.07386)]
@@ -67,15 +62,11 @@ show-avatar: false
 * **[ICASSP]** Wenpeng Xing, **Jie Chen**\*, "Nex+: Novel View Synthesis with Neural Regularisation over Multi-Plane Images," in Proc. _IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 1581--1585, Singapore, 2022
 
 ## 2021
-#### _Journal_
 * **[TPAMI]** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 44, no. 10, pp. 6094-6110, 2021
 * **[TIP]** Zhiyu Zhu, Junhui Hou, **Jie Chen**, Huanqiang Zeng, and Jiantao Zhou, “Hyperspectral image super-resolution via deep progressive zero-centric residual learning,” _IEEE Transactions on Image Processing_, vol. 30, pp. 1423–1438, 2021
-
-#### _Conference_
 * **[ICASSP]** Zaifeng Yang, Yubo Hou, Zhenghua Chen, Le Zhang, and **Jie Chen**, "A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data," In _Proc. IEEE International Conference on Acoustics, Speech, & Signal Processing_, pp. 8578-8582, Toronto, Canada, 2021
 
 ## 2020
-#### _Conference_
 * **[ECCV]** Mantang Guo, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, “Deep spatial-angular regularization for compressive light field reconstruction over coded apertures,” In _Proc. European Conference on Computer Vision_, pp. 278–294, 2020
 * **[ICME]** **Jie Chen**, Lap-Pui Chau, Junhui Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", In _Proc. IEEE International Conference on Multimedia & Expo_, pp. 1-6, London, UK, 2020
 * **[CVPR]** Jing Jin, Junhui Hou, **Jie Chen**, and Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", In _Proc. IEEE Conference on Computer Vision and Pattern Recognition_, pp. 2260-2269, 2020
