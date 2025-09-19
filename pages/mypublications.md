@@ -19,6 +19,8 @@ show-avatar: false
 \# Equal Contribution
 
 ## 2025
+* **[NeurIPs]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, Jingyu Xiang, "Deep Compositional Phase Diffusion for Long Motion Sequence Generation," accepted by _NeurIPs_ as **oral**, 2025
+* **[NeurIPs]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Unraveling Metameric Dilemma for Spectral Reconstruction: A High-Fidelity Approach via Semi-Supervised Learning," accepted by _NeurIPs_, 2025
 * **[TVCG]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," accepted for publication in _IEEE Transactions on Visualization and Computer Graphics_, 2025
 * **[IJCAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, Ching Eng Png, "Dual-Balancing for Physics-Informed Neural Networks," accepted for publication in _International Joint Conference on Artificial Intelligence_, 2025
 * **[ICME]** Jiacheng Wu\#, Ruiqi Zhang\#, **Jie Chen**\*, Hui Zhang, "Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars," _IEEE International Conference on Multimedia and Expo_, 2025
