@@ -27,6 +27,10 @@ show-avatar: false
 * **[ICME]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Learning Physics-informed Color-aware Transforms for Low-light Image Enhancement," _IEEE International Conference on Multimedia and Expo_, 2025
 * **[ISCAS]** Shuwen Niu, Junkun Jiang and **Jie Chen**\*, ''Efficient Real-time Fine-Grained Action Recognition over a Progressive and Hierarchical Classification Framework," _IEEE International Symposium on Circuits and Systems_, 2025
 * **[ICASSP]** Wenpeng Xing, **Jie Chen**\*, Zaifeng Yang, Xin Tong, Changting Lin, Meng Han, "NCDI-Diffusion: Neural Contextual and Directional Inversion for Novel View Synthesis through Diffusion Models," _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2025
+* **[IROS]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion," accepted by _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2025
+* **[IROS]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories," accepted by _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2025
+
+arXiv preprint arXiv:2506.15242, 2025
 
 ## 2024
 * **[MIR]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, vol., no. 2, pp. 771-781, 2024
