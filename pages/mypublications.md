@@ -30,8 +30,6 @@ show-avatar: false
 * **[IROS]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion," accepted by _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2025
 * **[IROS]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories," accepted by _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2025
 
-arXiv preprint arXiv:2506.15242, 2025
-
 ## 2024
 * **[MIR]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, vol., no. 2, pp. 771-781, 2024
 * **[3DV]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", _International Conference on 3D Vision_, pp. 1-1, 2025
