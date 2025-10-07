@@ -15,11 +15,7 @@ show-avatar: false
 * **[TVCG]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, Zaifeng Ynag, Ka Chun Cheung, Simon See, Yike Guo, "Decoding Rendering Factors via Cooperative Learning of Neural Bases and Spatial Feature Coefficients," manuscript under major revision in _IEEE Transactions on Visualization and Computer Graphics_
 -->
 
-**Notations**
-
-\* Corresponding Author
-
-\# Equal Contribution
+**Notations:** \* Corresponding Author; \# Equal Contribution.
 
 ## 2025
 * **[NeurIPs]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, Jingyu Xiang, "Deep Compositional Phase Diffusion for Long Motion Sequence Generation," accepted by _NeurIPs_ as **oral**, 2025
