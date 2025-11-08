@@ -17,6 +17,10 @@ show-avatar: false
 
 **Notations:** \* Corresponding Author; \# Equal Contribution.
 
+## 2026
+* **[AAAI]** Ho Yin Au, Junkun Jiang, Jie Chen, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," accepted by _AAAI_, 2026
+
+
 ## 2025
 * **[NeurIPs]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, Jingyu Xiang, "Deep Compositional Phase Diffusion for Long Motion Sequence Generation," accepted by _NeurIPs_ as **oral**, 2025
 * **[NeurIPs]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Unraveling Metameric Dilemma for Spectral Reconstruction: A High-Fidelity Approach via Semi-Supervised Learning," accepted by _NeurIPs_, 2025
