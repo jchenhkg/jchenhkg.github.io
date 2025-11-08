@@ -18,7 +18,7 @@ show-avatar: false
 **Notations:** \* Corresponding Author; \# Equal Contribution.
 
 ## 2026
-* **[AAAI]** Ho Yin Au, Junkun Jiang, Jie Chen, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," accepted by _AAAI_, 2026
+* **[AAAI]** Ho Yin Au, Junkun Jiang, **Jie Chen**\*, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," accepted by _AAAI_, 2026
 
 
 ## 2025
