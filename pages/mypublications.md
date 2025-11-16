@@ -15,9 +15,7 @@ show-avatar: false
 * **[TVCG]** Wenpeng Xing, **Jie Chen**, Xingxing Yang, Zaifeng Ynag, Ka Chun Cheung, Simon See, Yike Guo, "Decoding Rendering Factors via Cooperative Learning of Neural Bases and Spatial Feature Coefficients," manuscript under major revision in _IEEE Transactions on Visualization and Computer Graphics_
 -->
 
-**Notations:** 
-* \* Corresponding Author
-* \# Equal Contribution
+\* Corresponding Author; \# Equal Contribution
 
 ## 2026
 * **[AAAI]** Ho Yin Au, Junkun Jiang, **Jie Chen**\*, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," accepted by _AAAI_, 2026
