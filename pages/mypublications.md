@@ -18,7 +18,7 @@ show-avatar: false
 \* Corresponding Author; \# Equal Contribution
 
 ## 2026
-* **[ICLR]** Ruiqi Zhang, Jiacheng Wu, **Jie Chen**\*, "Mesh Splatting for End-to-end Multiview Surface Reconstruction," acceptyed by _International Conference on Learning Representations_, 2026
+* **[ICLR]** Ruiqi Zhang, Jiacheng Wu, **Jie Chen**\*, "Mesh Splatting for End-to-end Multiview Surface Reconstruction," accepted by _International Conference on Learning Representations_, 2026
 * **[TMM]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Jingyu Xiang, "Learning Context-Adaptive Motion Priors for Masked Motion Diffusion Models with Efficient Kinematic Attention Aggregation," accepted by _IEEE Transactions on Multimedia_, 2026
 * **[AAAI]** Ho Yin Au, Junkun Jiang, **Jie Chen**\*, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," accepted by _AAAI_, 2026
 * **[AAAI]** Jiacheng Wu, Ruiqi Zhang, **Jie Chen**\*, "Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement", accepted by _AAAI_, 2026
