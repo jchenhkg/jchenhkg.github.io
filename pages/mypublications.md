@@ -20,26 +20,26 @@ show-avatar: false
 ## 2026
 * **[CVPR]** Junkun Jiang, Ho Yin Au, Jingyu Xiang, **Jie Chen**\*, "LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference," accepted by _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2026
 * **[ICLR]** Ruiqi Zhang, Jiacheng Wu, **Jie Chen**\*, "Mesh Splatting for End-to-end Multiview Surface Reconstruction," accepted by _International Conference on Learning Representations_, 2026
-* **[TMM]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Jingyu Xiang, "Learning Context-Adaptive Motion Priors for Masked Motion Diffusion Models with Efficient Kinematic Attention Aggregation," accepted by _IEEE Transactions on Multimedia_, 2026
-* **[AAAI]** Ho Yin Au, Junkun Jiang, **Jie Chen**\*, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," accepted by _AAAI_, 2026
-* **[AAAI]** Jiacheng Wu, Ruiqi Zhang, **Jie Chen**\*, "Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement", accepted by _AAAI_, 2026
-* **[AAAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, "SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs", accepted by _AAAI_, 2026
+* **[TMM]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Jingyu Xiang, "Learning Context-Adaptive Motion Priors for Masked Motion Diffusion Models with Efficient Kinematic Attention Aggregation," accepted by _IEEE Transactions on Multimedia_, 2026 (arXiv:2603.07697)
+* **[AAAI]** Ho Yin Au, Junkun Jiang, **Jie Chen**\*, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," _AAAI Conference on Artificial Intelligence_, vol 40, no. 24, pp. 19632-19639, 2026
+* **[AAAI]** Jiacheng Wu, Ruiqi Zhang, **Jie Chen**\*, "Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement", ”, _AAAI Conference on Artificial Intelligence_, Vol. 40, No. 13, pp. 10655-10663, 2026
+* **[AAAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, "SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs", _AAAI Conference on Artificial Intelligence_, Vol. 40, No. 34, pp. 28928-28936, 2026
 
 ## 2025
-* **[NeurIPs]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, Jingyu Xiang, "Deep Compositional Phase Diffusion for Long Motion Sequence Generation," accepted by _NeurIPs_ as **oral**, 2025
-* **[NeurIPs]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Unraveling Metameric Dilemma for Spectral Reconstruction: A High-Fidelity Approach via Semi-Supervised Learning," accepted by _NeurIPs_, 2025
-* **[TVCG]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," accepted for publication in _IEEE Transactions on Visualization and Computer Graphics_, 2025
-* **[Siggraph Asia]** Ho Yin Au\#, Sheng Wang\#, Hongyun Sheng\#, Junkun Jiang, **Jie Chen**\*, "MoRAL: Interactive Motion Restyling via Posing and Tempo LoRAs," accepted by _Siggraph Asia_ as Technical Communications, 2025
-* **[IJCAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, Ching Eng Png, "Dual-Balancing for Physics-Informed Neural Networks," accepted for publication in _International Joint Conference on Artificial Intelligence_, 2025
-* **[ICME]** Jiacheng Wu\#, Ruiqi Zhang\#, **Jie Chen**\*, Hui Zhang, "Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars," _IEEE International Conference on Multimedia and Expo_, 2025
-* **[ICME]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Learning Physics-informed Color-aware Transforms for Low-light Image Enhancement," _IEEE International Conference on Multimedia and Expo_, 2025
-* **[ISCAS]** Shuwen Niu, Junkun Jiang and **Jie Chen**\*, ''Efficient Real-time Fine-Grained Action Recognition over a Progressive and Hierarchical Classification Framework," _IEEE International Symposium on Circuits and Systems_, 2025
-* **[ICASSP]** Wenpeng Xing, **Jie Chen**\*, Zaifeng Yang, Xin Tong, Changting Lin, Meng Han, "NCDI-Diffusion: Neural Contextual and Directional Inversion for Novel View Synthesis through Diffusion Models," _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2025
+* **[NeurIPs]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, Jingyu Xiang, "Deep Compositional Phase Diffusion for Long Motion Sequence Generation," _Annual Conference on Neural Information Processing Systems_ (NeurIPs), as **oral**, 2025
+* **[NeurIPs]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Unraveling Metameric Dilemma for Spectral Reconstruction: A High-Fidelity Approach via Semi-Supervised Learning," _Annual Conference on Neural Information Processing Systems_ (NeurIPs), 2025
+* **[TVCG]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Minyuan Chen, Wei Xue, Yike Guo, "Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud," accepted for publication in _IEEE Transactions on Visualization and Computer Graphics_, vol. 31, no. 10, pp. 7337-7349, 2025
+* **[Siggraph Asia]** Ho Yin Au\#, Sheng Wang\#, Hongyun Sheng\#, Junkun Jiang, **Jie Chen**\*, "MoRAL: Interactive Motion Restyling via Posing and Tempo LoRAs," accepted by _Siggraph Asia_ as Technical Communications, pp. 1-4, 2025
+* **[IJCAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, Ching Eng Png, "Dual-Balancing for Physics-Informed Neural Networks," _International Joint Conference on Artificial Intelligence_ (IJCAI), pp. 797-805, 2025
+* **[ICME]** Jiacheng Wu\#, Ruiqi Zhang\#, **Jie Chen**\*, Hui Zhang, "Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars," _IEEE International Conference on Multimedia and Expo_, pp. 1-6, 2025
+* **[ICME]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Learning Physics-informed Color-aware Transforms for Low-light Image Enhancement," _IEEE International Conference on Multimedia and Expo_, pp. 1-6, 2025
+* **[ISCAS]** Shuwen Niu, Junkun Jiang and **Jie Chen**\*, ''Efficient Real-time Fine-Grained Action Recognition over a Progressive and Hierarchical Classification Framework," _IEEE International Symposium on Circuits and Systems_, pp. 1-5, 2025
+* **[ICASSP]** Wenpeng Xing, **Jie Chen**\*, Zaifeng Yang, Xin Tong, Changting Lin, Meng Han, "NCDI-Diffusion: Neural Contextual and Directional Inversion for Novel View Synthesis through Diffusion Models," _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp. 1-5, 2025
 * **[3DV]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion", _International Conference on 3D Vision_, pp. 1-1, 2025
-* **[IROS]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories," accepted by _IEEE/RSJ International Conference on Intelligent Robots and Systems_, 2025
+* **[IROS]** Qingsong Yan, Qiang Wang, Kaiyong Zhao, **Jie Chen**, Bo Li, Xiaowen Chu, Fei Deng, "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories," accepted by _IEEE/RSJ International Conference on Intelligent Robots and Systems_, pp. 1-6, 2024
 
 ## 2024
-* **[MIR]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, vol., no. 2, pp. 771-781, 2024
+* **[MIR]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, and Yi-Ke Guo, "ReChoreoNet: Repertoire-based Dance Re-choreography with Music-conditioned Temporal and Style Clues," _Machine Intelligence Research_, vol. 21, no. 4, pp. 771-781, 2024
 * **[IJCNN]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, Alexander Matyasko, Ching Eng Png, "Enhanced Physics-Informed Neural Networks with Optimized Sensor Placement via Multi-Criteria Adaptive Sampling," _International Joint Conference on Neural Networks_, pp. 1-6, 2024
 * **[IJCNN]** Junkun Jiang, Ho Yin Au, **Jie Chen**\*, Jingyu Xiang and Mingyuan Chen, "Motion Part-Level Interpolation and Manipulation over Automatic Symbolic Labanotation Annotation," _International Joint Conference on Neural Networks_, pp. 1-8, 2024
 * **[AAAI]** Xingxing Yang, **Jie Chen**\*, Zaifeng Yang, "Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues," _AAAI Conference on Artificial Intelligence_, vol. 44, no. 10, pp. 6094-6110, 2024
@@ -49,7 +49,7 @@ show-avatar: false
   
 ## 2023
 
-* **[MIR]** Wenpeng Xing, **Jie Chen**\*, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," _Machine Intelligence Research, Springer_, vol. 20, no. 2, pp. 408-420, 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1381-9)]
+* **[MIR]** Wenpeng Xing, **Jie Chen**\*, and Yike Guo, "Robust Local Light Field Synthesis via Occlusion-aware Sampling and Deep Visual Feature Fusion," _Machine Intelligence Research, Springer_, vol. 20, no. 3, pp. 408-420, 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1381-9)]
 * **[ICLRW]** Chenhong Zhou, Xiaorui Zhang, Meng Gao, Shanshan Liu, Yike Guo, **Jie Chen**\*, "Long-lead forecasts of wintertime air stagnation index in southern China using oceanic memory effects," _International Conference on Learning Representations Workshops_, pp. 1-1, 2023
 * **[ICME]** Wenpeng Xing, **Jie Chen**\*, "CasTensoRF: Cascaded Tensorial Radiance Fields for Novel View Synthesis," _International Conference on Multimedia & Expo_, pp. 2183-2188, 2023
 * **[ACM MM]** Ruiqi Zhang, **Jie Chen**\*, Qiang Wang, "Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface," _ACM International Conference on Multimedia_, pp. 2183-2188, 2023 [[arXiv](https://arxiv.org/abs/2308.05112)]
