@@ -22,7 +22,7 @@ show-avatar: false
 * **[ICLR]** Ruiqi Zhang, Jiacheng Wu, **Jie Chen**\*, "Mesh Splatting for End-to-end Multiview Surface Reconstruction," accepted by _International Conference on Learning Representations_, 2026
 * **[TMM]** Junkun Jiang, **Jie Chen**\*, Ho Yin Au, Jingyu Xiang, "Learning Context-Adaptive Motion Priors for Masked Motion Diffusion Models with Efficient Kinematic Attention Aggregation," accepted by _IEEE Transactions on Multimedia_, 2026 (arXiv:2603.07697)
 * **[AAAI]** Ho Yin Au, Junkun Jiang, **Jie Chen**\*, "SOSControl: Enhancing Human Motion Generation through Saliency-Aware Symbolic Orientation and Timing Control," _AAAI Conference on Artificial Intelligence_, vol 40, no. 24, pp. 19632-19639, 2026
-* **[AAAI]** Jiacheng Wu, Ruiqi Zhang, **Jie Chen**\*, "Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement", ”, _AAAI Conference on Artificial Intelligence_, Vol. 40, No. 13, pp. 10655-10663, 2026
+* **[AAAI]** Jiacheng Wu, Ruiqi Zhang, **Jie Chen**\*, "Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement", _AAAI Conference on Artificial Intelligence_, Vol. 40, No. 13, pp. 10655-10663, 2026
 * **[AAAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, "SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs", _AAAI Conference on Artificial Intelligence_, Vol. 40, No. 34, pp. 28928-28936, 2026
 * **[AI4X]** Chenhong Zhou, Zaifeng Yang, Xinyu Yang, Wei Bin Ewe, Hangwei Qian, **Jie Chen**,  “Divergence-Constrained Physics-Informed Neural Networks for Time-Domain Maxwell's Equations”, AI4X – Accelerate Conference, 2026. (1st prize in poster presentation award)
 
