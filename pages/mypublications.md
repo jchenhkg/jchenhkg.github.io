@@ -26,7 +26,7 @@ show-avatar: false
 * **[AAAI]** Chenhong Zhou, **Jie Chen**\*, Zaifeng Yang, "SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs", _AAAI Conference on Artificial Intelligence_, Vol. 40, No. 34, pp. 28928-28936, 2026
 * **[AI4X]** Chenhong Zhou, Zaifeng Yang, Xinyu Yang, Wei Bin Ewe, Hangwei Qian, **Jie Chen**, "Divergence-Constrained Physics-Informed Neural Networks for Time-Domain Maxwell's Equations”, AI4X – Accelerate Conference, 2026. (1st Prize in Poster Presentation Award)
 * **[EMNLP Findings]** Zhe Yu, Wenpeng Xing, Yunzhao Wei, **Jie Chen**, Hongzhi Wang, Xuyang Teng, Meng Han, "Composition Collapse: Stable Factual Knowledge Does Not Imply Compositional Reasoning", _Findings of the Association for Computational Linguistics: EMNLP_, 2026
-* **[EMC²]** Hongrui Yu, Yihan Sun, Changyang She, Bohai Li, Qian Wang, Syed Ali Hassan, Qiang Wang, and **Jie Chen**, "A Wireless Camera Scheduling Framework for Low-Latency 3D Reconstruction," _IEEE International Conference on Embedded Systems_, Mobile Communication and Computing, pp. 163-169, 2026
+* **[EMC²]** Hongrui Yu, Yihan Sun, Changyang She, Bohai Li, Qian Wang, Syed Ali Hassan, Qiang Wang, and **Jie Chen**, "A Wireless Camera Scheduling Framework for Low-Latency 3D Reconstruction," _IEEE International Conference on Embedded Systems, Mobile Communication and Computing_, pp. 163-169, 2026
 
 ## 2025
 * **[NeurIPs]** Ho Yin Au, **Jie Chen**\*, Junkun Jiang, Jingyu Xiang, "Deep Compositional Phase Diffusion for Long Motion Sequence Generation," _Annual Conference on Neural Information Processing Systems_ (NeurIPs), as **oral**, 2025. [Online]. Available: [https://openreview.net/forum?id=jzPQRbGkAq](https://openreview.net/forum?id=jzPQRbGkAq).
