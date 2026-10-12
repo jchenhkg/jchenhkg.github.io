@@ -35,6 +35,7 @@
 - **ZHANG, Zheyuan** (Ph.D. 2026-; R.A. 2025), _B.Sc. HNU, M.Sc. U. Manchester_ (張哲源, 海南大學本科, U. Manchester 碩士).
 - **SHENG, Hongyun** (Ph.D. 2026-; R.A. 2025), _B.Sc. USST, M.Sc. U. Glasgow_ (盛泓雲, 上海理工大學本科, U. Glasgow 碩士).
 - **XIANG, Jingyu** (R.A. 2023-), _B.Sc. TJU, M.Sc. OSU_ (向靖宇, 天津大學本科, Oregon State U 碩士).
+- **DENG, Zhiyang** (MPhil, 2026-), _B.Sc. BNBU, M.Sc. BNBU_ (鄧智陽，北師港浸大本碩).
 - **WANG, Sheng** (Algorithm Engineer, 2024), _B.Sc. HBU, M.Sc. HBU_ (王盛,湖北大學本碩).
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Alumni</span></p>
