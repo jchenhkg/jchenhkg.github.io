@@ -19,34 +19,33 @@
 
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
 
-- **COMP1015** _Computing for Creatives I_ [2022,23,24-S1]
-- **COMP2037** _Computing for Creatives II_ [2023,24-S1]
+- **COMP1015** _Computing for Creatives I_ [2022,23,24,25-S1]
+- **COMP2037** _Computing for Creatives II_ [2023,24,25-S1]
 - **ITEC2016** _Data-Driven Visualisation for the Web_ [2020,21,22-S1]
 - **COMP4026** _Computer Vision and Pattern Recognition_ [2021-S1]
-- **COMP4025** _Interactive Computer Graphics_ [2019,20,21,22,23,24-S2]  
+- **COMP4025** _Interactive Computer Graphics_ [2019,20,21,22,23,24,25-S2]  
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
 
-**Current RPg Students**
-- **NIU, Shuwen** (Ph.D. 2024-), _B.Eng. FZU, M.Eng. XMU_ (牛姝雯, 福州大學本科, 廈門大學, 碩士).
+**Research Team**
+
 - **HE, Wenhao** (Ph.D. 2024-), _B.Sc. cityU, M.Sc. cityU_ (何文浩, 香港城市大學本科, 香港城市大學碩士).
 - **WU, Jiacheng** (Ph.D. 2023-), _B.Sc. CUHKSZ, M.Sc. HKUST_ (吳佳誠，港中深本科, 港科大碩士).
 - **AU, Ho Yin** (Ph.D. _HKPFS_ 2022-), _B.Sc. UIUC, M.Sc. UMass Amherst_ (歐浩然, UIUC本科, UMass Amherst碩士).
-- **JIANG, Junkun** (Ph.D. 2021-), _B.Eng. XMU, M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士).
-- **ZHANG, Ruiqi** (Ph.D. 2021-), _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩).
-- **YANG, Xingxing** (Ph.D. 2020-), _B.Sc. UESTC_ (楊星星, 電子科大本科).
-- **ZHOU, Chenhong** (Ph.D. 2020-), _B.Sc. CUG, M.Eng. SCUT_ (周晨紅, 中國地質大學本科，華南理工碩士).
-
-**Research Associates**
-- **HUANG, Di** (R.A. 2025-), _B.Sc. U. Iowa, M.Sc. ICL_ (黃迪, U. Iowa 本科, Imperial College London 碩士).
-- **ZHANG, Zheyuan** (R.A. 2025-), _B.Sc. HNU, M.Sc. U. Manchester_ (張哲源, 海南大學本科, U. Manchester 碩士).
-- **SHENG, Hongyun** (R.A. 2025-), _B.Sc. USST, M.Sc. U. Glasgow_ (盛泓雲, 上海理工大學本科, U. Glasgow 碩士).
+- **ZHANG, Zheyuan** (Ph.D. 2026-; R.A. 2025), _B.Sc. HNU, M.Sc. U. Manchester_ (張哲源, 海南大學本科, U. Manchester 碩士).
+- **SHENG, Hongyun** (Ph.D. 2026-; R.A. 2025), _B.Sc. USST, M.Sc. U. Glasgow_ (盛泓雲, 上海理工大學本科, U. Glasgow 碩士).
 - **XIANG, Jingyu** (R.A. 2023-), _B.Sc. TJU, M.Sc. OSU_ (向靖宇, 天津大學本科, Oregon State U 碩士).
-  
+- **WANG, Sheng** (Algorithm Engineer, 2024), _B.Sc. HBU, M.Sc. HBU_ (王盛,湖北大學本碩).
+-   
 <p><span style="font-family: georgia, serif; font-size: 26px;">Alumni</span></p>
 
 - **XING, Wenpeng** (Ph.D. 2020-2024), _B.Eng. HIT, PGDip. U Limerick_ (邢文鵬, 哈工大本科).
+- **YANG, Xingxing** (Ph.D. 2020-2026), _B.Sc. UESTC_ (楊星星, 電子科大本科).
+- **ZHOU, Chenhong** (Ph.D. 2020-2025), _B.Sc. CUG, M.Eng. SCUT_ (周晨紅, 中國地質大學本科，華南理工碩士).
+- **ZHANG, Ruiqi** (Ph.D. 2021-2025; Post-doc 2025-2026), _B.Sc. and M.Eng. XJTU_ (張瑞琦, 西安交大本/碩).
+- **JIANG, Junkun** (Ph.D. 2021-2026), _B.Eng. XMU, M.Eng. SYSU_, (姜俊錕，廈門大學本科，中山大學碩士).
 - **LIANG, Bo** (R.A. 2022-2023), _B.Sc. HUST_ (梁博，華中科技大學本科).
 - **WANG, Yuan** (R.A. 2024), _B.Eng. and M.Sc. SDU_ (王媛, 山東大學本科/碩士).
-  
+- **NIU, Shuwen** (R.A. 2023-2024), _B.Eng. FZU, M.Eng. XMU_ (牛姝雯, 福州大學本科, 廈門大學, 碩士).
+- **HUANG, Di** (R.A. 2025), _B.Sc. U. Iowa, M.Sc. ICL_ (黃迪, U. Iowa 本科, Imperial College London 碩士).  
 
